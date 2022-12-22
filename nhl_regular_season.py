@@ -39,7 +39,7 @@ def play_game(away_team, home_team):
 
     winner_number = random.random()
     ot_number = random.random()
-    ot = (ot_number <= 0.231)
+    ot = (ot_number <= 0.21875)
     
     if winner_number > 0.54:
         result_str = away_team + " beat " + home_team
