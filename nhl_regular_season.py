@@ -87,10 +87,6 @@ time_stamp = time.time()
 output_name = "nhl_team_records_" + str(time_stamp) + ".txt"
 record_output = open(output_name, "w")
 
-# for game in GAME_RESULTS:
-#     output.write(game)
-#     output.write("\n")
-
 for team in TEAMS:
     team_data = TEAMS[team]
 
