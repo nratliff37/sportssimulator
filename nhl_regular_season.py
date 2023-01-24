@@ -86,11 +86,8 @@ def play_game(away_team, home_team):
     GAME_RESULTS.append(result_str)
 
 # Main Script
-print("Simulating regular season...")
-time.sleep(1)
-print("This will take approximately 22 minutes")
 parser = argparse.ArgumentParser()
-parser.add_argument('-s', '--schedule' , help='the text file for the schedule')
+parser.add_argument('-s', '--schedule' , help='the text file for the schedule in the format Y1Y2 (i.e 2223 for 2022-2023)')
 
 try:
     args = parser.parse_args()
@@ -103,7 +100,16 @@ except:
 create_teams()
 
 # Read the schedule file and parse through the games
-schedule_file = open(schedule, "r")
+try:
+    file_path = ".\schedules\\" + schedule + ".txt"
+    schedule_file = open(file_path, "r")
+except:
+    print("Invalid schedule given.")
+    exit()
+
+print("Simulating regular season...")
+time.sleep(1)
+print("This will take approximately 22 minutes")
 
 GAMES_LEFT = 82 * 16
 for game in schedule_file:
