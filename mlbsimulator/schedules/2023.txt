@@ -1,2430 +1,2430 @@
-San Francisco Giants @ New York Yankees
-Atlanta Braves @ Washington Nationals
-Baltimore Orioles @ Boston Red Sox
-Milwaukee Brewers @ Chicago Cubs
-Detroit Tigers @ Tampa Bay Rays
-Philadelphia Phillies @ Texas Rangers
-Pittsburgh Pirates @ Cincinnati Reds
-Minnesota Twins @ Kansas City Royals
-New York Mets @ Miami Marlins
-Colorado Rockies @ San Diego Padres
-Toronto Blue Jays @ St. Louis Cardinals
-Chicago White Sox @ Houston Astros
-Los Angeles Angels @ Oakland Athletics
-Arizona D'Backs @ Los Angeles Dodgers
-Cleveland Guardians @ Seattle Mariners
-New York Mets @ Miami Marlins
-Chicago White Sox @ Houston Astros
-Colorado Rockies @ San Diego Padres
-Arizona D'Backs @ Los Angeles Dodgers
-Cleveland Guardians @ Seattle Mariners
-Chicago White Sox @ Houston Astros
-Toronto Blue Jays @ St. Louis Cardinals
-Milwaukee Brewers @ Chicago Cubs
-San Francisco Giants @ New York Yankees
-Philadelphia Phillies @ Texas Rangers
-Atlanta Braves @ Washington Nationals
-Los Angeles Angels @ Oakland Athletics
-Baltimore Orioles @ Boston Red Sox
-Pittsburgh Pirates @ Cincinnati Reds
-Minnesota Twins @ Kansas City Royals
-New York Mets @ Miami Marlins
-Detroit Tigers @ Tampa Bay Rays
-Colorado Rockies @ San Diego Padres
-Arizona D'Backs @ Los Angeles Dodgers
-Cleveland Guardians @ Seattle Mariners
-Detroit Tigers @ Tampa Bay Rays
-Baltimore Orioles @ Boston Red Sox
-San Francisco Giants @ New York Yankees
-Atlanta Braves @ Washington Nationals
-Pittsburgh Pirates @ Cincinnati Reds
-New York Mets @ Miami Marlins
-Chicago White Sox @ Houston Astros
-Minnesota Twins @ Kansas City Royals
-Toronto Blue Jays @ St. Louis Cardinals
-Milwaukee Brewers @ Chicago Cubs
-Los Angeles Angels @ Oakland Athletics
-Arizona D'Backs @ Los Angeles Dodgers
-Colorado Rockies @ San Diego Padres
-Cleveland Guardians @ Seattle Mariners
-Philadelphia Phillies @ Texas Rangers
-New York Mets @ Milwaukee Brewers
-San Francisco Giants @ Chicago White Sox
-Chicago Cubs @ Cincinnati Reds
-Minnesota Twins @ Miami Marlins
-Philadelphia Phillies @ New York Yankees
-Tampa Bay Rays @ Washington Nationals
-Pittsburgh Pirates @ Boston Red Sox
-Toronto Blue Jays @ Kansas City Royals
-Atlanta Braves @ St. Louis Cardinals
-Baltimore Orioles @ Texas Rangers
-Detroit Tigers @ Houston Astros
-Cleveland Guardians @ Oakland Athletics
-Arizona D'Backs @ San Diego Padres
-Los Angeles Angels @ Seattle Mariners
-Colorado Rockies @ Los Angeles Dodgers
-Arizona D'Backs @ San Diego Padres
-Chicago Cubs @ Cincinnati Reds
-Minnesota Twins @ Miami Marlins
-Philadelphia Phillies @ New York Yankees
-Tampa Bay Rays @ Washington Nationals
-Pittsburgh Pirates @ Boston Red Sox
-Toronto Blue Jays @ Kansas City Royals
-New York Mets @ Milwaukee Brewers
-Atlanta Braves @ St. Louis Cardinals
-Baltimore Orioles @ Texas Rangers
-Detroit Tigers @ Houston Astros
-Cleveland Guardians @ Oakland Athletics
-Los Angeles Angels @ Seattle Mariners
-Colorado Rockies @ Los Angeles Dodgers
-Chicago Cubs @ Cincinnati Reds
-Philadelphia Phillies @ New York Yankees
-Tampa Bay Rays @ Washington Nationals
-Minnesota Twins @ Miami Marlins
-Atlanta Braves @ St. Louis Cardinals
-Pittsburgh Pirates @ Boston Red Sox
-New York Mets @ Milwaukee Brewers
-Baltimore Orioles @ Texas Rangers
-San Francisco Giants @ Chicago White Sox
-Detroit Tigers @ Houston Astros
-Cleveland Guardians @ Oakland Athletics
-Los Angeles Angels @ Seattle Mariners
-Toronto Blue Jays @ Kansas City Royals
-Boston Red Sox @ Detroit Tigers
-Miami Marlins @ New York Mets
-San Francisco Giants @ Chicago White Sox
-Toronto Blue Jays @ Kansas City Royals
-New York Yankees @ Baltimore Orioles
-Cincinnati Reds @ Philadelphia Phillies
-Washington Nationals @ Colorado Rockies
-Houston Astros @ Minnesota Twins
-San Diego Padres @ Atlanta Braves
-Los Angeles Dodgers @ Arizona D'Backs
-Texas Rangers @ Chicago Cubs
-Seattle Mariners @ Cleveland Guardians
-Chicago White Sox @ Pittsburgh Pirates
-Kansas City Royals @ San Francisco Giants
-Oakland Athletics @ Tampa Bay Rays
-San Diego Padres @ Atlanta Braves
-St. Louis Cardinals @ Milwaukee Brewers
-Washington Nationals @ Colorado Rockies
-Toronto Blue Jays @ Los Angeles Angels
-Los Angeles Dodgers @ Arizona D'Backs
-Houston Astros @ Minnesota Twins
-Texas Rangers @ Chicago Cubs
-Cincinnati Reds @ Philadelphia Phillies
-Kansas City Royals @ San Francisco Giants
-Boston Red Sox @ Detroit Tigers
-Miami Marlins @ New York Mets
-Oakland Athletics @ Tampa Bay Rays
-Seattle Mariners @ Cleveland Guardians
-Chicago White Sox @ Pittsburgh Pirates
-New York Yankees @ Baltimore Orioles
-St. Louis Cardinals @ Milwaukee Brewers
-San Diego Padres @ Atlanta Braves
-Los Angeles Dodgers @ Arizona D'Backs
-Washington Nationals @ Colorado Rockies
-Toronto Blue Jays @ Los Angeles Angels
-Cincinnati Reds @ Philadelphia Phillies
-Boston Red Sox @ Detroit Tigers
-Oakland Athletics @ Tampa Bay Rays
-New York Yankees @ Baltimore Orioles
-Chicago White Sox @ Pittsburgh Pirates
-Seattle Mariners @ Cleveland Guardians
-Miami Marlins @ New York Mets
-St. Louis Cardinals @ Milwaukee Brewers
-Houston Astros @ Minnesota Twins
-Texas Rangers @ Chicago Cubs
-Washington Nationals @ Colorado Rockies
-Kansas City Royals @ San Francisco Giants
-Toronto Blue Jays @ Los Angeles Angels
-Los Angeles Dodgers @ Arizona D'Backs
-San Diego Padres @ Atlanta Braves
-Chicago White Sox @ Minnesota Twins
-New York Yankees @ Cleveland Guardians
-Oakland Athletics @ Baltimore Orioles
-Houston Astros @ Pittsburgh Pirates
-Miami Marlins @ Philadelphia Phillies
-Boston Red Sox @ Tampa Bay Rays
-San Diego Padres @ New York Mets
-Cincinnati Reds @ Atlanta Braves
-Seattle Mariners @ Chicago Cubs
-Kansas City Royals @ Texas Rangers
-St. Louis Cardinals @ Colorado Rockies
-Washington Nationals @ Los Angeles Angels
-Milwaukee Brewers @ Arizona D'Backs
-Los Angeles Dodgers @ San Francisco Giants
-New York Yankees @ Cleveland Guardians
-Oakland Athletics @ Baltimore Orioles
-Houston Astros @ Pittsburgh Pirates
-Miami Marlins @ Philadelphia Phillies
-Boston Red Sox @ Tampa Bay Rays
-Detroit Tigers @ Toronto Blue Jays
-San Diego Padres @ New York Mets
-Cincinnati Reds @ Atlanta Braves
-Seattle Mariners @ Chicago Cubs
-Chicago White Sox @ Minnesota Twins
-Kansas City Royals @ Texas Rangers
-St. Louis Cardinals @ Colorado Rockies
-Washington Nationals @ Los Angeles Angels
-Milwaukee Brewers @ Arizona D'Backs
-Los Angeles Dodgers @ San Francisco Giants
-Houston Astros @ Pittsburgh Pirates
-New York Yankees @ Cleveland Guardians
-Chicago White Sox @ Minnesota Twins
-San Diego Padres @ New York Mets
-Seattle Mariners @ Chicago Cubs
-St. Louis Cardinals @ Colorado Rockies
-Milwaukee Brewers @ Arizona D'Backs
-Miami Marlins @ Philadelphia Phillies
-Washington Nationals @ Los Angeles Angels
-Oakland Athletics @ Baltimore Orioles
-Boston Red Sox @ Tampa Bay Rays
-Detroit Tigers @ Toronto Blue Jays
-Cincinnati Reds @ Atlanta Braves
-Kansas City Royals @ Texas Rangers
-Los Angeles Dodgers @ San Francisco Giants
-Oakland Athletics @ Baltimore Orioles
-Boston Red Sox @ Tampa Bay Rays
-Philadelphia Phillies @ Cincinnati Reds
-Minnesota Twins @ New York Yankees
-Detroit Tigers @ Toronto Blue Jays
-Pittsburgh Pirates @ St. Louis Cardinals
-Milwaukee Brewers @ San Diego Padres
-Philadelphia Phillies @ Cincinnati Reds
-San Francisco Giants @ Detroit Tigers
-Arizona D'Backs @ Miami Marlins
-Minnesota Twins @ New York Yankees
-Cleveland Guardians @ Washington Nationals
-Tampa Bay Rays @ Toronto Blue Jays
-Los Angeles Angels @ Boston Red Sox
-Baltimore Orioles @ Chicago White Sox
-Texas Rangers @ Houston Astros
-Atlanta Braves @ Kansas City Royals
-Pittsburgh Pirates @ St. Louis Cardinals
-New York Mets @ Oakland Athletics
-Milwaukee Brewers @ San Diego Padres
-Chicago Cubs @ Los Angeles Dodgers
-Colorado Rockies @ Seattle Mariners
-Minnesota Twins @ New York Yankees
-San Francisco Giants @ Detroit Tigers
-Baltimore Orioles @ Chicago White Sox
-Pittsburgh Pirates @ St. Louis Cardinals
-Tampa Bay Rays @ Toronto Blue Jays
-Milwaukee Brewers @ San Diego Padres
-Cleveland Guardians @ Washington Nationals
-New York Mets @ Oakland Athletics
-Los Angeles Angels @ Boston Red Sox
-Philadelphia Phillies @ Cincinnati Reds
-Atlanta Braves @ Kansas City Royals
-Arizona D'Backs @ Miami Marlins
-Texas Rangers @ Houston Astros
-Chicago Cubs @ Los Angeles Dodgers
-Colorado Rockies @ Seattle Mariners
-San Francisco Giants @ Detroit Tigers
-Los Angeles Angels @ Boston Red Sox
-Minnesota Twins @ New York Yankees
-Cleveland Guardians @ Washington Nationals
-Tampa Bay Rays @ Toronto Blue Jays
-Philadelphia Phillies @ Cincinnati Reds
-Arizona D'Backs @ Miami Marlins
-Baltimore Orioles @ Chicago White Sox
-Atlanta Braves @ Kansas City Royals
-Pittsburgh Pirates @ St. Louis Cardinals
-New York Mets @ Oakland Athletics
-Chicago Cubs @ Los Angeles Dodgers
-Milwaukee Brewers @ San Diego Padres
-Colorado Rockies @ Seattle Mariners
-Texas Rangers @ Houston Astros
-Los Angeles Angels @ Boston Red Sox
-Tampa Bay Rays @ Cincinnati Reds
-Cleveland Guardians @ Detroit Tigers
-San Francisco Giants @ Miami Marlins
-Philadelphia Phillies @ Chicago White Sox
-Texas Rangers @ Kansas City Royals
-Arizona D'Backs @ St. Louis Cardinals
-Toronto Blue Jays @ Houston Astros
-Pittsburgh Pirates @ Colorado Rockies
-Chicago Cubs @ Oakland Athletics
-Atlanta Braves @ San Diego Padres
-Milwaukee Brewers @ Seattle Mariners
-New York Mets @ Los Angeles Dodgers
-Tampa Bay Rays @ Cincinnati Reds
-Cleveland Guardians @ Detroit Tigers
-San Francisco Giants @ Miami Marlins
-Los Angeles Angels @ New York Yankees
-Baltimore Orioles @ Washington Nationals
-Minnesota Twins @ Boston Red Sox
-Philadelphia Phillies @ Chicago White Sox
-Texas Rangers @ Kansas City Royals
-Arizona D'Backs @ St. Louis Cardinals
-Toronto Blue Jays @ Houston Astros
-Pittsburgh Pirates @ Colorado Rockies
-Chicago Cubs @ Oakland Athletics
-Atlanta Braves @ San Diego Padres
-Milwaukee Brewers @ Seattle Mariners
-New York Mets @ Los Angeles Dodgers
-Tampa Bay Rays @ Cincinnati Reds
-Cleveland Guardians @ Detroit Tigers
-San Francisco Giants @ Miami Marlins
-Arizona D'Backs @ St. Louis Cardinals
-Philadelphia Phillies @ Chicago White Sox
-Texas Rangers @ Kansas City Royals
-Pittsburgh Pirates @ Colorado Rockies
-New York Mets @ Los Angeles Dodgers
-Chicago Cubs @ Oakland Athletics
-Atlanta Braves @ San Diego Padres
-Milwaukee Brewers @ Seattle Mariners
-Los Angeles Angels @ New York Yankees
-Baltimore Orioles @ Washington Nationals
-Minnesota Twins @ Boston Red Sox
-Toronto Blue Jays @ Houston Astros
-Minnesota Twins @ Boston Red Sox
-Los Angeles Angels @ New York Yankees
-Cincinnati Reds @ Pittsburgh Pirates
-Colorado Rockies @ Philadelphia Phillies
-Los Angeles Dodgers @ Chicago Cubs
-San Diego Padres @ Arizona D'Backs
-New York Mets @ San Francisco Giants
-Los Angeles Dodgers @ Chicago Cubs
-Cincinnati Reds @ Pittsburgh Pirates
-Chicago White Sox @ Tampa Bay Rays
-Detroit Tigers @ Baltimore Orioles
-Toronto Blue Jays @ New York Yankees
-Colorado Rockies @ Philadelphia Phillies
-Miami Marlins @ Cleveland Guardians
-Houston Astros @ Atlanta Braves
-Oakland Athletics @ Texas Rangers
-Boston Red Sox @ Milwaukee Brewers
-Washington Nationals @ Minnesota Twins
-Kansas City Royals @ Los Angeles Angels
-San Diego Padres @ Arizona D'Backs
-St. Louis Cardinals @ Seattle Mariners
-New York Mets @ San Francisco Giants
-Toronto Blue Jays @ New York Yankees
-Washington Nationals @ Minnesota Twins
-Los Angeles Dodgers @ Chicago Cubs
-Colorado Rockies @ Philadelphia Phillies
-New York Mets @ San Francisco Giants
-Chicago White Sox @ Tampa Bay Rays
-Miami Marlins @ Cleveland Guardians
-Cincinnati Reds @ Pittsburgh Pirates
-Detroit Tigers @ Baltimore Orioles
-Oakland Athletics @ Texas Rangers
-Boston Red Sox @ Milwaukee Brewers
-Houston Astros @ Atlanta Braves
-San Diego Padres @ Arizona D'Backs
-Kansas City Royals @ Los Angeles Angels
-St. Louis Cardinals @ Seattle Mariners
-Colorado Rockies @ Philadelphia Phillies
-Houston Astros @ Atlanta Braves
-Detroit Tigers @ Baltimore Orioles
-Toronto Blue Jays @ New York Yankees
-Cincinnati Reds @ Pittsburgh Pirates
-Miami Marlins @ Cleveland Guardians
-Chicago White Sox @ Tampa Bay Rays
-Boston Red Sox @ Milwaukee Brewers
-Washington Nationals @ Minnesota Twins
-Los Angeles Dodgers @ Chicago Cubs
-Oakland Athletics @ Texas Rangers
-Kansas City Royals @ Los Angeles Angels
-San Diego Padres @ Arizona D'Backs
-St. Louis Cardinals @ Seattle Mariners
-New York Mets @ San Francisco Giants
-Colorado Rockies @ Cleveland Guardians
-Boston Red Sox @ Baltimore Orioles
-Texas Rangers @ Cincinnati Reds
-Houston Astros @ Tampa Bay Rays
-Chicago White Sox @ Toronto Blue Jays
-Miami Marlins @ Atlanta Braves
-Detroit Tigers @ Milwaukee Brewers
-New York Yankees @ Minnesota Twins
-Oakland Athletics @ Los Angeles Angels
-Kansas City Royals @ Arizona D'Backs
-St. Louis Cardinals @ San Francisco Giants
-Colorado Rockies @ Cleveland Guardians
-Boston Red Sox @ Baltimore Orioles
-Los Angeles Dodgers @ Pittsburgh Pirates
-Texas Rangers @ Cincinnati Reds
-Seattle Mariners @ Philadelphia Phillies
-Houston Astros @ Tampa Bay Rays
-Chicago White Sox @ Toronto Blue Jays
-Washington Nationals @ New York Mets
-Miami Marlins @ Atlanta Braves
-San Diego Padres @ Chicago Cubs
-Detroit Tigers @ Milwaukee Brewers
-New York Yankees @ Minnesota Twins
-Oakland Athletics @ Los Angeles Angels
-Kansas City Royals @ Arizona D'Backs
-St. Louis Cardinals @ San Francisco Giants
-Texas Rangers @ Cincinnati Reds
-Boston Red Sox @ Baltimore Orioles
-Chicago White Sox @ Toronto Blue Jays
-Colorado Rockies @ Cleveland Guardians
-New York Yankees @ Minnesota Twins
-Detroit Tigers @ Milwaukee Brewers
-Kansas City Royals @ Arizona D'Backs
-Los Angeles Dodgers @ Pittsburgh Pirates
-Seattle Mariners @ Philadelphia Phillies
-Houston Astros @ Tampa Bay Rays
-Washington Nationals @ New York Mets
-Miami Marlins @ Atlanta Braves
-San Diego Padres @ Chicago Cubs
-Oakland Athletics @ Los Angeles Angels
-St. Louis Cardinals @ San Francisco Giants
-Miami Marlins @ Atlanta Braves
-Los Angeles Dodgers @ Pittsburgh Pirates
-Seattle Mariners @ Philadelphia Phillies
-San Diego Padres @ Chicago Cubs
-St. Louis Cardinals @ San Francisco Giants
-Oakland Athletics @ Los Angeles Angels
-Baltimore Orioles @ Detroit Tigers
-Tampa Bay Rays @ Chicago White Sox
-Washington Nationals @ New York Mets
-Kansas City Royals @ Minnesota Twins
-New York Yankees @ Texas Rangers
-Kansas City Royals @ Minnesota Twins
-Baltimore Orioles @ Detroit Tigers
-Chicago Cubs @ Miami Marlins
-Pittsburgh Pirates @ Washington Nationals
-Seattle Mariners @ Toronto Blue Jays
-Cleveland Guardians @ Boston Red Sox
-Tampa Bay Rays @ Chicago White Sox
-Atlanta Braves @ New York Mets
-New York Yankees @ Texas Rangers
-Philadelphia Phillies @ Houston Astros
-Los Angeles Angels @ Milwaukee Brewers
-Arizona D'Backs @ Colorado Rockies
-Cincinnati Reds @ Oakland Athletics
-St. Louis Cardinals @ Los Angeles Dodgers
-Pittsburgh Pirates @ Washington Nationals
-Baltimore Orioles @ Detroit Tigers
-Kansas City Royals @ Minnesota Twins
-Seattle Mariners @ Toronto Blue Jays
-Chicago Cubs @ Miami Marlins
-Atlanta Braves @ New York Mets
-Cincinnati Reds @ Oakland Athletics
-Cleveland Guardians @ Boston Red Sox
-San Francisco Giants @ San Diego Padres
-Philadelphia Phillies @ Houston Astros
-New York Yankees @ Texas Rangers
-Tampa Bay Rays @ Chicago White Sox
-Los Angeles Angels @ Milwaukee Brewers
-Arizona D'Backs @ Colorado Rockies
-St. Louis Cardinals @ Los Angeles Dodgers
-Chicago Cubs @ Miami Marlins
-Cleveland Guardians @ Boston Red Sox
-Pittsburgh Pirates @ Washington Nationals
-Seattle Mariners @ Toronto Blue Jays
-Baltimore Orioles @ Detroit Tigers
-Atlanta Braves @ New York Mets
-Tampa Bay Rays @ Chicago White Sox
-Los Angeles Angels @ Milwaukee Brewers
-Kansas City Royals @ Minnesota Twins
-New York Yankees @ Texas Rangers
-San Francisco Giants @ San Diego Padres
-Arizona D'Backs @ Colorado Rockies
-Cincinnati Reds @ Oakland Athletics
-St. Louis Cardinals @ Los Angeles Dodgers
-Philadelphia Phillies @ Houston Astros
-Atlanta Braves @ New York Mets
-Cleveland Guardians @ New York Yankees
-Chicago Cubs @ Washington Nationals
-Toronto Blue Jays @ Boston Red Sox
-San Francisco Giants @ Houston Astros
-Cincinnati Reds @ San Diego Padres
-Philadelphia Phillies @ Los Angeles Dodgers
-New York Mets @ Detroit Tigers
-Atlanta Braves @ Miami Marlins
-Pittsburgh Pirates @ Tampa Bay Rays
-Cleveland Guardians @ New York Yankees
-Chicago Cubs @ Washington Nationals
-Toronto Blue Jays @ Boston Red Sox
-Minnesota Twins @ Chicago White Sox
-Baltimore Orioles @ Kansas City Royals
-Los Angeles Angels @ St. Louis Cardinals
-Arizona D'Backs @ Texas Rangers
-San Francisco Giants @ Houston Astros
-Milwaukee Brewers @ Colorado Rockies
-Seattle Mariners @ Oakland Athletics
-Cincinnati Reds @ San Diego Padres
-Philadelphia Phillies @ Los Angeles Dodgers
-Arizona D'Backs @ Texas Rangers
-San Francisco Giants @ Houston Astros
-Philadelphia Phillies @ Los Angeles Dodgers
-Cincinnati Reds @ San Diego Padres
-New York Mets @ Detroit Tigers
-Atlanta Braves @ Miami Marlins
-Pittsburgh Pirates @ Tampa Bay Rays
-Cleveland Guardians @ New York Yankees
-Chicago Cubs @ Washington Nationals
-Toronto Blue Jays @ Boston Red Sox
-Minnesota Twins @ Chicago White Sox
-Baltimore Orioles @ Kansas City Royals
-Los Angeles Angels @ St. Louis Cardinals
-Milwaukee Brewers @ Colorado Rockies
-Seattle Mariners @ Oakland Athletics
-Chicago Cubs @ Washington Nationals
-New York Mets @ Detroit Tigers
-Pittsburgh Pirates @ Tampa Bay Rays
-Los Angeles Angels @ St. Louis Cardinals
-Minnesota Twins @ Chicago White Sox
-Baltimore Orioles @ Kansas City Royals
-Milwaukee Brewers @ Colorado Rockies
-Seattle Mariners @ Oakland Athletics
-Atlanta Braves @ Miami Marlins
-Toronto Blue Jays @ Boston Red Sox
-Miami Marlins @ Chicago Cubs
-Toronto Blue Jays @ Pittsburgh Pirates
-Chicago White Sox @ Cincinnati Reds
-New York Yankees @ Tampa Bay Rays
-Boston Red Sox @ Philadelphia Phillies
-Minnesota Twins @ Cleveland Guardians
-Colorado Rockies @ New York Mets
-Baltimore Orioles @ Atlanta Braves
-Oakland Athletics @ Kansas City Royals
-Detroit Tigers @ St. Louis Cardinals
-Texas Rangers @ Los Angeles Angels
-Washington Nationals @ Arizona D'Backs
-Los Angeles Dodgers @ San Diego Padres
-Houston Astros @ Seattle Mariners
-Milwaukee Brewers @ San Francisco Giants
-Detroit Tigers @ St. Louis Cardinals
-Miami Marlins @ Chicago Cubs
-Colorado Rockies @ New York Mets
-New York Yankees @ Tampa Bay Rays
-Minnesota Twins @ Cleveland Guardians
-Toronto Blue Jays @ Pittsburgh Pirates
-Chicago White Sox @ Cincinnati Reds
-Oakland Athletics @ Kansas City Royals
-Baltimore Orioles @ Atlanta Braves
-Boston Red Sox @ Philadelphia Phillies
-Milwaukee Brewers @ San Francisco Giants
-Washington Nationals @ Arizona D'Backs
-Los Angeles Dodgers @ San Diego Padres
-Texas Rangers @ Los Angeles Angels
-Houston Astros @ Seattle Mariners
-Baltimore Orioles @ Atlanta Braves
-Boston Red Sox @ Philadelphia Phillies
-Toronto Blue Jays @ Pittsburgh Pirates
-Minnesota Twins @ Cleveland Guardians
-Colorado Rockies @ New York Mets
-New York Yankees @ Tampa Bay Rays
-Oakland Athletics @ Kansas City Royals
-Detroit Tigers @ St. Louis Cardinals
-Miami Marlins @ Chicago Cubs
-Milwaukee Brewers @ San Francisco Giants
-Texas Rangers @ Los Angeles Angels
-Washington Nationals @ Arizona D'Backs
-Chicago White Sox @ Cincinnati Reds
-Houston Astros @ Seattle Mariners
-Los Angeles Dodgers @ San Diego Padres
-Detroit Tigers @ Cleveland Guardians
-Tampa Bay Rays @ Baltimore Orioles
-Colorado Rockies @ Pittsburgh Pirates
-Oakland Athletics @ New York Yankees
-St. Louis Cardinals @ Chicago Cubs
-Chicago White Sox @ Kansas City Royals
-Los Angeles Dodgers @ Milwaukee Brewers
-Houston Astros @ Los Angeles Angels
-Miami Marlins @ Arizona D'Backs
-Texas Rangers @ Seattle Mariners
-Washington Nationals @ San Francisco Giants
-Detroit Tigers @ Cleveland Guardians
-Tampa Bay Rays @ Baltimore Orioles
-Colorado Rockies @ Pittsburgh Pirates
-New York Mets @ Cincinnati Reds
-Toronto Blue Jays @ Philadelphia Phillies
-Oakland Athletics @ New York Yankees
-Boston Red Sox @ Atlanta Braves
-St. Louis Cardinals @ Chicago Cubs
-Chicago White Sox @ Kansas City Royals
-Los Angeles Dodgers @ Milwaukee Brewers
-San Diego Padres @ Minnesota Twins
-Houston Astros @ Los Angeles Angels
-Miami Marlins @ Arizona D'Backs
-Texas Rangers @ Seattle Mariners
-Washington Nationals @ San Francisco Giants
-Oakland Athletics @ New York Yankees
-Colorado Rockies @ Pittsburgh Pirates
-Detroit Tigers @ Cleveland Guardians
-Los Angeles Dodgers @ Milwaukee Brewers
-Miami Marlins @ Arizona D'Backs
-Texas Rangers @ Seattle Mariners
-Washington Nationals @ San Francisco Giants
-Toronto Blue Jays @ Philadelphia Phillies
-Houston Astros @ Los Angeles Angels
-Tampa Bay Rays @ Baltimore Orioles
-New York Mets @ Cincinnati Reds
-Boston Red Sox @ Atlanta Braves
-St. Louis Cardinals @ Chicago Cubs
-Chicago White Sox @ Kansas City Royals
-San Diego Padres @ Minnesota Twins
-New York Mets @ Cincinnati Reds
-San Diego Padres @ Minnesota Twins
-Chicago White Sox @ Kansas City Royals
-Tampa Bay Rays @ New York Yankees
-San Francisco Giants @ Arizona D'Backs
-Texas Rangers @ Oakland Athletics
-Seattle Mariners @ Detroit Tigers
-Cincinnati Reds @ Miami Marlins
-Pittsburgh Pirates @ Baltimore Orioles
-Tampa Bay Rays @ New York Yankees
-New York Mets @ Washington Nationals
-Atlanta Braves @ Toronto Blue Jays
-St. Louis Cardinals @ Boston Red Sox
-Los Angeles Angels @ Cleveland Guardians
-Houston Astros @ Chicago White Sox
-Kansas City Royals @ Milwaukee Brewers
-Chicago Cubs @ Minnesota Twins
-Philadelphia Phillies @ Colorado Rockies
-San Francisco Giants @ Arizona D'Backs
-Texas Rangers @ Oakland Athletics
-San Diego Padres @ Los Angeles Dodgers
-Tampa Bay Rays @ New York Yankees
-Seattle Mariners @ Detroit Tigers
-Cincinnati Reds @ Miami Marlins
-Chicago Cubs @ Minnesota Twins
-Atlanta Braves @ Toronto Blue Jays
-New York Mets @ Washington Nationals
-Texas Rangers @ Oakland Athletics
-St. Louis Cardinals @ Boston Red Sox
-Los Angeles Angels @ Cleveland Guardians
-Pittsburgh Pirates @ Baltimore Orioles
-Kansas City Royals @ Milwaukee Brewers
-Houston Astros @ Chicago White Sox
-San Diego Padres @ Los Angeles Dodgers
-San Francisco Giants @ Arizona D'Backs
-Philadelphia Phillies @ Colorado Rockies
-Los Angeles Angels @ Cleveland Guardians
-Pittsburgh Pirates @ Baltimore Orioles
-Tampa Bay Rays @ New York Yankees
-New York Mets @ Washington Nationals
-Atlanta Braves @ Toronto Blue Jays
-Seattle Mariners @ Detroit Tigers
-Cincinnati Reds @ Miami Marlins
-Houston Astros @ Chicago White Sox
-Kansas City Royals @ Milwaukee Brewers
-Chicago Cubs @ Minnesota Twins
-Philadelphia Phillies @ Colorado Rockies
-Texas Rangers @ Oakland Athletics
-San Francisco Giants @ Arizona D'Backs
-San Diego Padres @ Los Angeles Dodgers
-St. Louis Cardinals @ Boston Red Sox
-New York Mets @ Washington Nationals
-Los Angeles Angels @ Baltimore Orioles
-New York Yankees @ Toronto Blue Jays
-Seattle Mariners @ Boston Red Sox
-Milwaukee Brewers @ St. Louis Cardinals
-Atlanta Braves @ Texas Rangers
-Chicago Cubs @ Houston Astros
-Cincinnati Reds @ Colorado Rockies
-Arizona D'Backs @ Oakland Athletics
-Kansas City Royals @ San Diego Padres
-Philadelphia Phillies @ San Francisco Giants
-Minnesota Twins @ Los Angeles Dodgers
-Los Angeles Angels @ Baltimore Orioles
-Pittsburgh Pirates @ Detroit Tigers
-Washington Nationals @ Miami Marlins
-New York Yankees @ Toronto Blue Jays
-Seattle Mariners @ Boston Red Sox
-Tampa Bay Rays @ New York Mets
-Milwaukee Brewers @ St. Louis Cardinals
-Atlanta Braves @ Texas Rangers
-Cleveland Guardians @ Chicago White Sox
-Chicago Cubs @ Houston Astros
-Cincinnati Reds @ Colorado Rockies
-Arizona D'Backs @ Oakland Athletics
-Kansas City Royals @ San Diego Padres
-Philadelphia Phillies @ San Francisco Giants
-Minnesota Twins @ Los Angeles Dodgers
-Pittsburgh Pirates @ Detroit Tigers
-Cincinnati Reds @ Colorado Rockies
-Minnesota Twins @ Los Angeles Dodgers
-Arizona D'Backs @ Oakland Athletics
-Philadelphia Phillies @ San Francisco Giants
-Kansas City Royals @ San Diego Padres
-Los Angeles Angels @ Baltimore Orioles
-Washington Nationals @ Miami Marlins
-New York Yankees @ Toronto Blue Jays
-Seattle Mariners @ Boston Red Sox
-Tampa Bay Rays @ New York Mets
-Milwaukee Brewers @ St. Louis Cardinals
-Atlanta Braves @ Texas Rangers
-Cleveland Guardians @ Chicago White Sox
-Chicago Cubs @ Houston Astros
-Los Angeles Angels @ Baltimore Orioles
-Washington Nationals @ Miami Marlins
-Tampa Bay Rays @ New York Mets
-Cleveland Guardians @ Chicago White Sox
-New York Yankees @ Toronto Blue Jays
-Los Angeles Dodgers @ St. Louis Cardinals
-Arizona D'Backs @ Pittsburgh Pirates
-New York Yankees @ Cincinnati Reds
-Milwaukee Brewers @ Tampa Bay Rays
-Chicago Cubs @ Philadelphia Phillies
-Detroit Tigers @ Washington Nationals
-Baltimore Orioles @ Toronto Blue Jays
-Cleveland Guardians @ New York Mets
-Seattle Mariners @ Atlanta Braves
-Colorado Rockies @ Texas Rangers
-Kansas City Royals @ Chicago White Sox
-Oakland Athletics @ Houston Astros
-Los Angeles Dodgers @ St. Louis Cardinals
-Minnesota Twins @ Los Angeles Angels
-Boston Red Sox @ San Diego Padres
-Miami Marlins @ San Francisco Giants
-Kansas City Royals @ Chicago White Sox
-Baltimore Orioles @ Toronto Blue Jays
-Chicago Cubs @ Philadelphia Phillies
-Arizona D'Backs @ Pittsburgh Pirates
-Miami Marlins @ San Francisco Giants
-Colorado Rockies @ Texas Rangers
-Detroit Tigers @ Washington Nationals
-New York Yankees @ Cincinnati Reds
-Oakland Athletics @ Houston Astros
-Cleveland Guardians @ New York Mets
-Milwaukee Brewers @ Tampa Bay Rays
-Seattle Mariners @ Atlanta Braves
-Los Angeles Dodgers @ St. Louis Cardinals
-Minnesota Twins @ Los Angeles Angels
-Boston Red Sox @ San Diego Padres
-New York Yankees @ Cincinnati Reds
-Seattle Mariners @ Atlanta Braves
-Chicago Cubs @ Philadelphia Phillies
-Arizona D'Backs @ Pittsburgh Pirates
-Detroit Tigers @ Washington Nationals
-Baltimore Orioles @ Toronto Blue Jays
-Milwaukee Brewers @ Tampa Bay Rays
-Kansas City Royals @ Chicago White Sox
-Oakland Athletics @ Houston Astros
-Los Angeles Dodgers @ St. Louis Cardinals
-Colorado Rockies @ Texas Rangers
-Miami Marlins @ San Francisco Giants
-Minnesota Twins @ Los Angeles Angels
-Boston Red Sox @ San Diego Padres
-Cleveland Guardians @ New York Mets
-Chicago White Sox @ Cleveland Guardians
-Texas Rangers @ Pittsburgh Pirates
-St. Louis Cardinals @ Cincinnati Reds
-Arizona D'Backs @ Philadelphia Phillies
-Toronto Blue Jays @ Tampa Bay Rays
-Los Angeles Dodgers @ Atlanta Braves
-Detroit Tigers @ Kansas City Royals
-Houston Astros @ Milwaukee Brewers
-San Francisco Giants @ Minnesota Twins
-Miami Marlins @ Colorado Rockies
-Boston Red Sox @ Los Angeles Angels
-Oakland Athletics @ Seattle Mariners
-Chicago White Sox @ Cleveland Guardians
-Texas Rangers @ Pittsburgh Pirates
-St. Louis Cardinals @ Cincinnati Reds
-Arizona D'Backs @ Philadelphia Phillies
-Toronto Blue Jays @ Tampa Bay Rays
-Baltimore Orioles @ New York Yankees
-San Diego Padres @ Washington Nationals
-Los Angeles Dodgers @ Atlanta Braves
-New York Mets @ Chicago Cubs
-Detroit Tigers @ Kansas City Royals
-Houston Astros @ Milwaukee Brewers
-San Francisco Giants @ Minnesota Twins
-Miami Marlins @ Colorado Rockies
-Boston Red Sox @ Los Angeles Angels
-Oakland Athletics @ Seattle Mariners
-Texas Rangers @ Pittsburgh Pirates
-Arizona D'Backs @ Philadelphia Phillies
-Chicago White Sox @ Cleveland Guardians
-Houston Astros @ Milwaukee Brewers
-San Francisco Giants @ Minnesota Twins
-St. Louis Cardinals @ Cincinnati Reds
-Toronto Blue Jays @ Tampa Bay Rays
-Baltimore Orioles @ New York Yankees
-San Diego Padres @ Washington Nationals
-Los Angeles Dodgers @ Atlanta Braves
-New York Mets @ Chicago Cubs
-Detroit Tigers @ Kansas City Royals
-Miami Marlins @ Colorado Rockies
-Boston Red Sox @ Los Angeles Angels
-Oakland Athletics @ Seattle Mariners
-St. Louis Cardinals @ Cincinnati Reds
-Toronto Blue Jays @ Tampa Bay Rays
-Miami Marlins @ Colorado Rockies
-San Diego Padres @ Washington Nationals
-Chicago White Sox @ Detroit Tigers
-Baltimore Orioles @ New York Yankees
-Philadelphia Phillies @ Atlanta Braves
-New York Mets @ Chicago Cubs
-San Francisco Giants @ Milwaukee Brewers
-Oakland Athletics @ Seattle Mariners
-Cincinnati Reds @ Chicago Cubs
-Chicago White Sox @ Detroit Tigers
-Los Angeles Dodgers @ Tampa Bay Rays
-Texas Rangers @ Baltimore Orioles
-San Diego Padres @ New York Yankees
-St. Louis Cardinals @ Cleveland Guardians
-Philadelphia Phillies @ Atlanta Braves
-Washington Nationals @ Kansas City Royals
-San Francisco Giants @ Milwaukee Brewers
-Toronto Blue Jays @ Minnesota Twins
-New York Mets @ Colorado Rockies
-Miami Marlins @ Los Angeles Angels
-Boston Red Sox @ Arizona D'Backs
-Houston Astros @ Oakland Athletics
-Pittsburgh Pirates @ Seattle Mariners
-San Diego Padres @ New York Yankees
-Chicago White Sox @ Detroit Tigers
-Toronto Blue Jays @ Minnesota Twins
-Texas Rangers @ Baltimore Orioles
-Houston Astros @ Oakland Athletics
-Philadelphia Phillies @ Atlanta Braves
-Washington Nationals @ Kansas City Royals
-San Francisco Giants @ Milwaukee Brewers
-Pittsburgh Pirates @ Seattle Mariners
-Los Angeles Dodgers @ Tampa Bay Rays
-Boston Red Sox @ Arizona D'Backs
-Cincinnati Reds @ Chicago Cubs
-St. Louis Cardinals @ Cleveland Guardians
-New York Mets @ Colorado Rockies
-Miami Marlins @ Los Angeles Angels
-Los Angeles Dodgers @ Tampa Bay Rays
-Texas Rangers @ Baltimore Orioles
-San Diego Padres @ New York Yankees
-St. Louis Cardinals @ Cleveland Guardians
-Chicago White Sox @ Detroit Tigers
-Washington Nationals @ Kansas City Royals
-San Francisco Giants @ Milwaukee Brewers
-Toronto Blue Jays @ Minnesota Twins
-Cincinnati Reds @ Chicago Cubs
-New York Mets @ Colorado Rockies
-Miami Marlins @ Los Angeles Angels
-Houston Astros @ Oakland Athletics
-Boston Red Sox @ Arizona D'Backs
-Pittsburgh Pirates @ Seattle Mariners
-Philadelphia Phillies @ Atlanta Braves
-Cleveland Guardians @ Baltimore Orioles
-Texas Rangers @ Detroit Tigers
-Kansas City Royals @ St. Louis Cardinals
-Tampa Bay Rays @ Chicago Cubs
-Colorado Rockies @ Arizona D'Backs
-Minnesota Twins @ Houston Astros
-Pittsburgh Pirates @ San Francisco Giants
-Atlanta Braves @ Oakland Athletics
-Los Angeles Angels @ Chicago White Sox
-Washington Nationals @ Los Angeles Dodgers
-New York Yankees @ Seattle Mariners
-Texas Rangers @ Detroit Tigers
-San Diego Padres @ Miami Marlins
-Cleveland Guardians @ Baltimore Orioles
-Milwaukee Brewers @ Toronto Blue Jays
-Cincinnati Reds @ Boston Red Sox
-Philadelphia Phillies @ New York Mets
-Kansas City Royals @ St. Louis Cardinals
-Tampa Bay Rays @ Chicago Cubs
-Los Angeles Angels @ Chicago White Sox
-Minnesota Twins @ Houston Astros
-Colorado Rockies @ Arizona D'Backs
-Atlanta Braves @ Oakland Athletics
-New York Yankees @ Seattle Mariners
-Pittsburgh Pirates @ San Francisco Giants
-Washington Nationals @ Los Angeles Dodgers
-Texas Rangers @ Detroit Tigers
-Los Angeles Angels @ Chicago White Sox
-Tampa Bay Rays @ Chicago Cubs
-Cleveland Guardians @ Baltimore Orioles
-Atlanta Braves @ Oakland Athletics
-Pittsburgh Pirates @ San Francisco Giants
-Washington Nationals @ Los Angeles Dodgers
-San Diego Padres @ Miami Marlins
-Milwaukee Brewers @ Toronto Blue Jays
-Cincinnati Reds @ Boston Red Sox
-Philadelphia Phillies @ New York Mets
-Minnesota Twins @ Houston Astros
-Colorado Rockies @ Arizona D'Backs
-New York Yankees @ Seattle Mariners
-Milwaukee Brewers @ Toronto Blue Jays
-San Diego Padres @ Miami Marlins
-Philadelphia Phillies @ New York Mets
-Colorado Rockies @ Arizona D'Backs
-Cincinnati Reds @ Boston Red Sox
-Cleveland Guardians @ Minnesota Twins
-Los Angeles Angels @ Houston Astros
-Milwaukee Brewers @ Cincinnati Reds
-Oakland Athletics @ Miami Marlins
-St. Louis Cardinals @ Pittsburgh Pirates
-Philadelphia Phillies @ Washington Nationals
-Tampa Bay Rays @ Boston Red Sox
-Toronto Blue Jays @ New York Mets
-Seattle Mariners @ Texas Rangers
-Detroit Tigers @ Chicago White Sox
-Los Angeles Angels @ Houston Astros
-Colorado Rockies @ Kansas City Royals
-Cleveland Guardians @ Minnesota Twins
-Atlanta Braves @ Arizona D'Backs
-Chicago Cubs @ San Diego Padres
-New York Yankees @ Los Angeles Dodgers
-Baltimore Orioles @ San Francisco Giants
-Tampa Bay Rays @ Boston Red Sox
-Detroit Tigers @ Chicago White Sox
-St. Louis Cardinals @ Pittsburgh Pirates
-Seattle Mariners @ Texas Rangers
-Philadelphia Phillies @ Washington Nationals
-Milwaukee Brewers @ Cincinnati Reds
-Los Angeles Angels @ Houston Astros
-Colorado Rockies @ Kansas City Royals
-Oakland Athletics @ Miami Marlins
-Toronto Blue Jays @ New York Mets
-Tampa Bay Rays @ Boston Red Sox
-New York Yankees @ Los Angeles Dodgers
-Cleveland Guardians @ Minnesota Twins
-Baltimore Orioles @ San Francisco Giants
-Atlanta Braves @ Arizona D'Backs
-Chicago Cubs @ San Diego Padres
-St. Louis Cardinals @ Pittsburgh Pirates
-Tampa Bay Rays @ Boston Red Sox
-Philadelphia Phillies @ Washington Nationals
-Milwaukee Brewers @ Cincinnati Reds
-Oakland Athletics @ Miami Marlins
-Toronto Blue Jays @ New York Mets
-Detroit Tigers @ Chicago White Sox
-Los Angeles Angels @ Houston Astros
-Colorado Rockies @ Kansas City Royals
-Cleveland Guardians @ Minnesota Twins
-Seattle Mariners @ Texas Rangers
-Baltimore Orioles @ San Francisco Giants
-Atlanta Braves @ Arizona D'Backs
-Chicago Cubs @ San Diego Padres
-New York Yankees @ Los Angeles Dodgers
-Kansas City Royals @ Miami Marlins
-Detroit Tigers @ Philadelphia Phillies
-Oakland Athletics @ Pittsburgh Pirates
-Houston Astros @ Toronto Blue Jays
-Milwaukee Brewers @ Cincinnati Reds
-St. Louis Cardinals @ Texas Rangers
-Chicago Cubs @ San Diego Padres
-Kansas City Royals @ Miami Marlins
-Detroit Tigers @ Philadelphia Phillies
-Minnesota Twins @ Tampa Bay Rays
-Chicago White Sox @ New York Yankees
-Oakland Athletics @ Pittsburgh Pirates
-Arizona D'Backs @ Washington Nationals
-Houston Astros @ Toronto Blue Jays
-Los Angeles Dodgers @ Cincinnati Reds
-Boston Red Sox @ Cleveland Guardians
-New York Mets @ Atlanta Braves
-Baltimore Orioles @ Milwaukee Brewers
-St. Louis Cardinals @ Texas Rangers
-San Francisco Giants @ Colorado Rockies
-Chicago Cubs @ Los Angeles Angels
-Seattle Mariners @ San Diego Padres
-Oakland Athletics @ Pittsburgh Pirates
-Seattle Mariners @ San Diego Padres
-Detroit Tigers @ Philadelphia Phillies
-Kansas City Royals @ Miami Marlins
-Minnesota Twins @ Tampa Bay Rays
-Chicago White Sox @ New York Yankees
-Arizona D'Backs @ Washington Nationals
-Houston Astros @ Toronto Blue Jays
-Los Angeles Dodgers @ Cincinnati Reds
-Boston Red Sox @ Cleveland Guardians
-New York Mets @ Atlanta Braves
-Baltimore Orioles @ Milwaukee Brewers
-St. Louis Cardinals @ Texas Rangers
-San Francisco Giants @ Colorado Rockies
-Chicago Cubs @ Los Angeles Angels
-Los Angeles Dodgers @ Cincinnati Reds
-Arizona D'Backs @ Washington Nationals
-Minnesota Twins @ Tampa Bay Rays
-Baltimore Orioles @ Milwaukee Brewers
-San Francisco Giants @ Colorado Rockies
-Chicago White Sox @ New York Yankees
-Houston Astros @ Toronto Blue Jays
-Boston Red Sox @ Cleveland Guardians
-New York Mets @ Atlanta Braves
-Chicago Cubs @ Los Angeles Angels
-Arizona D'Backs @ Detroit Tigers
-Texas Rangers @ Tampa Bay Rays
-Kansas City Royals @ Baltimore Orioles
-Boston Red Sox @ New York Yankees
-Los Angeles Dodgers @ Philadelphia Phillies
-New York Mets @ Pittsburgh Pirates
-Minnesota Twins @ Toronto Blue Jays
-Houston Astros @ Cleveland Guardians
-Washington Nationals @ Atlanta Braves
-Miami Marlins @ Chicago White Sox
-Oakland Athletics @ Milwaukee Brewers
-Cincinnati Reds @ St. Louis Cardinals
-San Diego Padres @ Colorado Rockies
-Seattle Mariners @ Los Angeles Angels
-Chicago Cubs @ San Francisco Giants
-Arizona D'Backs @ Detroit Tigers
-Miami Marlins @ Chicago White Sox
-Cincinnati Reds @ St. Louis Cardinals
-Minnesota Twins @ Toronto Blue Jays
-San Diego Padres @ Colorado Rockies
-Kansas City Royals @ Baltimore Orioles
-Los Angeles Dodgers @ Philadelphia Phillies
-New York Mets @ Pittsburgh Pirates
-Washington Nationals @ Atlanta Braves
-Oakland Athletics @ Milwaukee Brewers
-Texas Rangers @ Tampa Bay Rays
-Houston Astros @ Cleveland Guardians
-Boston Red Sox @ New York Yankees
-Chicago Cubs @ San Francisco Giants
-Seattle Mariners @ Los Angeles Angels
-Arizona D'Backs @ Detroit Tigers
-Washington Nationals @ Atlanta Braves
-Kansas City Royals @ Baltimore Orioles
-Boston Red Sox @ New York Yankees
-Los Angeles Dodgers @ Philadelphia Phillies
-New York Mets @ Pittsburgh Pirates
-Minnesota Twins @ Toronto Blue Jays
-Houston Astros @ Cleveland Guardians
-Texas Rangers @ Tampa Bay Rays
-Miami Marlins @ Chicago White Sox
-Oakland Athletics @ Milwaukee Brewers
-Cincinnati Reds @ St. Louis Cardinals
-San Diego Padres @ Colorado Rockies
-Chicago Cubs @ San Francisco Giants
-Seattle Mariners @ Los Angeles Angels
-Atlanta Braves @ Detroit Tigers
-Colorado Rockies @ Boston Red Sox
-San Francisco Giants @ St. Louis Cardinals
-Los Angeles Angels @ Texas Rangers
-Cincinnati Reds @ Kansas City Royals
-Philadelphia Phillies @ Arizona D'Backs
-Tampa Bay Rays @ Oakland Athletics
-Miami Marlins @ Seattle Mariners
-Atlanta Braves @ Detroit Tigers
-Toronto Blue Jays @ Baltimore Orioles
-Colorado Rockies @ Boston Red Sox
-New York Yankees @ New York Mets
-Milwaukee Brewers @ Minnesota Twins
-San Francisco Giants @ St. Louis Cardinals
-Pittsburgh Pirates @ Chicago Cubs
-Los Angeles Angels @ Texas Rangers
-Washington Nationals @ Houston Astros
-Cincinnati Reds @ Kansas City Royals
-Philadelphia Phillies @ Arizona D'Backs
-Tampa Bay Rays @ Oakland Athletics
-Cleveland Guardians @ San Diego Padres
-Miami Marlins @ Seattle Mariners
-Chicago White Sox @ Los Angeles Dodgers
-Atlanta Braves @ Detroit Tigers
-Milwaukee Brewers @ Minnesota Twins
-San Francisco Giants @ St. Louis Cardinals
-Toronto Blue Jays @ Baltimore Orioles
-Colorado Rockies @ Boston Red Sox
-New York Yankees @ New York Mets
-Pittsburgh Pirates @ Chicago Cubs
-Los Angeles Angels @ Texas Rangers
-Washington Nationals @ Houston Astros
-Cincinnati Reds @ Kansas City Royals
-Philadelphia Phillies @ Arizona D'Backs
-Tampa Bay Rays @ Oakland Athletics
-Cleveland Guardians @ San Diego Padres
-Miami Marlins @ Seattle Mariners
-Chicago White Sox @ Los Angeles Dodgers
-Toronto Blue Jays @ Baltimore Orioles
-Tampa Bay Rays @ Oakland Athletics
-Philadelphia Phillies @ Arizona D'Backs
-Detroit Tigers @ Minnesota Twins
-Colorado Rockies @ Atlanta Braves
-Pittsburgh Pirates @ Chicago Cubs
-Los Angeles Angels @ Texas Rangers
-Washington Nationals @ Houston Astros
-Cleveland Guardians @ San Diego Padres
-Chicago White Sox @ Los Angeles Dodgers
-Baltimore Orioles @ Chicago Cubs
-Miami Marlins @ Washington Nationals
-New York Yankees @ Boston Red Sox
-St. Louis Cardinals @ New York Mets
-Colorado Rockies @ Atlanta Braves
-Toronto Blue Jays @ Texas Rangers
-Cincinnati Reds @ Houston Astros
-Los Angeles Angels @ Kansas City Royals
-Pittsburgh Pirates @ Milwaukee Brewers
-Detroit Tigers @ Minnesota Twins
-Cleveland Guardians @ Arizona D'Backs
-Philadelphia Phillies @ Oakland Athletics
-Tampa Bay Rays @ San Diego Padres
-San Francisco Giants @ Los Angeles Dodgers
-Chicago White Sox @ Seattle Mariners
-Detroit Tigers @ Minnesota Twins
-Baltimore Orioles @ Chicago Cubs
-Toronto Blue Jays @ Texas Rangers
-Miami Marlins @ Washington Nationals
-Philadelphia Phillies @ Oakland Athletics
-Colorado Rockies @ Atlanta Braves
-Cincinnati Reds @ Houston Astros
-Los Angeles Angels @ Kansas City Royals
-Pittsburgh Pirates @ Milwaukee Brewers
-St. Louis Cardinals @ New York Mets
-Chicago White Sox @ Seattle Mariners
-New York Yankees @ Boston Red Sox
-Tampa Bay Rays @ San Diego Padres
-San Francisco Giants @ Los Angeles Dodgers
-Cleveland Guardians @ Arizona D'Backs
-Baltimore Orioles @ Chicago Cubs
-Colorado Rockies @ Atlanta Braves
-Miami Marlins @ Washington Nationals
-St. Louis Cardinals @ New York Mets
-Cincinnati Reds @ Houston Astros
-Los Angeles Angels @ Kansas City Royals
-Pittsburgh Pirates @ Milwaukee Brewers
-Detroit Tigers @ Minnesota Twins
-Toronto Blue Jays @ Texas Rangers
-Philadelphia Phillies @ Oakland Athletics
-Cleveland Guardians @ Arizona D'Backs
-San Francisco Giants @ Los Angeles Dodgers
-Tampa Bay Rays @ San Diego Padres
-Chicago White Sox @ Seattle Mariners
-New York Yankees @ Boston Red Sox
-St. Louis Cardinals @ Washington Nationals
-Kansas City Royals @ Detroit Tigers
-Toronto Blue Jays @ Miami Marlins
-Chicago Cubs @ Pittsburgh Pirates
-Colorado Rockies @ Cincinnati Reds
-Boston Red Sox @ Minnesota Twins
-Texas Rangers @ Chicago White Sox
-New York Mets @ Houston Astros
-Arizona D'Backs @ Milwaukee Brewers
-San Diego Padres @ San Francisco Giants
-Kansas City Royals @ Detroit Tigers
-Toronto Blue Jays @ Miami Marlins
-Atlanta Braves @ Philadelphia Phillies
-Baltimore Orioles @ Tampa Bay Rays
-Seattle Mariners @ New York Yankees
-Chicago Cubs @ Pittsburgh Pirates
-St. Louis Cardinals @ Washington Nationals
-Colorado Rockies @ Cincinnati Reds
-Oakland Athletics @ Cleveland Guardians
-Boston Red Sox @ Minnesota Twins
-Texas Rangers @ Chicago White Sox
-New York Mets @ Houston Astros
-Arizona D'Backs @ Milwaukee Brewers
-San Diego Padres @ San Francisco Giants
-Los Angeles Dodgers @ Los Angeles Angels
-Toronto Blue Jays @ Miami Marlins
-Baltimore Orioles @ Tampa Bay Rays
-Colorado Rockies @ Cincinnati Reds
-Chicago Cubs @ Pittsburgh Pirates
-Kansas City Royals @ Detroit Tigers
-New York Mets @ Houston Astros
-Arizona D'Backs @ Milwaukee Brewers
-St. Louis Cardinals @ Washington Nationals
-Atlanta Braves @ Philadelphia Phillies
-Seattle Mariners @ New York Yankees
-Oakland Athletics @ Cleveland Guardians
-Boston Red Sox @ Minnesota Twins
-Texas Rangers @ Chicago White Sox
-Los Angeles Dodgers @ Los Angeles Angels
-San Diego Padres @ San Francisco Giants
-Atlanta Braves @ Philadelphia Phillies
-Oakland Athletics @ Cleveland Guardians
-Boston Red Sox @ Minnesota Twins
-San Diego Padres @ San Francisco Giants
-Pittsburgh Pirates @ Miami Marlins
-Kansas City Royals @ Tampa Bay Rays
-Seattle Mariners @ New York Yankees
-Atlanta Braves @ Cincinnati Reds
-Minnesota Twins @ Detroit Tigers
-Pittsburgh Pirates @ Miami Marlins
-Kansas City Royals @ Tampa Bay Rays
-Seattle Mariners @ Baltimore Orioles
-Texas Rangers @ New York Yankees
-New York Mets @ Philadelphia Phillies
-Oakland Athletics @ Toronto Blue Jays
-Milwaukee Brewers @ Cleveland Guardians
-Boston Red Sox @ Chicago White Sox
-Los Angeles Angels @ Colorado Rockies
-Washington Nationals @ San Diego Padres
-Houston Astros @ Los Angeles Dodgers
-Arizona D'Backs @ San Francisco Giants
-Chicago Cubs @ St. Louis Cardinals
-Seattle Mariners @ Baltimore Orioles
-Texas Rangers @ New York Yankees
-New York Mets @ Philadelphia Phillies
-Arizona D'Backs @ San Francisco Giants
-Oakland Athletics @ Toronto Blue Jays
-Boston Red Sox @ Chicago White Sox
-Atlanta Braves @ Cincinnati Reds
-Milwaukee Brewers @ Cleveland Guardians
-Pittsburgh Pirates @ Miami Marlins
-Kansas City Royals @ Tampa Bay Rays
-Minnesota Twins @ Detroit Tigers
-Houston Astros @ Los Angeles Dodgers
-Washington Nationals @ San Diego Padres
-Los Angeles Angels @ Colorado Rockies
-Chicago Cubs @ St. Louis Cardinals
-Seattle Mariners @ Baltimore Orioles
-Texas Rangers @ New York Yankees
-New York Mets @ Philadelphia Phillies
-Oakland Athletics @ Toronto Blue Jays
-Atlanta Braves @ Cincinnati Reds
-Milwaukee Brewers @ Cleveland Guardians
-Minnesota Twins @ Detroit Tigers
-Pittsburgh Pirates @ Miami Marlins
-Kansas City Royals @ Tampa Bay Rays
-Boston Red Sox @ Chicago White Sox
-Los Angeles Angels @ Colorado Rockies
-Arizona D'Backs @ San Francisco Giants
-Houston Astros @ Los Angeles Dodgers
-Washington Nationals @ San Diego Padres
-Cincinnati Reds @ Baltimore Orioles
-Milwaukee Brewers @ New York Mets
-Minnesota Twins @ Atlanta Braves
-Detroit Tigers @ Texas Rangers
-Chicago White Sox @ Los Angeles Angels
-Washington Nationals @ Seattle Mariners
-Cincinnati Reds @ Baltimore Orioles
-San Diego Padres @ Pittsburgh Pirates
-San Francisco Giants @ Toronto Blue Jays
-Miami Marlins @ Boston Red Sox
-Milwaukee Brewers @ New York Mets
-Minnesota Twins @ Atlanta Braves
-Houston Astros @ St. Louis Cardinals
-Philadelphia Phillies @ Chicago Cubs
-Detroit Tigers @ Texas Rangers
-Cleveland Guardians @ Kansas City Royals
-Los Angeles Dodgers @ Colorado Rockies
-Chicago White Sox @ Los Angeles Angels
-Tampa Bay Rays @ Arizona D'Backs
-New York Yankees @ Oakland Athletics
-Washington Nationals @ Seattle Mariners
-Minnesota Twins @ Atlanta Braves
-Washington Nationals @ Seattle Mariners
-Cincinnati Reds @ Baltimore Orioles
-San Diego Padres @ Pittsburgh Pirates
-San Francisco Giants @ Toronto Blue Jays
-Miami Marlins @ Boston Red Sox
-Milwaukee Brewers @ New York Mets
-Houston Astros @ St. Louis Cardinals
-Philadelphia Phillies @ Chicago Cubs
-Detroit Tigers @ Texas Rangers
-Cleveland Guardians @ Kansas City Royals
-Los Angeles Dodgers @ Colorado Rockies
-Chicago White Sox @ Los Angeles Angels
-Tampa Bay Rays @ Arizona D'Backs
-New York Yankees @ Oakland Athletics
-San Diego Padres @ Pittsburgh Pirates
-Detroit Tigers @ Texas Rangers
-Cleveland Guardians @ Kansas City Royals
-New York Yankees @ Oakland Athletics
-Tampa Bay Rays @ Arizona D'Backs
-Chicago White Sox @ Los Angeles Angels
-Miami Marlins @ Boston Red Sox
-San Francisco Giants @ Toronto Blue Jays
-Milwaukee Brewers @ New York Mets
-Houston Astros @ St. Louis Cardinals
-Philadelphia Phillies @ Chicago Cubs
-Los Angeles Dodgers @ Colorado Rockies
-Cleveland Guardians @ Chicago Cubs
-Washington Nationals @ Philadelphia Phillies
-Minnesota Twins @ Baltimore Orioles
-Milwaukee Brewers @ Pittsburgh Pirates
-Boston Red Sox @ Toronto Blue Jays
-San Diego Padres @ Cincinnati Reds
-San Francisco Giants @ New York Mets
-Miami Marlins @ Atlanta Braves
-Houston Astros @ Texas Rangers
-Detroit Tigers @ Colorado Rockies
-Los Angeles Dodgers @ Kansas City Royals
-New York Yankees @ St. Louis Cardinals
-Arizona D'Backs @ Los Angeles Angels
-Chicago White Sox @ Oakland Athletics
-Tampa Bay Rays @ Seattle Mariners
-San Diego Padres @ Cincinnati Reds
-New York Yankees @ St. Louis Cardinals
-Boston Red Sox @ Toronto Blue Jays
-Minnesota Twins @ Baltimore Orioles
-Washington Nationals @ Philadelphia Phillies
-Milwaukee Brewers @ Pittsburgh Pirates
-Houston Astros @ Texas Rangers
-Chicago White Sox @ Oakland Athletics
-Miami Marlins @ Atlanta Braves
-San Francisco Giants @ New York Mets
-Cleveland Guardians @ Chicago Cubs
-Los Angeles Dodgers @ Kansas City Royals
-Tampa Bay Rays @ Seattle Mariners
-Detroit Tigers @ Colorado Rockies
-Arizona D'Backs @ Los Angeles Angels
-Minnesota Twins @ Baltimore Orioles
-Miami Marlins @ Atlanta Braves
-Washington Nationals @ Philadelphia Phillies
-Milwaukee Brewers @ Pittsburgh Pirates
-Boston Red Sox @ Toronto Blue Jays
-San Diego Padres @ Cincinnati Reds
-San Francisco Giants @ New York Mets
-Los Angeles Dodgers @ Kansas City Royals
-New York Yankees @ St. Louis Cardinals
-Cleveland Guardians @ Chicago Cubs
-Houston Astros @ Texas Rangers
-Detroit Tigers @ Colorado Rockies
-Arizona D'Backs @ Los Angeles Angels
-Chicago White Sox @ Oakland Athletics
-Tampa Bay Rays @ Seattle Mariners
-Houston Astros @ Texas Rangers
-Chicago Cubs @ Milwaukee Brewers
-Cincinnati Reds @ Washington Nationals
-St. Louis Cardinals @ Miami Marlins
-Baltimore Orioles @ New York Yankees
-Atlanta Braves @ Cleveland Guardians
-Kansas City Royals @ Minnesota Twins
-Los Angeles Angels @ San Diego Padres
-Seattle Mariners @ San Francisco Giants
-Pittsburgh Pirates @ Los Angeles Dodgers
-Cincinnati Reds @ Washington Nationals
-Baltimore Orioles @ New York Yankees
-St. Louis Cardinals @ Miami Marlins
-Texas Rangers @ Boston Red Sox
-Kansas City Royals @ Minnesota Twins
-Seattle Mariners @ San Francisco Giants
-New York Mets @ Arizona D'Backs
-Colorado Rockies @ Houston Astros
-Chicago Cubs @ Milwaukee Brewers
-Philadelphia Phillies @ Tampa Bay Rays
-Oakland Athletics @ Detroit Tigers
-Los Angeles Angels @ San Diego Padres
-Atlanta Braves @ Cleveland Guardians
-Toronto Blue Jays @ Chicago White Sox
-Pittsburgh Pirates @ Los Angeles Dodgers
-Colorado Rockies @ Houston Astros
-Oakland Athletics @ Detroit Tigers
-St. Louis Cardinals @ Miami Marlins
-Philadelphia Phillies @ Tampa Bay Rays
-Baltimore Orioles @ New York Yankees
-Cincinnati Reds @ Washington Nationals
-Texas Rangers @ Boston Red Sox
-Atlanta Braves @ Cleveland Guardians
-Kansas City Royals @ Minnesota Twins
-Toronto Blue Jays @ Chicago White Sox
-Chicago Cubs @ Milwaukee Brewers
-Los Angeles Angels @ San Diego Padres
-Seattle Mariners @ San Francisco Giants
-New York Mets @ Arizona D'Backs
-Pittsburgh Pirates @ Los Angeles Dodgers
-Cincinnati Reds @ Washington Nationals
-Oakland Athletics @ Detroit Tigers
-Chicago Cubs @ Milwaukee Brewers
-St. Louis Cardinals @ Miami Marlins
-Philadelphia Phillies @ Tampa Bay Rays
-Baltimore Orioles @ New York Yankees
-Texas Rangers @ Boston Red Sox
-Kansas City Royals @ Cleveland Guardians
-Toronto Blue Jays @ Chicago White Sox
-Seattle Mariners @ Houston Astros
-New York Mets @ Arizona D'Backs
-Pittsburgh Pirates @ Los Angeles Dodgers
-Toronto Blue Jays @ Detroit Tigers
-Philadelphia Phillies @ Miami Marlins
-Atlanta Braves @ Tampa Bay Rays
-Chicago Cubs @ New York Yankees
-Texas Rangers @ Washington Nationals
-Oakland Athletics @ Boston Red Sox
-Kansas City Royals @ Cleveland Guardians
-St. Louis Cardinals @ Chicago White Sox
-Seattle Mariners @ Houston Astros
-Cincinnati Reds @ Milwaukee Brewers
-Baltimore Orioles @ Minnesota Twins
-Pittsburgh Pirates @ Arizona D'Backs
-New York Mets @ San Diego Padres
-Los Angeles Angels @ Los Angeles Dodgers
-Colorado Rockies @ San Francisco Giants
-Chicago Cubs @ New York Yankees
-Toronto Blue Jays @ Detroit Tigers
-St. Louis Cardinals @ Chicago White Sox
-Baltimore Orioles @ Minnesota Twins
-Colorado Rockies @ San Francisco Giants
-Texas Rangers @ Washington Nationals
-Pittsburgh Pirates @ Arizona D'Backs
-Oakland Athletics @ Boston Red Sox
-Kansas City Royals @ Cleveland Guardians
-Philadelphia Phillies @ Miami Marlins
-Cincinnati Reds @ Milwaukee Brewers
-Seattle Mariners @ Houston Astros
-Atlanta Braves @ Tampa Bay Rays
-Los Angeles Angels @ Los Angeles Dodgers
-New York Mets @ San Diego Padres
-Texas Rangers @ Washington Nationals
-Oakland Athletics @ Boston Red Sox
-Chicago Cubs @ New York Yankees
-Kansas City Royals @ Cleveland Guardians
-Toronto Blue Jays @ Detroit Tigers
-Philadelphia Phillies @ Miami Marlins
-Atlanta Braves @ Tampa Bay Rays
-St. Louis Cardinals @ Chicago White Sox
-Seattle Mariners @ Houston Astros
-Cincinnati Reds @ Milwaukee Brewers
-Baltimore Orioles @ Minnesota Twins
-Colorado Rockies @ San Francisco Giants
-Pittsburgh Pirates @ Arizona D'Backs
-New York Mets @ San Diego Padres
-San Diego Padres @ Philadelphia Phillies
-Miami Marlins @ Baltimore Orioles
-San Francisco Giants @ Pittsburgh Pirates
-Arizona D'Backs @ Toronto Blue Jays
-Milwaukee Brewers @ Cincinnati Reds
-Los Angeles Dodgers @ New York Mets
-Chicago White Sox @ Atlanta Braves
-Boston Red Sox @ Chicago Cubs
-Cleveland Guardians @ Texas Rangers
-Tampa Bay Rays @ Kansas City Royals
-Washington Nationals @ St. Louis Cardinals
-New York Yankees @ Colorado Rockies
-Houston Astros @ Los Angeles Angels
-Minnesota Twins @ Oakland Athletics
-Detroit Tigers @ Seattle Mariners
-San Diego Padres @ Philadelphia Phillies
-Boston Red Sox @ Chicago Cubs
-Arizona D'Backs @ Toronto Blue Jays
-Cleveland Guardians @ Texas Rangers
-Miami Marlins @ Baltimore Orioles
-San Diego Padres @ Philadelphia Phillies
-San Francisco Giants @ Pittsburgh Pirates
-Minnesota Twins @ Oakland Athletics
-Milwaukee Brewers @ Cincinnati Reds
-Tampa Bay Rays @ Kansas City Royals
-Chicago White Sox @ Atlanta Braves
-Los Angeles Dodgers @ New York Mets
-Washington Nationals @ St. Louis Cardinals
-New York Yankees @ Colorado Rockies
-Houston Astros @ Los Angeles Angels
-Detroit Tigers @ Seattle Mariners
-San Francisco Giants @ Pittsburgh Pirates
-Chicago White Sox @ Atlanta Braves
-Miami Marlins @ Baltimore Orioles
-San Diego Padres @ Philadelphia Phillies
-Arizona D'Backs @ Toronto Blue Jays
-Milwaukee Brewers @ Cincinnati Reds
-Los Angeles Dodgers @ New York Mets
-Tampa Bay Rays @ Kansas City Royals
-Washington Nationals @ St. Louis Cardinals
-Boston Red Sox @ Chicago Cubs
-Cleveland Guardians @ Texas Rangers
-New York Yankees @ Colorado Rockies
-Houston Astros @ Los Angeles Angels
-Minnesota Twins @ Oakland Athletics
-Detroit Tigers @ Seattle Mariners
-Los Angeles Dodgers @ Baltimore Orioles
-Cleveland Guardians @ Pittsburgh Pirates
-San Francisco Giants @ Cincinnati Reds
-Miami Marlins @ St. Louis Cardinals
-Washington Nationals @ Chicago Cubs
-Tampa Bay Rays @ Texas Rangers
-Detroit Tigers @ Kansas City Royals
-New York Yankees @ Los Angeles Angels
-Boston Red Sox @ Oakland Athletics
-Minnesota Twins @ Seattle Mariners
-Milwaukee Brewers @ Philadelphia Phillies
-Los Angeles Dodgers @ Baltimore Orioles
-Cleveland Guardians @ Pittsburgh Pirates
-San Diego Padres @ Toronto Blue Jays
-San Francisco Giants @ Cincinnati Reds
-Chicago White Sox @ New York Mets
-Arizona D'Backs @ Atlanta Braves
-Miami Marlins @ St. Louis Cardinals
-Washington Nationals @ Chicago Cubs
-Tampa Bay Rays @ Texas Rangers
-Detroit Tigers @ Kansas City Royals
-Houston Astros @ Colorado Rockies
-New York Yankees @ Los Angeles Angels
-Boston Red Sox @ Oakland Athletics
-Minnesota Twins @ Seattle Mariners
-Cleveland Guardians @ Pittsburgh Pirates
-Los Angeles Dodgers @ Baltimore Orioles
-Tampa Bay Rays @ Texas Rangers
-Miami Marlins @ St. Louis Cardinals
-Houston Astros @ Colorado Rockies
-Boston Red Sox @ Oakland Athletics
-Milwaukee Brewers @ Philadelphia Phillies
-New York Yankees @ Los Angeles Angels
-San Diego Padres @ Toronto Blue Jays
-San Francisco Giants @ Cincinnati Reds
-Chicago White Sox @ New York Mets
-Arizona D'Backs @ Atlanta Braves
-Washington Nationals @ Chicago Cubs
-Detroit Tigers @ Kansas City Royals
-Minnesota Twins @ Seattle Mariners
-Arizona D'Backs @ Atlanta Braves
-San Francisco Giants @ Cincinnati Reds
-Milwaukee Brewers @ Philadelphia Phillies
-San Diego Padres @ Toronto Blue Jays
-Chicago White Sox @ New York Mets
-Detroit Tigers @ Kansas City Royals
-Minnesota Twins @ Seattle Mariners
-Baltimore Orioles @ Tampa Bay Rays
-St. Louis Cardinals @ Chicago Cubs
-Houston Astros @ Oakland Athletics
-St. Louis Cardinals @ Chicago Cubs
-San Diego Padres @ Detroit Tigers
-Colorado Rockies @ Miami Marlins
-Baltimore Orioles @ Tampa Bay Rays
-Kansas City Royals @ New York Yankees
-San Francisco Giants @ Washington Nationals
-New York Mets @ Boston Red Sox
-Arizona D'Backs @ Cincinnati Reds
-Philadelphia Phillies @ Cleveland Guardians
-Los Angeles Dodgers @ Texas Rangers
-Atlanta Braves @ Milwaukee Brewers
-Chicago White Sox @ Minnesota Twins
-Pittsburgh Pirates @ Los Angeles Angels
-Houston Astros @ Oakland Athletics
-Toronto Blue Jays @ Seattle Mariners
-Kansas City Royals @ New York Yankees
-Colorado Rockies @ Miami Marlins
-St. Louis Cardinals @ Chicago Cubs
-Los Angeles Dodgers @ Texas Rangers
-New York Mets @ Boston Red Sox
-Arizona D'Backs @ Cincinnati Reds
-Toronto Blue Jays @ Seattle Mariners
-Baltimore Orioles @ Tampa Bay Rays
-San Diego Padres @ Detroit Tigers
-San Francisco Giants @ Washington Nationals
-Philadelphia Phillies @ Cleveland Guardians
-Atlanta Braves @ Milwaukee Brewers
-Chicago White Sox @ Minnesota Twins
-Pittsburgh Pirates @ Los Angeles Angels
-Houston Astros @ Oakland Athletics
-New York Mets @ Boston Red Sox
-San Diego Padres @ Detroit Tigers
-Kansas City Royals @ New York Yankees
-San Francisco Giants @ Washington Nationals
-Arizona D'Backs @ Cincinnati Reds
-Philadelphia Phillies @ Cleveland Guardians
-Colorado Rockies @ Miami Marlins
-Baltimore Orioles @ Tampa Bay Rays
-Atlanta Braves @ Milwaukee Brewers
-Chicago White Sox @ Minnesota Twins
-St. Louis Cardinals @ Chicago Cubs
-Los Angeles Dodgers @ Texas Rangers
-Pittsburgh Pirates @ Los Angeles Angels
-Houston Astros @ Oakland Athletics
-Toronto Blue Jays @ Seattle Mariners
-Baltimore Orioles @ Philadelphia Phillies
-Colorado Rockies @ Washington Nationals
-Kansas City Royals @ Cleveland Guardians
-Seattle Mariners @ Minnesota Twins
-Texas Rangers @ Houston Astros
-Cincinnati Reds @ Milwaukee Brewers
-St. Louis Cardinals @ Arizona D'Backs
-Pittsburgh Pirates @ San Diego Padres
-Toronto Blue Jays @ Los Angeles Dodgers
-Los Angeles Angels @ Detroit Tigers
-Baltimore Orioles @ Philadelphia Phillies
-Miami Marlins @ Tampa Bay Rays
-New York Mets @ New York Yankees
-Colorado Rockies @ Washington Nationals
-Atlanta Braves @ Boston Red Sox
-Kansas City Royals @ Cleveland Guardians
-Seattle Mariners @ Minnesota Twins
-Chicago Cubs @ Chicago White Sox
-Texas Rangers @ Houston Astros
-Cincinnati Reds @ Milwaukee Brewers
-St. Louis Cardinals @ Arizona D'Backs
-Pittsburgh Pirates @ San Diego Padres
-Oakland Athletics @ San Francisco Giants
-Toronto Blue Jays @ Los Angeles Dodgers
-Colorado Rockies @ Washington Nationals
-Miami Marlins @ Tampa Bay Rays
-Kansas City Royals @ Cleveland Guardians
-Seattle Mariners @ Minnesota Twins
-Cincinnati Reds @ Milwaukee Brewers
-St. Louis Cardinals @ Arizona D'Backs
-Toronto Blue Jays @ Los Angeles Dodgers
-Pittsburgh Pirates @ San Diego Padres
-Baltimore Orioles @ Philadelphia Phillies
-Los Angeles Angels @ Detroit Tigers
-New York Mets @ New York Yankees
-Atlanta Braves @ Boston Red Sox
-Chicago Cubs @ Chicago White Sox
-Texas Rangers @ Houston Astros
-Oakland Athletics @ San Francisco Giants
-Los Angeles Angels @ Detroit Tigers
-Washington Nationals @ New York Mets
-Chicago Cubs @ St. Louis Cardinals
-Cleveland Guardians @ Chicago White Sox
-Detroit Tigers @ Miami Marlins
-New York Yankees @ Baltimore Orioles
-Philadelphia Phillies @ Pittsburgh Pirates
-Los Angeles Angels @ Toronto Blue Jays
-Cleveland Guardians @ Chicago White Sox
-Washington Nationals @ New York Mets
-Milwaukee Brewers @ Atlanta Braves
-Tampa Bay Rays @ Houston Astros
-Minnesota Twins @ Kansas City Royals
-Chicago Cubs @ St. Louis Cardinals
-Oakland Athletics @ Colorado Rockies
-Seattle Mariners @ Arizona D'Backs
-Texas Rangers @ San Diego Padres
-Cincinnati Reds @ Los Angeles Dodgers
-Boston Red Sox @ San Francisco Giants
-Los Angeles Angels @ Toronto Blue Jays
-Detroit Tigers @ Miami Marlins
-New York Yankees @ Baltimore Orioles
-Philadelphia Phillies @ Pittsburgh Pirates
-Cleveland Guardians @ Chicago White Sox
-Minnesota Twins @ Kansas City Royals
-Washington Nationals @ New York Mets
-Tampa Bay Rays @ Houston Astros
-Boston Red Sox @ San Francisco Giants
-Chicago Cubs @ St. Louis Cardinals
-Milwaukee Brewers @ Atlanta Braves
-Seattle Mariners @ Arizona D'Backs
-Oakland Athletics @ Colorado Rockies
-Texas Rangers @ San Diego Padres
-Cincinnati Reds @ Los Angeles Dodgers
-Los Angeles Angels @ Toronto Blue Jays
-Milwaukee Brewers @ Atlanta Braves
-New York Yankees @ Baltimore Orioles
-Philadelphia Phillies @ Pittsburgh Pirates
-Detroit Tigers @ Miami Marlins
-Washington Nationals @ New York Mets
-Cleveland Guardians @ Chicago White Sox
-Tampa Bay Rays @ Houston Astros
-Minnesota Twins @ Kansas City Royals
-Chicago Cubs @ St. Louis Cardinals
-Oakland Athletics @ Colorado Rockies
-Boston Red Sox @ San Francisco Giants
-Seattle Mariners @ Arizona D'Backs
-Cincinnati Reds @ Los Angeles Dodgers
-Texas Rangers @ San Diego Padres
-Philadelphia Phillies @ Miami Marlins
-Tampa Bay Rays @ New York Yankees
-Milwaukee Brewers @ Washington Nationals
-Baltimore Orioles @ Toronto Blue Jays
-Los Angeles Angels @ Atlanta Braves
-Cincinnati Reds @ Chicago Cubs
-Cleveland Guardians @ Houston Astros
-San Diego Padres @ Colorado Rockies
-Boston Red Sox @ Seattle Mariners
-Arizona D'Backs @ San Francisco Giants
-Philadelphia Phillies @ Miami Marlins
-Tampa Bay Rays @ New York Yankees
-Detroit Tigers @ Pittsburgh Pirates
-Milwaukee Brewers @ Washington Nationals
-Baltimore Orioles @ Toronto Blue Jays
-Los Angeles Angels @ Atlanta Braves
-Minnesota Twins @ St. Louis Cardinals
-Cincinnati Reds @ Chicago Cubs
-Chicago White Sox @ Texas Rangers
-Cleveland Guardians @ Houston Astros
-New York Mets @ Kansas City Royals
-San Diego Padres @ Colorado Rockies
-Boston Red Sox @ Seattle Mariners
-Arizona D'Backs @ San Francisco Giants
-Oakland Athletics @ Los Angeles Dodgers
-Los Angeles Angels @ Atlanta Braves
-Detroit Tigers @ Pittsburgh Pirates
-Milwaukee Brewers @ Washington Nationals
-Cleveland Guardians @ Houston Astros
-San Diego Padres @ Colorado Rockies
-Boston Red Sox @ Seattle Mariners
-Philadelphia Phillies @ Miami Marlins
-Tampa Bay Rays @ New York Yankees
-Baltimore Orioles @ Toronto Blue Jays
-Minnesota Twins @ St. Louis Cardinals
-Cincinnati Reds @ Chicago Cubs
-Chicago White Sox @ Texas Rangers
-New York Mets @ Kansas City Royals
-Arizona D'Backs @ San Francisco Giants
-Oakland Athletics @ Los Angeles Dodgers
-Philadelphia Phillies @ Miami Marlins
-Chicago White Sox @ Texas Rangers
-New York Mets @ Kansas City Royals
-Baltimore Orioles @ Toronto Blue Jays
-Arizona D'Backs @ San Francisco Giants
-Pittsburgh Pirates @ Milwaukee Brewers
-Houston Astros @ New York Yankees
-Minnesota Twins @ St. Louis Cardinals
-Cincinnati Reds @ Chicago Cubs
-Seattle Mariners @ Los Angeles Angels
-Oakland Athletics @ Los Angeles Dodgers
-Atlanta Braves @ Chicago Cubs
-Washington Nationals @ Cincinnati Reds
-Tampa Bay Rays @ Detroit Tigers
-New York Mets @ Baltimore Orioles
-Houston Astros @ New York Yankees
-Kansas City Royals @ Philadelphia Phillies
-Toronto Blue Jays @ Boston Red Sox
-Chicago White Sox @ Cleveland Guardians
-Miami Marlins @ Texas Rangers
-Pittsburgh Pirates @ Milwaukee Brewers
-Arizona D'Backs @ Minnesota Twins
-Colorado Rockies @ St. Louis Cardinals
-Seattle Mariners @ Los Angeles Angels
-Los Angeles Dodgers @ San Diego Padres
-Houston Astros @ New York Yankees
-Tampa Bay Rays @ Detroit Tigers
-Atlanta Braves @ Chicago Cubs
-Miami Marlins @ Texas Rangers
-Toronto Blue Jays @ Boston Red Sox
-Washington Nationals @ Cincinnati Reds
-Kansas City Royals @ Philadelphia Phillies
-New York Mets @ Baltimore Orioles
-San Francisco Giants @ Oakland Athletics
-Chicago White Sox @ Cleveland Guardians
-Pittsburgh Pirates @ Milwaukee Brewers
-Arizona D'Backs @ Minnesota Twins
-Colorado Rockies @ St. Louis Cardinals
-Los Angeles Dodgers @ San Diego Padres
-Seattle Mariners @ Los Angeles Angels
-Chicago White Sox @ Cleveland Guardians
-New York Mets @ Baltimore Orioles
-Toronto Blue Jays @ Boston Red Sox
-Houston Astros @ New York Yankees
-Kansas City Royals @ Philadelphia Phillies
-Washington Nationals @ Cincinnati Reds
-Tampa Bay Rays @ Detroit Tigers
-Pittsburgh Pirates @ Milwaukee Brewers
-Arizona D'Backs @ Minnesota Twins
-Colorado Rockies @ St. Louis Cardinals
-Atlanta Braves @ Chicago Cubs
-Miami Marlins @ Texas Rangers
-Seattle Mariners @ Los Angeles Angels
-San Francisco Giants @ Oakland Athletics
-Los Angeles Dodgers @ San Diego Padres
-Los Angeles Dodgers @ San Diego Padres
-Miami Marlins @ Cincinnati Reds
-Minnesota Twins @ Detroit Tigers
-Washington Nationals @ Philadelphia Phillies
-Atlanta Braves @ Pittsburgh Pirates
-Kansas City Royals @ Boston Red Sox
-Toronto Blue Jays @ Cleveland Guardians
-Chicago Cubs @ New York Mets
-New York Yankees @ Chicago White Sox
-Colorado Rockies @ Milwaukee Brewers
-San Francisco Giants @ Los Angeles Angels
-Texas Rangers @ Oakland Athletics
-Miami Marlins @ Cincinnati Reds
-Minnesota Twins @ Detroit Tigers
-Washington Nationals @ Philadelphia Phillies
-St. Louis Cardinals @ Tampa Bay Rays
-Houston Astros @ Baltimore Orioles
-Atlanta Braves @ Pittsburgh Pirates
-Kansas City Royals @ Boston Red Sox
-Toronto Blue Jays @ Cleveland Guardians
-Chicago Cubs @ New York Mets
-New York Yankees @ Chicago White Sox
-Colorado Rockies @ Milwaukee Brewers
-San Francisco Giants @ Los Angeles Angels
-Los Angeles Dodgers @ Arizona D'Backs
-Texas Rangers @ Oakland Athletics
-San Diego Padres @ Seattle Mariners
-Miami Marlins @ Cincinnati Reds
-Colorado Rockies @ Milwaukee Brewers
-Texas Rangers @ Oakland Athletics
-Minnesota Twins @ Detroit Tigers
-Washington Nationals @ Philadelphia Phillies
-St. Louis Cardinals @ Tampa Bay Rays
-Houston Astros @ Baltimore Orioles
-Atlanta Braves @ Pittsburgh Pirates
-Kansas City Royals @ Boston Red Sox
-Toronto Blue Jays @ Cleveland Guardians
-Chicago Cubs @ New York Mets
-New York Yankees @ Chicago White Sox
-San Francisco Giants @ Los Angeles Angels
-Los Angeles Dodgers @ Arizona D'Backs
-San Diego Padres @ Seattle Mariners
-Houston Astros @ Baltimore Orioles
-Atlanta Braves @ Pittsburgh Pirates
-Toronto Blue Jays @ Cleveland Guardians
-Minnesota Twins @ Detroit Tigers
-Washington Nationals @ Philadelphia Phillies
-St. Louis Cardinals @ Tampa Bay Rays
-Kansas City Royals @ Boston Red Sox
-Colorado Rockies @ Los Angeles Dodgers
-New York Yankees @ Miami Marlins
-Cleveland Guardians @ Tampa Bay Rays
-Minnesota Twins @ Philadelphia Phillies
-Cincinnati Reds @ Pittsburgh Pirates
-Oakland Athletics @ Washington Nationals
-Chicago Cubs @ Toronto Blue Jays
-Detroit Tigers @ Boston Red Sox
-Atlanta Braves @ New York Mets
-Milwaukee Brewers @ Chicago White Sox
-Los Angeles Angels @ Houston Astros
-St. Louis Cardinals @ Kansas City Royals
-San Diego Padres @ Arizona D'Backs
-Colorado Rockies @ Los Angeles Dodgers
-Baltimore Orioles @ Seattle Mariners
-Texas Rangers @ San Francisco Giants
-Chicago Cubs @ Toronto Blue Jays
-Detroit Tigers @ Boston Red Sox
-New York Yankees @ Miami Marlins
-Cleveland Guardians @ Tampa Bay Rays
-Minnesota Twins @ Philadelphia Phillies
-Cincinnati Reds @ Pittsburgh Pirates
-Oakland Athletics @ Washington Nationals
-Atlanta Braves @ New York Mets
-Milwaukee Brewers @ Chicago White Sox
-Los Angeles Angels @ Houston Astros
-St. Louis Cardinals @ Kansas City Royals
-San Diego Padres @ Arizona D'Backs
-Texas Rangers @ San Francisco Giants
-Colorado Rockies @ Los Angeles Dodgers
-Baltimore Orioles @ Seattle Mariners
-Detroit Tigers @ Boston Red Sox
-Minnesota Twins @ Philadelphia Phillies
-Cincinnati Reds @ Pittsburgh Pirates
-Oakland Athletics @ Washington Nationals
-Chicago Cubs @ Toronto Blue Jays
-New York Yankees @ Miami Marlins
-Atlanta Braves @ New York Mets
-Cleveland Guardians @ Tampa Bay Rays
-Milwaukee Brewers @ Chicago White Sox
-Los Angeles Angels @ Houston Astros
-Texas Rangers @ San Francisco Giants
-San Diego Padres @ Arizona D'Backs
-Colorado Rockies @ Los Angeles Dodgers
-Baltimore Orioles @ Seattle Mariners
-Houston Astros @ Miami Marlins
-Pittsburgh Pirates @ New York Mets
-New York Yankees @ Atlanta Braves
-Oakland Athletics @ St. Louis Cardinals
-Los Angeles Angels @ Texas Rangers
-Seattle Mariners @ Kansas City Royals
-Arizona D'Backs @ Colorado Rockies
-Baltimore Orioles @ San Diego Padres
-Tampa Bay Rays @ San Francisco Giants
-Cleveland Guardians @ Cincinnati Reds
-Houston Astros @ Miami Marlins
-Boston Red Sox @ Washington Nationals
-Philadelphia Phillies @ Toronto Blue Jays
-Pittsburgh Pirates @ New York Mets
-New York Yankees @ Atlanta Braves
-Detroit Tigers @ Minnesota Twins
-Oakland Athletics @ St. Louis Cardinals
-Chicago White Sox @ Chicago Cubs
-Los Angeles Angels @ Texas Rangers
-Seattle Mariners @ Kansas City Royals
-Arizona D'Backs @ Colorado Rockies
-Baltimore Orioles @ San Diego Padres
-Tampa Bay Rays @ San Francisco Giants
-Milwaukee Brewers @ Los Angeles Dodgers
-Detroit Tigers @ Minnesota Twins
-Pittsburgh Pirates @ New York Mets
-Arizona D'Backs @ Colorado Rockies
-Tampa Bay Rays @ San Francisco Giants
-Cleveland Guardians @ Cincinnati Reds
-Houston Astros @ Miami Marlins
-Oakland Athletics @ St. Louis Cardinals
-Boston Red Sox @ Washington Nationals
-Philadelphia Phillies @ Toronto Blue Jays
-New York Yankees @ Atlanta Braves
-Chicago White Sox @ Chicago Cubs
-Los Angeles Angels @ Texas Rangers
-Seattle Mariners @ Kansas City Royals
-Baltimore Orioles @ San Diego Padres
-Milwaukee Brewers @ Los Angeles Dodgers
-Seattle Mariners @ Kansas City Royals
-Boston Red Sox @ Washington Nationals
-Detroit Tigers @ Cleveland Guardians
-New York Mets @ St. Louis Cardinals
-Arizona D'Backs @ San Diego Padres
-Milwaukee Brewers @ Los Angeles Dodgers
-Kansas City Royals @ Chicago Cubs
-Toronto Blue Jays @ Cincinnati Reds
-Boston Red Sox @ New York Yankees
-Philadelphia Phillies @ Washington Nationals
-Detroit Tigers @ Cleveland Guardians
-San Francisco Giants @ Atlanta Braves
-Milwaukee Brewers @ Texas Rangers
-Seattle Mariners @ Houston Astros
-Pittsburgh Pirates @ Minnesota Twins
-New York Mets @ St. Louis Cardinals
-Chicago White Sox @ Colorado Rockies
-Tampa Bay Rays @ Los Angeles Angels
-Baltimore Orioles @ Oakland Athletics
-Arizona D'Backs @ San Diego Padres
-Miami Marlins @ Los Angeles Dodgers
-Boston Red Sox @ New York Yankees
-Kansas City Royals @ Chicago Cubs
-Milwaukee Brewers @ Texas Rangers
-Philadelphia Phillies @ Washington Nationals
-Toronto Blue Jays @ Cincinnati Reds
-Detroit Tigers @ Cleveland Guardians
-Seattle Mariners @ Houston Astros
-Pittsburgh Pirates @ Minnesota Twins
-New York Mets @ St. Louis Cardinals
-San Francisco Giants @ Atlanta Braves
-Chicago White Sox @ Colorado Rockies
-Arizona D'Backs @ San Diego Padres
-Tampa Bay Rays @ Los Angeles Angels
-Baltimore Orioles @ Oakland Athletics
-Miami Marlins @ Los Angeles Dodgers
-Seattle Mariners @ Houston Astros
-San Francisco Giants @ Atlanta Braves
-Boston Red Sox @ New York Yankees
-Toronto Blue Jays @ Cincinnati Reds
-Detroit Tigers @ Cleveland Guardians
-Pittsburgh Pirates @ Minnesota Twins
-New York Mets @ St. Louis Cardinals
-Kansas City Royals @ Chicago Cubs
-Milwaukee Brewers @ Texas Rangers
-Chicago White Sox @ Colorado Rockies
-Tampa Bay Rays @ Los Angeles Angels
-Baltimore Orioles @ Oakland Athletics
-Miami Marlins @ Los Angeles Dodgers
-Arizona D'Backs @ San Diego Padres
-Philadelphia Phillies @ Washington Nationals
-Chicago Cubs @ Detroit Tigers
-San Francisco Giants @ Philadelphia Phillies
-St. Louis Cardinals @ Pittsburgh Pirates
-New York Mets @ Atlanta Braves
-Seattle Mariners @ Chicago White Sox
-Boston Red Sox @ Houston Astros
-Cincinnati Reds @ Los Angeles Angels
-Texas Rangers @ Arizona D'Backs
-Kansas City Royals @ Oakland Athletics
-Miami Marlins @ San Diego Padres
-Chicago Cubs @ Detroit Tigers
-San Francisco Giants @ Philadelphia Phillies
-Colorado Rockies @ Tampa Bay Rays
-Toronto Blue Jays @ Baltimore Orioles
-Washington Nationals @ New York Yankees
-St. Louis Cardinals @ Pittsburgh Pirates
-Los Angeles Dodgers @ Cleveland Guardians
-New York Mets @ Atlanta Braves
-Seattle Mariners @ Chicago White Sox
-Boston Red Sox @ Houston Astros
-Minnesota Twins @ Milwaukee Brewers
-Cincinnati Reds @ Los Angeles Angels
-Texas Rangers @ Arizona D'Backs
-Kansas City Royals @ Oakland Athletics
-Miami Marlins @ San Diego Padres
-St. Louis Cardinals @ Pittsburgh Pirates
-Chicago Cubs @ Detroit Tigers
-Seattle Mariners @ Chicago White Sox
-Minnesota Twins @ Milwaukee Brewers
-Kansas City Royals @ Oakland Athletics
-San Francisco Giants @ Philadelphia Phillies
-Cincinnati Reds @ Los Angeles Angels
-Miami Marlins @ San Diego Padres
-Colorado Rockies @ Tampa Bay Rays
-Toronto Blue Jays @ Baltimore Orioles
-Washington Nationals @ New York Yankees
-Los Angeles Dodgers @ Cleveland Guardians
-New York Mets @ Atlanta Braves
-Boston Red Sox @ Houston Astros
-Washington Nationals @ New York Yankees
-Los Angeles Dodgers @ Cleveland Guardians
-Colorado Rockies @ Tampa Bay Rays
-Boston Red Sox @ Houston Astros
-Toronto Blue Jays @ Baltimore Orioles
-Chicago Cubs @ Pittsburgh Pirates
-Texas Rangers @ Minnesota Twins
-Oakland Athletics @ Chicago White Sox
-Cincinnati Reds @ Arizona D'Backs
-Houston Astros @ Detroit Tigers
-Washington Nationals @ Miami Marlins
-New York Yankees @ Tampa Bay Rays
-Colorado Rockies @ Baltimore Orioles
-St. Louis Cardinals @ Philadelphia Phillies
-Chicago Cubs @ Pittsburgh Pirates
-Cleveland Guardians @ Toronto Blue Jays
-Los Angeles Dodgers @ Boston Red Sox
-Los Angeles Angels @ New York Mets
-Oakland Athletics @ Chicago White Sox
-San Diego Padres @ Milwaukee Brewers
-Texas Rangers @ Minnesota Twins
-Cincinnati Reds @ Arizona D'Backs
-Kansas City Royals @ Seattle Mariners
-Atlanta Braves @ San Francisco Giants
-Cleveland Guardians @ Toronto Blue Jays
-Atlanta Braves @ San Francisco Giants
-Los Angeles Dodgers @ Boston Red Sox
-Washington Nationals @ Miami Marlins
-Kansas City Royals @ Seattle Mariners
-New York Yankees @ Tampa Bay Rays
-Houston Astros @ Detroit Tigers
-Colorado Rockies @ Baltimore Orioles
-Oakland Athletics @ Chicago White Sox
-San Diego Padres @ Milwaukee Brewers
-Los Angeles Angels @ New York Mets
-Texas Rangers @ Minnesota Twins
-St. Louis Cardinals @ Philadelphia Phillies
-Chicago Cubs @ Pittsburgh Pirates
-Cincinnati Reds @ Arizona D'Backs
-Los Angeles Dodgers @ Boston Red Sox
-Los Angeles Angels @ New York Mets
-Colorado Rockies @ Baltimore Orioles
-St. Louis Cardinals @ Philadelphia Phillies
-Chicago Cubs @ Pittsburgh Pirates
-Cleveland Guardians @ Toronto Blue Jays
-Houston Astros @ Detroit Tigers
-Washington Nationals @ Miami Marlins
-New York Yankees @ Tampa Bay Rays
-Oakland Athletics @ Chicago White Sox
-San Diego Padres @ Milwaukee Brewers
-Texas Rangers @ Minnesota Twins
-Atlanta Braves @ San Francisco Giants
-Cincinnati Reds @ Arizona D'Backs
-Kansas City Royals @ Seattle Mariners
-New York Yankees @ Detroit Tigers
-Los Angeles Angels @ Philadelphia Phillies
-Chicago White Sox @ Baltimore Orioles
-Washington Nationals @ Toronto Blue Jays
-Houston Astros @ Boston Red Sox
-Texas Rangers @ New York Mets
-Cleveland Guardians @ Minnesota Twins
-San Diego Padres @ St. Louis Cardinals
-Milwaukee Brewers @ Chicago Cubs
-Pittsburgh Pirates @ Kansas City Royals
-Atlanta Braves @ Colorado Rockies
-Oakland Athletics @ Seattle Mariners
-Cincinnati Reds @ San Francisco Giants
-Arizona D'Backs @ Los Angeles Dodgers
-New York Yankees @ Detroit Tigers
-Tampa Bay Rays @ Miami Marlins
-Los Angeles Angels @ Philadelphia Phillies
-Chicago White Sox @ Baltimore Orioles
-Washington Nationals @ Toronto Blue Jays
-Houston Astros @ Boston Red Sox
-Texas Rangers @ New York Mets
-Cleveland Guardians @ Minnesota Twins
-San Diego Padres @ St. Louis Cardinals
-Milwaukee Brewers @ Chicago Cubs
-Pittsburgh Pirates @ Kansas City Royals
-Atlanta Braves @ Colorado Rockies
-Oakland Athletics @ Seattle Mariners
-Cincinnati Reds @ San Francisco Giants
-Arizona D'Backs @ Los Angeles Dodgers
-Chicago White Sox @ Baltimore Orioles
-Los Angeles Angels @ Philadelphia Phillies
-Cleveland Guardians @ Minnesota Twins
-San Diego Padres @ St. Louis Cardinals
-Milwaukee Brewers @ Chicago Cubs
-Washington Nationals @ Toronto Blue Jays
-Cincinnati Reds @ San Francisco Giants
-Houston Astros @ Boston Red Sox
-Oakland Athletics @ Seattle Mariners
-New York Yankees @ Detroit Tigers
-Tampa Bay Rays @ Miami Marlins
-Texas Rangers @ New York Mets
-Pittsburgh Pirates @ Kansas City Royals
-Atlanta Braves @ Colorado Rockies
-Arizona D'Backs @ Los Angeles Dodgers
-New York Yankees @ Detroit Tigers
-Miami Marlins @ Washington Nationals
-San Francisco Giants @ San Diego Padres
-Atlanta Braves @ Los Angeles Dodgers
-Chicago Cubs @ Cincinnati Reds
-Miami Marlins @ Washington Nationals
-Tampa Bay Rays @ Cleveland Guardians
-Seattle Mariners @ New York Mets
-Minnesota Twins @ Texas Rangers
-Detroit Tigers @ Chicago White Sox
-New York Yankees @ Houston Astros
-Boston Red Sox @ Kansas City Royals
-Philadelphia Phillies @ Milwaukee Brewers
-Pittsburgh Pirates @ St. Louis Cardinals
-Toronto Blue Jays @ Colorado Rockies
-Baltimore Orioles @ Arizona D'Backs
-Los Angeles Angels @ Oakland Athletics
-San Francisco Giants @ San Diego Padres
-Atlanta Braves @ Los Angeles Dodgers
-Miami Marlins @ Washington Nationals
-Los Angeles Angels @ Oakland Athletics
-Tampa Bay Rays @ Cleveland Guardians
-Chicago Cubs @ Cincinnati Reds
-Detroit Tigers @ Chicago White Sox
-New York Yankees @ Houston Astros
-Boston Red Sox @ Kansas City Royals
-Seattle Mariners @ New York Mets
-Philadelphia Phillies @ Milwaukee Brewers
-Pittsburgh Pirates @ St. Louis Cardinals
-Minnesota Twins @ Texas Rangers
-Baltimore Orioles @ Arizona D'Backs
-Toronto Blue Jays @ Colorado Rockies
-San Francisco Giants @ San Diego Padres
-Atlanta Braves @ Los Angeles Dodgers
-Chicago Cubs @ Cincinnati Reds
-Philadelphia Phillies @ Milwaukee Brewers
-Miami Marlins @ Washington Nationals
-Seattle Mariners @ New York Mets
-Detroit Tigers @ Chicago White Sox
-New York Yankees @ Houston Astros
-Boston Red Sox @ Kansas City Royals
-Pittsburgh Pirates @ St. Louis Cardinals
-Minnesota Twins @ Texas Rangers
-Toronto Blue Jays @ Colorado Rockies
-Los Angeles Angels @ Oakland Athletics
-Baltimore Orioles @ Arizona D'Backs
-Tampa Bay Rays @ Cleveland Guardians
-Atlanta Braves @ Los Angeles Dodgers
-San Francisco Giants @ San Diego Padres
-San Francisco Giants @ Chicago Cubs
-Houston Astros @ Texas Rangers
-Toronto Blue Jays @ Oakland Athletics
-Colorado Rockies @ Arizona D'Backs
-Seattle Mariners @ Cincinnati Reds
-Boston Red Sox @ Tampa Bay Rays
-Minnesota Twins @ Cleveland Guardians
-Milwaukee Brewers @ Pittsburgh Pirates
-Philadelphia Phillies @ San Diego Padres
-Baltimore Orioles @ Los Angeles Angels
-Minnesota Twins @ Cleveland Guardians
-Milwaukee Brewers @ Pittsburgh Pirates
-Seattle Mariners @ Cincinnati Reds
-Los Angeles Dodgers @ Miami Marlins
-Boston Red Sox @ Tampa Bay Rays
-Detroit Tigers @ New York Yankees
-New York Mets @ Washington Nationals
-St. Louis Cardinals @ Atlanta Braves
-San Francisco Giants @ Chicago Cubs
-Chicago White Sox @ Kansas City Royals
-Houston Astros @ Texas Rangers
-Baltimore Orioles @ Los Angeles Angels
-Colorado Rockies @ Arizona D'Backs
-Toronto Blue Jays @ Oakland Athletics
-Philadelphia Phillies @ San Diego Padres
-Milwaukee Brewers @ Pittsburgh Pirates
-Minnesota Twins @ Cleveland Guardians
-San Francisco Giants @ Chicago Cubs
-Toronto Blue Jays @ Oakland Athletics
-Colorado Rockies @ Arizona D'Backs
-Philadelphia Phillies @ San Diego Padres
-Seattle Mariners @ Cincinnati Reds
-Los Angeles Dodgers @ Miami Marlins
-Boston Red Sox @ Tampa Bay Rays
-Detroit Tigers @ New York Yankees
-New York Mets @ Washington Nationals
-St. Louis Cardinals @ Atlanta Braves
-Chicago White Sox @ Kansas City Royals
-Houston Astros @ Texas Rangers
-Baltimore Orioles @ Los Angeles Angels
-Chicago White Sox @ Kansas City Royals
-Los Angeles Dodgers @ Miami Marlins
-Seattle Mariners @ Tampa Bay Rays
-Detroit Tigers @ New York Yankees
-St. Louis Cardinals @ Atlanta Braves
-Arizona D'Backs @ Chicago Cubs
-Cleveland Guardians @ Los Angeles Angels
-Arizona D'Backs @ Chicago Cubs
-St. Louis Cardinals @ Cincinnati Reds
-Chicago White Sox @ Detroit Tigers
-Seattle Mariners @ Tampa Bay Rays
-Milwaukee Brewers @ New York Yankees
-Miami Marlins @ Philadelphia Phillies
-Los Angeles Dodgers @ Washington Nationals
-Kansas City Royals @ Toronto Blue Jays
-Baltimore Orioles @ Boston Red Sox
-Pittsburgh Pirates @ Atlanta Braves
-Oakland Athletics @ Texas Rangers
-San Diego Padres @ Houston Astros
-New York Mets @ Minnesota Twins
-Cleveland Guardians @ Los Angeles Angels
-Colorado Rockies @ San Francisco Giants
-Milwaukee Brewers @ New York Yankees
-New York Mets @ Minnesota Twins
-Arizona D'Backs @ Chicago Cubs
-Kansas City Royals @ Toronto Blue Jays
-Seattle Mariners @ Tampa Bay Rays
-Los Angeles Dodgers @ Washington Nationals
-Baltimore Orioles @ Boston Red Sox
-Miami Marlins @ Philadelphia Phillies
-Chicago White Sox @ Detroit Tigers
-St. Louis Cardinals @ Cincinnati Reds
-Oakland Athletics @ Texas Rangers
-San Diego Padres @ Houston Astros
-Pittsburgh Pirates @ Atlanta Braves
-Colorado Rockies @ San Francisco Giants
-Cleveland Guardians @ Los Angeles Angels
-Miami Marlins @ Philadelphia Phillies
-Chicago White Sox @ Detroit Tigers
-Seattle Mariners @ Tampa Bay Rays
-Pittsburgh Pirates @ Atlanta Braves
-Baltimore Orioles @ Boston Red Sox
-Milwaukee Brewers @ New York Yankees
-Los Angeles Dodgers @ Washington Nationals
-Kansas City Royals @ Toronto Blue Jays
-St. Louis Cardinals @ Cincinnati Reds
-San Diego Padres @ Houston Astros
-New York Mets @ Minnesota Twins
-Arizona D'Backs @ Chicago Cubs
-Oakland Athletics @ Texas Rangers
-Colorado Rockies @ San Francisco Giants
-Cleveland Guardians @ Los Angeles Angels
-St. Louis Cardinals @ Baltimore Orioles
-Washington Nationals @ Pittsburgh Pirates
-Texas Rangers @ Toronto Blue Jays
-New York Yankees @ Boston Red Sox
-Arizona D'Backs @ New York Mets
-Kansas City Royals @ Chicago White Sox
-Miami Marlins @ Milwaukee Brewers
-Tampa Bay Rays @ Minnesota Twins
-Oakland Athletics @ Houston Astros
-Chicago Cubs @ Colorado Rockies
-Los Angeles Angels @ Seattle Mariners
-Cleveland Guardians @ San Francisco Giants
-San Diego Padres @ Los Angeles Dodgers
-St. Louis Cardinals @ Baltimore Orioles
-Washington Nationals @ Pittsburgh Pirates
-Cincinnati Reds @ Detroit Tigers
-Atlanta Braves @ Philadelphia Phillies
-Texas Rangers @ Toronto Blue Jays
-New York Yankees @ Boston Red Sox
-Arizona D'Backs @ New York Mets
-Kansas City Royals @ Chicago White Sox
-Miami Marlins @ Milwaukee Brewers
-Tampa Bay Rays @ Minnesota Twins
-Oakland Athletics @ Houston Astros
-Chicago Cubs @ Colorado Rockies
-Los Angeles Angels @ Seattle Mariners
-Cleveland Guardians @ San Francisco Giants
-San Diego Padres @ Los Angeles Dodgers
-Tampa Bay Rays @ Minnesota Twins
-Chicago Cubs @ Colorado Rockies
-Cleveland Guardians @ San Francisco Giants
-Los Angeles Angels @ Seattle Mariners
-St. Louis Cardinals @ Baltimore Orioles
-Washington Nationals @ Pittsburgh Pirates
-Cincinnati Reds @ Detroit Tigers
-Atlanta Braves @ Philadelphia Phillies
-Texas Rangers @ Toronto Blue Jays
-New York Yankees @ Boston Red Sox
-Oakland Athletics @ Houston Astros
-Arizona D'Backs @ New York Mets
-Kansas City Royals @ Chicago White Sox
-Miami Marlins @ Milwaukee Brewers
-San Diego Padres @ Los Angeles Dodgers
-Washington Nationals @ Pittsburgh Pirates
-Cincinnati Reds @ Detroit Tigers
-Miami Marlins @ Milwaukee Brewers
-Atlanta Braves @ Philadelphia Phillies
-Arizona D'Backs @ New York Mets
-Tampa Bay Rays @ Baltimore Orioles
-Texas Rangers @ Toronto Blue Jays
-Minnesota Twins @ Chicago White Sox
-New York Yankees @ Boston Red Sox
-San Francisco Giants @ Colorado Rockies
-New York Yankees @ Pittsburgh Pirates
-Atlanta Braves @ Miami Marlins
-Tampa Bay Rays @ Baltimore Orioles
-Boston Red Sox @ Toronto Blue Jays
-Texas Rangers @ Cleveland Guardians
-Cincinnati Reds @ New York Mets
-Minnesota Twins @ Chicago White Sox
-Houston Astros @ Kansas City Royals
-Washington Nationals @ Milwaukee Brewers
-Philadelphia Phillies @ St. Louis Cardinals
-San Francisco Giants @ Colorado Rockies
-Detroit Tigers @ Los Angeles Angels
-Chicago Cubs @ Arizona D'Backs
-San Diego Padres @ Oakland Athletics
-Los Angeles Dodgers @ Seattle Mariners
-Boston Red Sox @ Toronto Blue Jays
-San Diego Padres @ Oakland Athletics
-Atlanta Braves @ Miami Marlins
-Texas Rangers @ Cleveland Guardians
-New York Yankees @ Pittsburgh Pirates
-Tampa Bay Rays @ Baltimore Orioles
-Minnesota Twins @ Chicago White Sox
-Houston Astros @ Kansas City Royals
-Washington Nationals @ Milwaukee Brewers
-Cincinnati Reds @ New York Mets
-Philadelphia Phillies @ St. Louis Cardinals
-Chicago Cubs @ Arizona D'Backs
-San Francisco Giants @ Colorado Rockies
-Detroit Tigers @ Los Angeles Angels
-Los Angeles Dodgers @ Seattle Mariners
-Tampa Bay Rays @ Baltimore Orioles
-New York Yankees @ Pittsburgh Pirates
-Boston Red Sox @ Toronto Blue Jays
-Texas Rangers @ Cleveland Guardians
-Atlanta Braves @ Miami Marlins
-Cincinnati Reds @ New York Mets
-Minnesota Twins @ Chicago White Sox
-Houston Astros @ Kansas City Royals
-Washington Nationals @ Milwaukee Brewers
-Philadelphia Phillies @ St. Louis Cardinals
-San Francisco Giants @ Colorado Rockies
-Detroit Tigers @ Los Angeles Angels
-San Diego Padres @ Oakland Athletics
-Chicago Cubs @ Arizona D'Backs
-Los Angeles Dodgers @ Seattle Mariners
-Cleveland Guardians @ Kansas City Royals
-Minnesota Twins @ Cincinnati Reds
-New York Mets @ Miami Marlins
-Chicago White Sox @ Washington Nationals
-Philadelphia Phillies @ Atlanta Braves
-Milwaukee Brewers @ St. Louis Cardinals
-Boston Red Sox @ Texas Rangers
-Baltimore Orioles @ Houston Astros
-Seattle Mariners @ Oakland Athletics
-Colorado Rockies @ San Diego Padres
-Detroit Tigers @ Los Angeles Dodgers
-Minnesota Twins @ Cincinnati Reds
-New York Mets @ Miami Marlins
-Los Angeles Angels @ Tampa Bay Rays
-Toronto Blue Jays @ New York Yankees
-Chicago White Sox @ Washington Nationals
-Philadelphia Phillies @ Atlanta Braves
-Pittsburgh Pirates @ Chicago Cubs
-Cleveland Guardians @ Kansas City Royals
-Milwaukee Brewers @ St. Louis Cardinals
-Boston Red Sox @ Texas Rangers
-Baltimore Orioles @ Houston Astros
-San Francisco Giants @ Arizona D'Backs
-Seattle Mariners @ Oakland Athletics
-Colorado Rockies @ San Diego Padres
-Detroit Tigers @ Los Angeles Dodgers
-Philadelphia Phillies @ Atlanta Braves
-Minnesota Twins @ Cincinnati Reds
-Chicago White Sox @ Washington Nationals
-Boston Red Sox @ Texas Rangers
-Baltimore Orioles @ Houston Astros
-Cleveland Guardians @ Kansas City Royals
-Seattle Mariners @ Oakland Athletics
-San Francisco Giants @ Arizona D'Backs
-Colorado Rockies @ San Diego Padres
-New York Mets @ Miami Marlins
-Los Angeles Angels @ Tampa Bay Rays
-Toronto Blue Jays @ New York Yankees
-Pittsburgh Pirates @ Chicago Cubs
-Milwaukee Brewers @ St. Louis Cardinals
-Detroit Tigers @ Los Angeles Dodgers
-Los Angeles Angels @ Tampa Bay Rays
-Milwaukee Brewers @ St. Louis Cardinals
-Toronto Blue Jays @ New York Yankees
-New York Mets @ Philadelphia Phillies
-Atlanta Braves @ Washington Nationals
-Baltimore Orioles @ Cleveland Guardians
-Pittsburgh Pirates @ Chicago Cubs
-Detroit Tigers @ Oakland Athletics
-San Francisco Giants @ Los Angeles Dodgers
-Colorado Rockies @ Chicago Cubs
-Pittsburgh Pirates @ Cincinnati Reds
-Milwaukee Brewers @ Miami Marlins
-Toronto Blue Jays @ Tampa Bay Rays
-Arizona D'Backs @ New York Yankees
-New York Mets @ Philadelphia Phillies
-Atlanta Braves @ Washington Nationals
-Chicago White Sox @ Boston Red Sox
-Baltimore Orioles @ Cleveland Guardians
-Seattle Mariners @ Texas Rangers
-Kansas City Royals @ Houston Astros
-Los Angeles Angels @ Minnesota Twins
-Detroit Tigers @ Oakland Athletics
-St. Louis Cardinals @ San Diego Padres
-San Francisco Giants @ Los Angeles Dodgers
-Arizona D'Backs @ New York Yankees
-Atlanta Braves @ Washington Nationals
-Los Angeles Angels @ Minnesota Twins
-Colorado Rockies @ Chicago Cubs
-New York Mets @ Philadelphia Phillies
-Detroit Tigers @ Oakland Athletics
-Chicago White Sox @ Boston Red Sox
-Milwaukee Brewers @ Miami Marlins
-Toronto Blue Jays @ Tampa Bay Rays
-Baltimore Orioles @ Cleveland Guardians
-Pittsburgh Pirates @ Cincinnati Reds
-Seattle Mariners @ Texas Rangers
-Kansas City Royals @ Houston Astros
-St. Louis Cardinals @ San Diego Padres
-San Francisco Giants @ Los Angeles Dodgers
-New York Mets @ Philadelphia Phillies
-Toronto Blue Jays @ Tampa Bay Rays
-Chicago White Sox @ Boston Red Sox
-Arizona D'Backs @ New York Yankees
-Atlanta Braves @ Washington Nationals
-Pittsburgh Pirates @ Cincinnati Reds
-Baltimore Orioles @ Cleveland Guardians
-Milwaukee Brewers @ Miami Marlins
-Kansas City Royals @ Houston Astros
-Los Angeles Angels @ Minnesota Twins
-Colorado Rockies @ Chicago Cubs
-Seattle Mariners @ Texas Rangers
-Detroit Tigers @ Oakland Athletics
-San Francisco Giants @ Los Angeles Dodgers
-St. Louis Cardinals @ San Diego Padres
-Arizona D'Backs @ Chicago White Sox
-Texas Rangers @ Los Angeles Angels
-Houston Astros @ Seattle Mariners
-San Diego Padres @ San Francisco Giants
-Los Angeles Dodgers @ Colorado Rockies
-Cincinnati Reds @ Cleveland Guardians
-Washington Nationals @ Baltimore Orioles
-Kansas City Royals @ Detroit Tigers
-Pittsburgh Pirates @ Philadelphia Phillies
-New York Yankees @ Toronto Blue Jays
-Tampa Bay Rays @ Boston Red Sox
-Miami Marlins @ New York Mets
-Chicago Cubs @ Atlanta Braves
-Arizona D'Backs @ Chicago White Sox
-St. Louis Cardinals @ Milwaukee Brewers
-Oakland Athletics @ Minnesota Twins
-Los Angeles Dodgers @ Colorado Rockies
-Texas Rangers @ Los Angeles Angels
-Houston Astros @ Seattle Mariners
-San Diego Padres @ San Francisco Giants
-Arizona D'Backs @ Chicago White Sox
-Tampa Bay Rays @ Boston Red Sox
-Cincinnati Reds @ Cleveland Guardians
-Washington Nationals @ Baltimore Orioles
-Kansas City Royals @ Detroit Tigers
-Pittsburgh Pirates @ Philadelphia Phillies
-New York Yankees @ Toronto Blue Jays
-Miami Marlins @ New York Mets
-Chicago Cubs @ Atlanta Braves
-St. Louis Cardinals @ Milwaukee Brewers
-Oakland Athletics @ Minnesota Twins
-Los Angeles Dodgers @ Colorado Rockies
-Texas Rangers @ Los Angeles Angels
-Houston Astros @ Seattle Mariners
-San Diego Padres @ San Francisco Giants
-Kansas City Royals @ Detroit Tigers
-Oakland Athletics @ Minnesota Twins
-Pittsburgh Pirates @ Philadelphia Phillies
-Boston Red Sox @ Baltimore Orioles
-New York Yankees @ Toronto Blue Jays
-Miami Marlins @ New York Mets
-Chicago Cubs @ Atlanta Braves
-St. Louis Cardinals @ Milwaukee Brewers
-Los Angeles Dodgers @ Colorado Rockies
-Texas Rangers @ Seattle Mariners
-Miami Marlins @ Pittsburgh Pirates
-Cleveland Guardians @ Detroit Tigers
-Boston Red Sox @ Baltimore Orioles
-Tampa Bay Rays @ Toronto Blue Jays
-Philadelphia Phillies @ New York Mets
-Washington Nationals @ Atlanta Braves
-San Diego Padres @ Chicago White Sox
-Minnesota Twins @ Colorado Rockies
-New York Yankees @ Kansas City Royals
-Chicago Cubs @ Milwaukee Brewers
-Cincinnati Reds @ St. Louis Cardinals
-Oakland Athletics @ Los Angeles Angels
-Houston Astros @ Arizona D'Backs
-Texas Rangers @ Seattle Mariners
-Los Angeles Dodgers @ San Francisco Giants
-Cleveland Guardians @ Detroit Tigers
-Tampa Bay Rays @ Toronto Blue Jays
-Miami Marlins @ Pittsburgh Pirates
-Boston Red Sox @ Baltimore Orioles
-San Diego Padres @ Chicago White Sox
-New York Yankees @ Kansas City Royals
-Chicago Cubs @ Milwaukee Brewers
-Philadelphia Phillies @ New York Mets
-Cincinnati Reds @ St. Louis Cardinals
-Washington Nationals @ Atlanta Braves
-Houston Astros @ Arizona D'Backs
-Minnesota Twins @ Colorado Rockies
-Los Angeles Dodgers @ San Francisco Giants
-Oakland Athletics @ Los Angeles Angels
-Texas Rangers @ Seattle Mariners
-Washington Nationals @ Atlanta Braves
-Boston Red Sox @ Baltimore Orioles
-Miami Marlins @ Pittsburgh Pirates
-Los Angeles Dodgers @ San Francisco Giants
-Oakland Athletics @ Los Angeles Angels
-Tampa Bay Rays @ Toronto Blue Jays
-Houston Astros @ Arizona D'Backs
-San Diego Padres @ Chicago White Sox
-Minnesota Twins @ Colorado Rockies
-Cleveland Guardians @ Detroit Tigers
-New York Yankees @ Kansas City Royals
-Chicago Cubs @ Milwaukee Brewers
-Philadelphia Phillies @ New York Mets
-Texas Rangers @ Seattle Mariners
-Cincinnati Reds @ St. Louis Cardinals
+SF @ NYY
+ATL @ WSH
+BAL @ BOS
+MIL @ CHC
+DET @ TB
+PHI @ TEX
+PIT @ CIN
+MIN @ KC
+NYM @ MIA
+COL @ SD
+TOR @ STL
+CWS @ HOU
+LAA @ OAK
+ARI @ LAD
+CLE @ SEA
+NYM @ MIA
+CWS @ HOU
+COL @ SD
+ARI @ LAD
+CLE @ SEA
+CWS @ HOU
+TOR @ STL
+MIL @ CHC
+SF @ NYY
+PHI @ TEX
+ATL @ WSH
+LAA @ OAK
+BAL @ BOS
+PIT @ CIN
+MIN @ KC
+NYM @ MIA
+DET @ TB
+COL @ SD
+ARI @ LAD
+CLE @ SEA
+DET @ TB
+BAL @ BOS
+SF @ NYY
+ATL @ WSH
+PIT @ CIN
+NYM @ MIA
+CWS @ HOU
+MIN @ KC
+TOR @ STL
+MIL @ CHC
+LAA @ OAK
+ARI @ LAD
+COL @ SD
+CLE @ SEA
+PHI @ TEX
+NYM @ MIL
+SF @ CWS
+CHC @ CIN
+MIN @ MIA
+PHI @ NYY
+TB @ WSH
+PIT @ BOS
+TOR @ KC
+ATL @ STL
+BAL @ TEX
+DET @ HOU
+CLE @ OAK
+ARI @ SD
+LAA @ SEA
+COL @ LAD
+ARI @ SD
+CHC @ CIN
+MIN @ MIA
+PHI @ NYY
+TB @ WSH
+PIT @ BOS
+TOR @ KC
+NYM @ MIL
+ATL @ STL
+BAL @ TEX
+DET @ HOU
+CLE @ OAK
+LAA @ SEA
+COL @ LAD
+CHC @ CIN
+PHI @ NYY
+TB @ WSH
+MIN @ MIA
+ATL @ STL
+PIT @ BOS
+NYM @ MIL
+BAL @ TEX
+SF @ CWS
+DET @ HOU
+CLE @ OAK
+LAA @ SEA
+TOR @ KC
+BOS @ DET
+MIA @ NYM
+SF @ CWS
+TOR @ KC
+NYY @ BAL
+CIN @ PHI
+WSH @ COL
+HOU @ MIN
+SD @ ATL
+LAD @ ARI
+TEX @ CHC
+SEA @ CLE
+CWS @ PIT
+KC @ SF
+OAK @ TB
+SD @ ATL
+STL @ MIL
+WSH @ COL
+TOR @ LAA
+LAD @ ARI
+HOU @ MIN
+TEX @ CHC
+CIN @ PHI
+KC @ SF
+BOS @ DET
+MIA @ NYM
+OAK @ TB
+SEA @ CLE
+CWS @ PIT
+NYY @ BAL
+STL @ MIL
+SD @ ATL
+LAD @ ARI
+WSH @ COL
+TOR @ LAA
+CIN @ PHI
+BOS @ DET
+OAK @ TB
+NYY @ BAL
+CWS @ PIT
+SEA @ CLE
+MIA @ NYM
+STL @ MIL
+HOU @ MIN
+TEX @ CHC
+WSH @ COL
+KC @ SF
+TOR @ LAA
+LAD @ ARI
+SD @ ATL
+CWS @ MIN
+NYY @ CLE
+OAK @ BAL
+HOU @ PIT
+MIA @ PHI
+BOS @ TB
+SD @ NYM
+CIN @ ATL
+SEA @ CHC
+KC @ TEX
+STL @ COL
+WSH @ LAA
+MIL @ ARI
+LAD @ SF
+NYY @ CLE
+OAK @ BAL
+HOU @ PIT
+MIA @ PHI
+BOS @ TB
+DET @ TOR
+SD @ NYM
+CIN @ ATL
+SEA @ CHC
+CWS @ MIN
+KC @ TEX
+STL @ COL
+WSH @ LAA
+MIL @ ARI
+LAD @ SF
+HOU @ PIT
+NYY @ CLE
+CWS @ MIN
+SD @ NYM
+SEA @ CHC
+STL @ COL
+MIL @ ARI
+MIA @ PHI
+WSH @ LAA
+OAK @ BAL
+BOS @ TB
+DET @ TOR
+CIN @ ATL
+KC @ TEX
+LAD @ SF
+OAK @ BAL
+BOS @ TB
+PHI @ CIN
+MIN @ NYY
+DET @ TOR
+PIT @ STL
+MIL @ SD
+PHI @ CIN
+SF @ DET
+ARI @ MIA
+MIN @ NYY
+CLE @ WSH
+TB @ TOR
+LAA @ BOS
+BAL @ CWS
+TEX @ HOU
+ATL @ KC
+PIT @ STL
+NYM @ OAK
+MIL @ SD
+CHC @ LAD
+COL @ SEA
+MIN @ NYY
+SF @ DET
+BAL @ CWS
+PIT @ STL
+TB @ TOR
+MIL @ SD
+CLE @ WSH
+NYM @ OAK
+LAA @ BOS
+PHI @ CIN
+ATL @ KC
+ARI @ MIA
+TEX @ HOU
+CHC @ LAD
+COL @ SEA
+SF @ DET
+LAA @ BOS
+MIN @ NYY
+CLE @ WSH
+TB @ TOR
+PHI @ CIN
+ARI @ MIA
+BAL @ CWS
+ATL @ KC
+PIT @ STL
+NYM @ OAK
+CHC @ LAD
+MIL @ SD
+COL @ SEA
+TEX @ HOU
+LAA @ BOS
+TB @ CIN
+CLE @ DET
+SF @ MIA
+PHI @ CWS
+TEX @ KC
+ARI @ STL
+TOR @ HOU
+PIT @ COL
+CHC @ OAK
+ATL @ SD
+MIL @ SEA
+NYM @ LAD
+TB @ CIN
+CLE @ DET
+SF @ MIA
+LAA @ NYY
+BAL @ WSH
+MIN @ BOS
+PHI @ CWS
+TEX @ KC
+ARI @ STL
+TOR @ HOU
+PIT @ COL
+CHC @ OAK
+ATL @ SD
+MIL @ SEA
+NYM @ LAD
+TB @ CIN
+CLE @ DET
+SF @ MIA
+ARI @ STL
+PHI @ CWS
+TEX @ KC
+PIT @ COL
+NYM @ LAD
+CHC @ OAK
+ATL @ SD
+MIL @ SEA
+LAA @ NYY
+BAL @ WSH
+MIN @ BOS
+TOR @ HOU
+MIN @ BOS
+LAA @ NYY
+CIN @ PIT
+COL @ PHI
+LAD @ CHC
+SD @ ARI
+NYM @ SF
+LAD @ CHC
+CIN @ PIT
+CWS @ TB
+DET @ BAL
+TOR @ NYY
+COL @ PHI
+MIA @ CLE
+HOU @ ATL
+OAK @ TEX
+BOS @ MIL
+WSH @ MIN
+KC @ LAA
+SD @ ARI
+STL @ SEA
+NYM @ SF
+TOR @ NYY
+WSH @ MIN
+LAD @ CHC
+COL @ PHI
+NYM @ SF
+CWS @ TB
+MIA @ CLE
+CIN @ PIT
+DET @ BAL
+OAK @ TEX
+BOS @ MIL
+HOU @ ATL
+SD @ ARI
+KC @ LAA
+STL @ SEA
+COL @ PHI
+HOU @ ATL
+DET @ BAL
+TOR @ NYY
+CIN @ PIT
+MIA @ CLE
+CWS @ TB
+BOS @ MIL
+WSH @ MIN
+LAD @ CHC
+OAK @ TEX
+KC @ LAA
+SD @ ARI
+STL @ SEA
+NYM @ SF
+COL @ CLE
+BOS @ BAL
+TEX @ CIN
+HOU @ TB
+CWS @ TOR
+MIA @ ATL
+DET @ MIL
+NYY @ MIN
+OAK @ LAA
+KC @ ARI
+STL @ SF
+COL @ CLE
+BOS @ BAL
+LAD @ PIT
+TEX @ CIN
+SEA @ PHI
+HOU @ TB
+CWS @ TOR
+WSH @ NYM
+MIA @ ATL
+SD @ CHC
+DET @ MIL
+NYY @ MIN
+OAK @ LAA
+KC @ ARI
+STL @ SF
+TEX @ CIN
+BOS @ BAL
+CWS @ TOR
+COL @ CLE
+NYY @ MIN
+DET @ MIL
+KC @ ARI
+LAD @ PIT
+SEA @ PHI
+HOU @ TB
+WSH @ NYM
+MIA @ ATL
+SD @ CHC
+OAK @ LAA
+STL @ SF
+MIA @ ATL
+LAD @ PIT
+SEA @ PHI
+SD @ CHC
+STL @ SF
+OAK @ LAA
+BAL @ DET
+TB @ CWS
+WSH @ NYM
+KC @ MIN
+NYY @ TEX
+KC @ MIN
+BAL @ DET
+CHC @ MIA
+PIT @ WSH
+SEA @ TOR
+CLE @ BOS
+TB @ CWS
+ATL @ NYM
+NYY @ TEX
+PHI @ HOU
+LAA @ MIL
+ARI @ COL
+CIN @ OAK
+STL @ LAD
+PIT @ WSH
+BAL @ DET
+KC @ MIN
+SEA @ TOR
+CHC @ MIA
+ATL @ NYM
+CIN @ OAK
+CLE @ BOS
+SF @ SD
+PHI @ HOU
+NYY @ TEX
+TB @ CWS
+LAA @ MIL
+ARI @ COL
+STL @ LAD
+CHC @ MIA
+CLE @ BOS
+PIT @ WSH
+SEA @ TOR
+BAL @ DET
+ATL @ NYM
+TB @ CWS
+LAA @ MIL
+KC @ MIN
+NYY @ TEX
+SF @ SD
+ARI @ COL
+CIN @ OAK
+STL @ LAD
+PHI @ HOU
+ATL @ NYM
+CLE @ NYY
+CHC @ WSH
+TOR @ BOS
+SF @ HOU
+CIN @ SD
+PHI @ LAD
+NYM @ DET
+ATL @ MIA
+PIT @ TB
+CLE @ NYY
+CHC @ WSH
+TOR @ BOS
+MIN @ CWS
+BAL @ KC
+LAA @ STL
+ARI @ TEX
+SF @ HOU
+MIL @ COL
+SEA @ OAK
+CIN @ SD
+PHI @ LAD
+ARI @ TEX
+SF @ HOU
+PHI @ LAD
+CIN @ SD
+NYM @ DET
+ATL @ MIA
+PIT @ TB
+CLE @ NYY
+CHC @ WSH
+TOR @ BOS
+MIN @ CWS
+BAL @ KC
+LAA @ STL
+MIL @ COL
+SEA @ OAK
+CHC @ WSH
+NYM @ DET
+PIT @ TB
+LAA @ STL
+MIN @ CWS
+BAL @ KC
+MIL @ COL
+SEA @ OAK
+ATL @ MIA
+TOR @ BOS
+MIA @ CHC
+TOR @ PIT
+CWS @ CIN
+NYY @ TB
+BOS @ PHI
+MIN @ CLE
+COL @ NYM
+BAL @ ATL
+OAK @ KC
+DET @ STL
+TEX @ LAA
+WSH @ ARI
+LAD @ SD
+HOU @ SEA
+MIL @ SF
+DET @ STL
+MIA @ CHC
+COL @ NYM
+NYY @ TB
+MIN @ CLE
+TOR @ PIT
+CWS @ CIN
+OAK @ KC
+BAL @ ATL
+BOS @ PHI
+MIL @ SF
+WSH @ ARI
+LAD @ SD
+TEX @ LAA
+HOU @ SEA
+BAL @ ATL
+BOS @ PHI
+TOR @ PIT
+MIN @ CLE
+COL @ NYM
+NYY @ TB
+OAK @ KC
+DET @ STL
+MIA @ CHC
+MIL @ SF
+TEX @ LAA
+WSH @ ARI
+CWS @ CIN
+HOU @ SEA
+LAD @ SD
+DET @ CLE
+TB @ BAL
+COL @ PIT
+OAK @ NYY
+STL @ CHC
+CWS @ KC
+LAD @ MIL
+HOU @ LAA
+MIA @ ARI
+TEX @ SEA
+WSH @ SF
+DET @ CLE
+TB @ BAL
+COL @ PIT
+NYM @ CIN
+TOR @ PHI
+OAK @ NYY
+BOS @ ATL
+STL @ CHC
+CWS @ KC
+LAD @ MIL
+SD @ MIN
+HOU @ LAA
+MIA @ ARI
+TEX @ SEA
+WSH @ SF
+OAK @ NYY
+COL @ PIT
+DET @ CLE
+LAD @ MIL
+MIA @ ARI
+TEX @ SEA
+WSH @ SF
+TOR @ PHI
+HOU @ LAA
+TB @ BAL
+NYM @ CIN
+BOS @ ATL
+STL @ CHC
+CWS @ KC
+SD @ MIN
+NYM @ CIN
+SD @ MIN
+CWS @ KC
+TB @ NYY
+SF @ ARI
+TEX @ OAK
+SEA @ DET
+CIN @ MIA
+PIT @ BAL
+TB @ NYY
+NYM @ WSH
+ATL @ TOR
+STL @ BOS
+LAA @ CLE
+HOU @ CWS
+KC @ MIL
+CHC @ MIN
+PHI @ COL
+SF @ ARI
+TEX @ OAK
+SD @ LAD
+TB @ NYY
+SEA @ DET
+CIN @ MIA
+CHC @ MIN
+ATL @ TOR
+NYM @ WSH
+TEX @ OAK
+STL @ BOS
+LAA @ CLE
+PIT @ BAL
+KC @ MIL
+HOU @ CWS
+SD @ LAD
+SF @ ARI
+PHI @ COL
+LAA @ CLE
+PIT @ BAL
+TB @ NYY
+NYM @ WSH
+ATL @ TOR
+SEA @ DET
+CIN @ MIA
+HOU @ CWS
+KC @ MIL
+CHC @ MIN
+PHI @ COL
+TEX @ OAK
+SF @ ARI
+SD @ LAD
+STL @ BOS
+NYM @ WSH
+LAA @ BAL
+NYY @ TOR
+SEA @ BOS
+MIL @ STL
+ATL @ TEX
+CHC @ HOU
+CIN @ COL
+ARI @ OAK
+KC @ SD
+PHI @ SF
+MIN @ LAD
+LAA @ BAL
+PIT @ DET
+WSH @ MIA
+NYY @ TOR
+SEA @ BOS
+TB @ NYM
+MIL @ STL
+ATL @ TEX
+CLE @ CWS
+CHC @ HOU
+CIN @ COL
+ARI @ OAK
+KC @ SD
+PHI @ SF
+MIN @ LAD
+PIT @ DET
+CIN @ COL
+MIN @ LAD
+ARI @ OAK
+PHI @ SF
+KC @ SD
+LAA @ BAL
+WSH @ MIA
+NYY @ TOR
+SEA @ BOS
+TB @ NYM
+MIL @ STL
+ATL @ TEX
+CLE @ CWS
+CHC @ HOU
+LAA @ BAL
+WSH @ MIA
+TB @ NYM
+CLE @ CWS
+NYY @ TOR
+LAD @ STL
+ARI @ PIT
+NYY @ CIN
+MIL @ TB
+CHC @ PHI
+DET @ WSH
+BAL @ TOR
+CLE @ NYM
+SEA @ ATL
+COL @ TEX
+KC @ CWS
+OAK @ HOU
+LAD @ STL
+MIN @ LAA
+BOS @ SD
+MIA @ SF
+KC @ CWS
+BAL @ TOR
+CHC @ PHI
+ARI @ PIT
+MIA @ SF
+COL @ TEX
+DET @ WSH
+NYY @ CIN
+OAK @ HOU
+CLE @ NYM
+MIL @ TB
+SEA @ ATL
+LAD @ STL
+MIN @ LAA
+BOS @ SD
+NYY @ CIN
+SEA @ ATL
+CHC @ PHI
+ARI @ PIT
+DET @ WSH
+BAL @ TOR
+MIL @ TB
+KC @ CWS
+OAK @ HOU
+LAD @ STL
+COL @ TEX
+MIA @ SF
+MIN @ LAA
+BOS @ SD
+CLE @ NYM
+CWS @ CLE
+TEX @ PIT
+STL @ CIN
+ARI @ PHI
+TOR @ TB
+LAD @ ATL
+DET @ KC
+HOU @ MIL
+SF @ MIN
+MIA @ COL
+BOS @ LAA
+OAK @ SEA
+CWS @ CLE
+TEX @ PIT
+STL @ CIN
+ARI @ PHI
+TOR @ TB
+BAL @ NYY
+SD @ WSH
+LAD @ ATL
+NYM @ CHC
+DET @ KC
+HOU @ MIL
+SF @ MIN
+MIA @ COL
+BOS @ LAA
+OAK @ SEA
+TEX @ PIT
+ARI @ PHI
+CWS @ CLE
+HOU @ MIL
+SF @ MIN
+STL @ CIN
+TOR @ TB
+BAL @ NYY
+SD @ WSH
+LAD @ ATL
+NYM @ CHC
+DET @ KC
+MIA @ COL
+BOS @ LAA
+OAK @ SEA
+STL @ CIN
+TOR @ TB
+MIA @ COL
+SD @ WSH
+CWS @ DET
+BAL @ NYY
+PHI @ ATL
+NYM @ CHC
+SF @ MIL
+OAK @ SEA
+CIN @ CHC
+CWS @ DET
+LAD @ TB
+TEX @ BAL
+SD @ NYY
+STL @ CLE
+PHI @ ATL
+WSH @ KC
+SF @ MIL
+TOR @ MIN
+NYM @ COL
+MIA @ LAA
+BOS @ ARI
+HOU @ OAK
+PIT @ SEA
+SD @ NYY
+CWS @ DET
+TOR @ MIN
+TEX @ BAL
+HOU @ OAK
+PHI @ ATL
+WSH @ KC
+SF @ MIL
+PIT @ SEA
+LAD @ TB
+BOS @ ARI
+CIN @ CHC
+STL @ CLE
+NYM @ COL
+MIA @ LAA
+LAD @ TB
+TEX @ BAL
+SD @ NYY
+STL @ CLE
+CWS @ DET
+WSH @ KC
+SF @ MIL
+TOR @ MIN
+CIN @ CHC
+NYM @ COL
+MIA @ LAA
+HOU @ OAK
+BOS @ ARI
+PIT @ SEA
+PHI @ ATL
+CLE @ BAL
+TEX @ DET
+KC @ STL
+TB @ CHC
+COL @ ARI
+MIN @ HOU
+PIT @ SF
+ATL @ OAK
+LAA @ CWS
+WSH @ LAD
+NYY @ SEA
+TEX @ DET
+SD @ MIA
+CLE @ BAL
+MIL @ TOR
+CIN @ BOS
+PHI @ NYM
+KC @ STL
+TB @ CHC
+LAA @ CWS
+MIN @ HOU
+COL @ ARI
+ATL @ OAK
+NYY @ SEA
+PIT @ SF
+WSH @ LAD
+TEX @ DET
+LAA @ CWS
+TB @ CHC
+CLE @ BAL
+ATL @ OAK
+PIT @ SF
+WSH @ LAD
+SD @ MIA
+MIL @ TOR
+CIN @ BOS
+PHI @ NYM
+MIN @ HOU
+COL @ ARI
+NYY @ SEA
+MIL @ TOR
+SD @ MIA
+PHI @ NYM
+COL @ ARI
+CIN @ BOS
+CLE @ MIN
+LAA @ HOU
+MIL @ CIN
+OAK @ MIA
+STL @ PIT
+PHI @ WSH
+TB @ BOS
+TOR @ NYM
+SEA @ TEX
+DET @ CWS
+LAA @ HOU
+COL @ KC
+CLE @ MIN
+ATL @ ARI
+CHC @ SD
+NYY @ LAD
+BAL @ SF
+TB @ BOS
+DET @ CWS
+STL @ PIT
+SEA @ TEX
+PHI @ WSH
+MIL @ CIN
+LAA @ HOU
+COL @ KC
+OAK @ MIA
+TOR @ NYM
+TB @ BOS
+NYY @ LAD
+CLE @ MIN
+BAL @ SF
+ATL @ ARI
+CHC @ SD
+STL @ PIT
+TB @ BOS
+PHI @ WSH
+MIL @ CIN
+OAK @ MIA
+TOR @ NYM
+DET @ CWS
+LAA @ HOU
+COL @ KC
+CLE @ MIN
+SEA @ TEX
+BAL @ SF
+ATL @ ARI
+CHC @ SD
+NYY @ LAD
+KC @ MIA
+DET @ PHI
+OAK @ PIT
+HOU @ TOR
+MIL @ CIN
+STL @ TEX
+CHC @ SD
+KC @ MIA
+DET @ PHI
+MIN @ TB
+CWS @ NYY
+OAK @ PIT
+ARI @ WSH
+HOU @ TOR
+LAD @ CIN
+BOS @ CLE
+NYM @ ATL
+BAL @ MIL
+STL @ TEX
+SF @ COL
+CHC @ LAA
+SEA @ SD
+OAK @ PIT
+SEA @ SD
+DET @ PHI
+KC @ MIA
+MIN @ TB
+CWS @ NYY
+ARI @ WSH
+HOU @ TOR
+LAD @ CIN
+BOS @ CLE
+NYM @ ATL
+BAL @ MIL
+STL @ TEX
+SF @ COL
+CHC @ LAA
+LAD @ CIN
+ARI @ WSH
+MIN @ TB
+BAL @ MIL
+SF @ COL
+CWS @ NYY
+HOU @ TOR
+BOS @ CLE
+NYM @ ATL
+CHC @ LAA
+ARI @ DET
+TEX @ TB
+KC @ BAL
+BOS @ NYY
+LAD @ PHI
+NYM @ PIT
+MIN @ TOR
+HOU @ CLE
+WSH @ ATL
+MIA @ CWS
+OAK @ MIL
+CIN @ STL
+SD @ COL
+SEA @ LAA
+CHC @ SF
+ARI @ DET
+MIA @ CWS
+CIN @ STL
+MIN @ TOR
+SD @ COL
+KC @ BAL
+LAD @ PHI
+NYM @ PIT
+WSH @ ATL
+OAK @ MIL
+TEX @ TB
+HOU @ CLE
+BOS @ NYY
+CHC @ SF
+SEA @ LAA
+ARI @ DET
+WSH @ ATL
+KC @ BAL
+BOS @ NYY
+LAD @ PHI
+NYM @ PIT
+MIN @ TOR
+HOU @ CLE
+TEX @ TB
+MIA @ CWS
+OAK @ MIL
+CIN @ STL
+SD @ COL
+CHC @ SF
+SEA @ LAA
+ATL @ DET
+COL @ BOS
+SF @ STL
+LAA @ TEX
+CIN @ KC
+PHI @ ARI
+TB @ OAK
+MIA @ SEA
+ATL @ DET
+TOR @ BAL
+COL @ BOS
+NYY @ NYM
+MIL @ MIN
+SF @ STL
+PIT @ CHC
+LAA @ TEX
+WSH @ HOU
+CIN @ KC
+PHI @ ARI
+TB @ OAK
+CLE @ SD
+MIA @ SEA
+CWS @ LAD
+ATL @ DET
+MIL @ MIN
+SF @ STL
+TOR @ BAL
+COL @ BOS
+NYY @ NYM
+PIT @ CHC
+LAA @ TEX
+WSH @ HOU
+CIN @ KC
+PHI @ ARI
+TB @ OAK
+CLE @ SD
+MIA @ SEA
+CWS @ LAD
+TOR @ BAL
+TB @ OAK
+PHI @ ARI
+DET @ MIN
+COL @ ATL
+PIT @ CHC
+LAA @ TEX
+WSH @ HOU
+CLE @ SD
+CWS @ LAD
+BAL @ CHC
+MIA @ WSH
+NYY @ BOS
+STL @ NYM
+COL @ ATL
+TOR @ TEX
+CIN @ HOU
+LAA @ KC
+PIT @ MIL
+DET @ MIN
+CLE @ ARI
+PHI @ OAK
+TB @ SD
+SF @ LAD
+CWS @ SEA
+DET @ MIN
+BAL @ CHC
+TOR @ TEX
+MIA @ WSH
+PHI @ OAK
+COL @ ATL
+CIN @ HOU
+LAA @ KC
+PIT @ MIL
+STL @ NYM
+CWS @ SEA
+NYY @ BOS
+TB @ SD
+SF @ LAD
+CLE @ ARI
+BAL @ CHC
+COL @ ATL
+MIA @ WSH
+STL @ NYM
+CIN @ HOU
+LAA @ KC
+PIT @ MIL
+DET @ MIN
+TOR @ TEX
+PHI @ OAK
+CLE @ ARI
+SF @ LAD
+TB @ SD
+CWS @ SEA
+NYY @ BOS
+STL @ WSH
+KC @ DET
+TOR @ MIA
+CHC @ PIT
+COL @ CIN
+BOS @ MIN
+TEX @ CWS
+NYM @ HOU
+ARI @ MIL
+SD @ SF
+KC @ DET
+TOR @ MIA
+ATL @ PHI
+BAL @ TB
+SEA @ NYY
+CHC @ PIT
+STL @ WSH
+COL @ CIN
+OAK @ CLE
+BOS @ MIN
+TEX @ CWS
+NYM @ HOU
+ARI @ MIL
+SD @ SF
+LAD @ LAA
+TOR @ MIA
+BAL @ TB
+COL @ CIN
+CHC @ PIT
+KC @ DET
+NYM @ HOU
+ARI @ MIL
+STL @ WSH
+ATL @ PHI
+SEA @ NYY
+OAK @ CLE
+BOS @ MIN
+TEX @ CWS
+LAD @ LAA
+SD @ SF
+ATL @ PHI
+OAK @ CLE
+BOS @ MIN
+SD @ SF
+PIT @ MIA
+KC @ TB
+SEA @ NYY
+ATL @ CIN
+MIN @ DET
+PIT @ MIA
+KC @ TB
+SEA @ BAL
+TEX @ NYY
+NYM @ PHI
+OAK @ TOR
+MIL @ CLE
+BOS @ CWS
+LAA @ COL
+WSH @ SD
+HOU @ LAD
+ARI @ SF
+CHC @ STL
+SEA @ BAL
+TEX @ NYY
+NYM @ PHI
+ARI @ SF
+OAK @ TOR
+BOS @ CWS
+ATL @ CIN
+MIL @ CLE
+PIT @ MIA
+KC @ TB
+MIN @ DET
+HOU @ LAD
+WSH @ SD
+LAA @ COL
+CHC @ STL
+SEA @ BAL
+TEX @ NYY
+NYM @ PHI
+OAK @ TOR
+ATL @ CIN
+MIL @ CLE
+MIN @ DET
+PIT @ MIA
+KC @ TB
+BOS @ CWS
+LAA @ COL
+ARI @ SF
+HOU @ LAD
+WSH @ SD
+CIN @ BAL
+MIL @ NYM
+MIN @ ATL
+DET @ TEX
+CWS @ LAA
+WSH @ SEA
+CIN @ BAL
+SD @ PIT
+SF @ TOR
+MIA @ BOS
+MIL @ NYM
+MIN @ ATL
+HOU @ STL
+PHI @ CHC
+DET @ TEX
+CLE @ KC
+LAD @ COL
+CWS @ LAA
+TB @ ARI
+NYY @ OAK
+WSH @ SEA
+MIN @ ATL
+WSH @ SEA
+CIN @ BAL
+SD @ PIT
+SF @ TOR
+MIA @ BOS
+MIL @ NYM
+HOU @ STL
+PHI @ CHC
+DET @ TEX
+CLE @ KC
+LAD @ COL
+CWS @ LAA
+TB @ ARI
+NYY @ OAK
+SD @ PIT
+DET @ TEX
+CLE @ KC
+NYY @ OAK
+TB @ ARI
+CWS @ LAA
+MIA @ BOS
+SF @ TOR
+MIL @ NYM
+HOU @ STL
+PHI @ CHC
+LAD @ COL
+CLE @ CHC
+WSH @ PHI
+MIN @ BAL
+MIL @ PIT
+BOS @ TOR
+SD @ CIN
+SF @ NYM
+MIA @ ATL
+HOU @ TEX
+DET @ COL
+LAD @ KC
+NYY @ STL
+ARI @ LAA
+CWS @ OAK
+TB @ SEA
+SD @ CIN
+NYY @ STL
+BOS @ TOR
+MIN @ BAL
+WSH @ PHI
+MIL @ PIT
+HOU @ TEX
+CWS @ OAK
+MIA @ ATL
+SF @ NYM
+CLE @ CHC
+LAD @ KC
+TB @ SEA
+DET @ COL
+ARI @ LAA
+MIN @ BAL
+MIA @ ATL
+WSH @ PHI
+MIL @ PIT
+BOS @ TOR
+SD @ CIN
+SF @ NYM
+LAD @ KC
+NYY @ STL
+CLE @ CHC
+HOU @ TEX
+DET @ COL
+ARI @ LAA
+CWS @ OAK
+TB @ SEA
+HOU @ TEX
+CHC @ MIL
+CIN @ WSH
+STL @ MIA
+BAL @ NYY
+ATL @ CLE
+KC @ MIN
+LAA @ SD
+SEA @ SF
+PIT @ LAD
+CIN @ WSH
+BAL @ NYY
+STL @ MIA
+TEX @ BOS
+KC @ MIN
+SEA @ SF
+NYM @ ARI
+COL @ HOU
+CHC @ MIL
+PHI @ TB
+OAK @ DET
+LAA @ SD
+ATL @ CLE
+TOR @ CWS
+PIT @ LAD
+COL @ HOU
+OAK @ DET
+STL @ MIA
+PHI @ TB
+BAL @ NYY
+CIN @ WSH
+TEX @ BOS
+ATL @ CLE
+KC @ MIN
+TOR @ CWS
+CHC @ MIL
+LAA @ SD
+SEA @ SF
+NYM @ ARI
+PIT @ LAD
+CIN @ WSH
+OAK @ DET
+CHC @ MIL
+STL @ MIA
+PHI @ TB
+BAL @ NYY
+TEX @ BOS
+KC @ CLE
+TOR @ CWS
+SEA @ HOU
+NYM @ ARI
+PIT @ LAD
+TOR @ DET
+PHI @ MIA
+ATL @ TB
+CHC @ NYY
+TEX @ WSH
+OAK @ BOS
+KC @ CLE
+STL @ CWS
+SEA @ HOU
+CIN @ MIL
+BAL @ MIN
+PIT @ ARI
+NYM @ SD
+LAA @ LAD
+COL @ SF
+CHC @ NYY
+TOR @ DET
+STL @ CWS
+BAL @ MIN
+COL @ SF
+TEX @ WSH
+PIT @ ARI
+OAK @ BOS
+KC @ CLE
+PHI @ MIA
+CIN @ MIL
+SEA @ HOU
+ATL @ TB
+LAA @ LAD
+NYM @ SD
+TEX @ WSH
+OAK @ BOS
+CHC @ NYY
+KC @ CLE
+TOR @ DET
+PHI @ MIA
+ATL @ TB
+STL @ CWS
+SEA @ HOU
+CIN @ MIL
+BAL @ MIN
+COL @ SF
+PIT @ ARI
+NYM @ SD
+SD @ PHI
+MIA @ BAL
+SF @ PIT
+ARI @ TOR
+MIL @ CIN
+LAD @ NYM
+CWS @ ATL
+BOS @ CHC
+CLE @ TEX
+TB @ KC
+WSH @ STL
+NYY @ COL
+HOU @ LAA
+MIN @ OAK
+DET @ SEA
+SD @ PHI
+BOS @ CHC
+ARI @ TOR
+CLE @ TEX
+MIA @ BAL
+SD @ PHI
+SF @ PIT
+MIN @ OAK
+MIL @ CIN
+TB @ KC
+CWS @ ATL
+LAD @ NYM
+WSH @ STL
+NYY @ COL
+HOU @ LAA
+DET @ SEA
+SF @ PIT
+CWS @ ATL
+MIA @ BAL
+SD @ PHI
+ARI @ TOR
+MIL @ CIN
+LAD @ NYM
+TB @ KC
+WSH @ STL
+BOS @ CHC
+CLE @ TEX
+NYY @ COL
+HOU @ LAA
+MIN @ OAK
+DET @ SEA
+LAD @ BAL
+CLE @ PIT
+SF @ CIN
+MIA @ STL
+WSH @ CHC
+TB @ TEX
+DET @ KC
+NYY @ LAA
+BOS @ OAK
+MIN @ SEA
+MIL @ PHI
+LAD @ BAL
+CLE @ PIT
+SD @ TOR
+SF @ CIN
+CWS @ NYM
+ARI @ ATL
+MIA @ STL
+WSH @ CHC
+TB @ TEX
+DET @ KC
+HOU @ COL
+NYY @ LAA
+BOS @ OAK
+MIN @ SEA
+CLE @ PIT
+LAD @ BAL
+TB @ TEX
+MIA @ STL
+HOU @ COL
+BOS @ OAK
+MIL @ PHI
+NYY @ LAA
+SD @ TOR
+SF @ CIN
+CWS @ NYM
+ARI @ ATL
+WSH @ CHC
+DET @ KC
+MIN @ SEA
+ARI @ ATL
+SF @ CIN
+MIL @ PHI
+SD @ TOR
+CWS @ NYM
+DET @ KC
+MIN @ SEA
+BAL @ TB
+STL @ CHC
+HOU @ OAK
+STL @ CHC
+SD @ DET
+COL @ MIA
+BAL @ TB
+KC @ NYY
+SF @ WSH
+NYM @ BOS
+ARI @ CIN
+PHI @ CLE
+LAD @ TEX
+ATL @ MIL
+CWS @ MIN
+PIT @ LAA
+HOU @ OAK
+TOR @ SEA
+KC @ NYY
+COL @ MIA
+STL @ CHC
+LAD @ TEX
+NYM @ BOS
+ARI @ CIN
+TOR @ SEA
+BAL @ TB
+SD @ DET
+SF @ WSH
+PHI @ CLE
+ATL @ MIL
+CWS @ MIN
+PIT @ LAA
+HOU @ OAK
+NYM @ BOS
+SD @ DET
+KC @ NYY
+SF @ WSH
+ARI @ CIN
+PHI @ CLE
+COL @ MIA
+BAL @ TB
+ATL @ MIL
+CWS @ MIN
+STL @ CHC
+LAD @ TEX
+PIT @ LAA
+HOU @ OAK
+TOR @ SEA
+BAL @ PHI
+COL @ WSH
+KC @ CLE
+SEA @ MIN
+TEX @ HOU
+CIN @ MIL
+STL @ ARI
+PIT @ SD
+TOR @ LAD
+LAA @ DET
+BAL @ PHI
+MIA @ TB
+NYM @ NYY
+COL @ WSH
+ATL @ BOS
+KC @ CLE
+SEA @ MIN
+CHC @ CWS
+TEX @ HOU
+CIN @ MIL
+STL @ ARI
+PIT @ SD
+OAK @ SF
+TOR @ LAD
+COL @ WSH
+MIA @ TB
+KC @ CLE
+SEA @ MIN
+CIN @ MIL
+STL @ ARI
+TOR @ LAD
+PIT @ SD
+BAL @ PHI
+LAA @ DET
+NYM @ NYY
+ATL @ BOS
+CHC @ CWS
+TEX @ HOU
+OAK @ SF
+LAA @ DET
+WSH @ NYM
+CHC @ STL
+CLE @ CWS
+DET @ MIA
+NYY @ BAL
+PHI @ PIT
+LAA @ TOR
+CLE @ CWS
+WSH @ NYM
+MIL @ ATL
+TB @ HOU
+MIN @ KC
+CHC @ STL
+OAK @ COL
+SEA @ ARI
+TEX @ SD
+CIN @ LAD
+BOS @ SF
+LAA @ TOR
+DET @ MIA
+NYY @ BAL
+PHI @ PIT
+CLE @ CWS
+MIN @ KC
+WSH @ NYM
+TB @ HOU
+BOS @ SF
+CHC @ STL
+MIL @ ATL
+SEA @ ARI
+OAK @ COL
+TEX @ SD
+CIN @ LAD
+LAA @ TOR
+MIL @ ATL
+NYY @ BAL
+PHI @ PIT
+DET @ MIA
+WSH @ NYM
+CLE @ CWS
+TB @ HOU
+MIN @ KC
+CHC @ STL
+OAK @ COL
+BOS @ SF
+SEA @ ARI
+CIN @ LAD
+TEX @ SD
+PHI @ MIA
+TB @ NYY
+MIL @ WSH
+BAL @ TOR
+LAA @ ATL
+CIN @ CHC
+CLE @ HOU
+SD @ COL
+BOS @ SEA
+ARI @ SF
+PHI @ MIA
+TB @ NYY
+DET @ PIT
+MIL @ WSH
+BAL @ TOR
+LAA @ ATL
+MIN @ STL
+CIN @ CHC
+CWS @ TEX
+CLE @ HOU
+NYM @ KC
+SD @ COL
+BOS @ SEA
+ARI @ SF
+OAK @ LAD
+LAA @ ATL
+DET @ PIT
+MIL @ WSH
+CLE @ HOU
+SD @ COL
+BOS @ SEA
+PHI @ MIA
+TB @ NYY
+BAL @ TOR
+MIN @ STL
+CIN @ CHC
+CWS @ TEX
+NYM @ KC
+ARI @ SF
+OAK @ LAD
+PHI @ MIA
+CWS @ TEX
+NYM @ KC
+BAL @ TOR
+ARI @ SF
+PIT @ MIL
+HOU @ NYY
+MIN @ STL
+CIN @ CHC
+SEA @ LAA
+OAK @ LAD
+ATL @ CHC
+WSH @ CIN
+TB @ DET
+NYM @ BAL
+HOU @ NYY
+KC @ PHI
+TOR @ BOS
+CWS @ CLE
+MIA @ TEX
+PIT @ MIL
+ARI @ MIN
+COL @ STL
+SEA @ LAA
+LAD @ SD
+HOU @ NYY
+TB @ DET
+ATL @ CHC
+MIA @ TEX
+TOR @ BOS
+WSH @ CIN
+KC @ PHI
+NYM @ BAL
+SF @ OAK
+CWS @ CLE
+PIT @ MIL
+ARI @ MIN
+COL @ STL
+LAD @ SD
+SEA @ LAA
+CWS @ CLE
+NYM @ BAL
+TOR @ BOS
+HOU @ NYY
+KC @ PHI
+WSH @ CIN
+TB @ DET
+PIT @ MIL
+ARI @ MIN
+COL @ STL
+ATL @ CHC
+MIA @ TEX
+SEA @ LAA
+SF @ OAK
+LAD @ SD
+LAD @ SD
+MIA @ CIN
+MIN @ DET
+WSH @ PHI
+ATL @ PIT
+KC @ BOS
+TOR @ CLE
+CHC @ NYM
+NYY @ CWS
+COL @ MIL
+SF @ LAA
+TEX @ OAK
+MIA @ CIN
+MIN @ DET
+WSH @ PHI
+STL @ TB
+HOU @ BAL
+ATL @ PIT
+KC @ BOS
+TOR @ CLE
+CHC @ NYM
+NYY @ CWS
+COL @ MIL
+SF @ LAA
+LAD @ ARI
+TEX @ OAK
+SD @ SEA
+MIA @ CIN
+COL @ MIL
+TEX @ OAK
+MIN @ DET
+WSH @ PHI
+STL @ TB
+HOU @ BAL
+ATL @ PIT
+KC @ BOS
+TOR @ CLE
+CHC @ NYM
+NYY @ CWS
+SF @ LAA
+LAD @ ARI
+SD @ SEA
+HOU @ BAL
+ATL @ PIT
+TOR @ CLE
+MIN @ DET
+WSH @ PHI
+STL @ TB
+KC @ BOS
+COL @ LAD
+NYY @ MIA
+CLE @ TB
+MIN @ PHI
+CIN @ PIT
+OAK @ WSH
+CHC @ TOR
+DET @ BOS
+ATL @ NYM
+MIL @ CWS
+LAA @ HOU
+STL @ KC
+SD @ ARI
+COL @ LAD
+BAL @ SEA
+TEX @ SF
+CHC @ TOR
+DET @ BOS
+NYY @ MIA
+CLE @ TB
+MIN @ PHI
+CIN @ PIT
+OAK @ WSH
+ATL @ NYM
+MIL @ CWS
+LAA @ HOU
+STL @ KC
+SD @ ARI
+TEX @ SF
+COL @ LAD
+BAL @ SEA
+DET @ BOS
+MIN @ PHI
+CIN @ PIT
+OAK @ WSH
+CHC @ TOR
+NYY @ MIA
+ATL @ NYM
+CLE @ TB
+MIL @ CWS
+LAA @ HOU
+TEX @ SF
+SD @ ARI
+COL @ LAD
+BAL @ SEA
+HOU @ MIA
+PIT @ NYM
+NYY @ ATL
+OAK @ STL
+LAA @ TEX
+SEA @ KC
+ARI @ COL
+BAL @ SD
+TB @ SF
+CLE @ CIN
+HOU @ MIA
+BOS @ WSH
+PHI @ TOR
+PIT @ NYM
+NYY @ ATL
+DET @ MIN
+OAK @ STL
+CWS @ CHC
+LAA @ TEX
+SEA @ KC
+ARI @ COL
+BAL @ SD
+TB @ SF
+MIL @ LAD
+DET @ MIN
+PIT @ NYM
+ARI @ COL
+TB @ SF
+CLE @ CIN
+HOU @ MIA
+OAK @ STL
+BOS @ WSH
+PHI @ TOR
+NYY @ ATL
+CWS @ CHC
+LAA @ TEX
+SEA @ KC
+BAL @ SD
+MIL @ LAD
+SEA @ KC
+BOS @ WSH
+DET @ CLE
+NYM @ STL
+ARI @ SD
+MIL @ LAD
+KC @ CHC
+TOR @ CIN
+BOS @ NYY
+PHI @ WSH
+DET @ CLE
+SF @ ATL
+MIL @ TEX
+SEA @ HOU
+PIT @ MIN
+NYM @ STL
+CWS @ COL
+TB @ LAA
+BAL @ OAK
+ARI @ SD
+MIA @ LAD
+BOS @ NYY
+KC @ CHC
+MIL @ TEX
+PHI @ WSH
+TOR @ CIN
+DET @ CLE
+SEA @ HOU
+PIT @ MIN
+NYM @ STL
+SF @ ATL
+CWS @ COL
+ARI @ SD
+TB @ LAA
+BAL @ OAK
+MIA @ LAD
+SEA @ HOU
+SF @ ATL
+BOS @ NYY
+TOR @ CIN
+DET @ CLE
+PIT @ MIN
+NYM @ STL
+KC @ CHC
+MIL @ TEX
+CWS @ COL
+TB @ LAA
+BAL @ OAK
+MIA @ LAD
+ARI @ SD
+PHI @ WSH
+CHC @ DET
+SF @ PHI
+STL @ PIT
+NYM @ ATL
+SEA @ CWS
+BOS @ HOU
+CIN @ LAA
+TEX @ ARI
+KC @ OAK
+MIA @ SD
+CHC @ DET
+SF @ PHI
+COL @ TB
+TOR @ BAL
+WSH @ NYY
+STL @ PIT
+LAD @ CLE
+NYM @ ATL
+SEA @ CWS
+BOS @ HOU
+MIN @ MIL
+CIN @ LAA
+TEX @ ARI
+KC @ OAK
+MIA @ SD
+STL @ PIT
+CHC @ DET
+SEA @ CWS
+MIN @ MIL
+KC @ OAK
+SF @ PHI
+CIN @ LAA
+MIA @ SD
+COL @ TB
+TOR @ BAL
+WSH @ NYY
+LAD @ CLE
+NYM @ ATL
+BOS @ HOU
+WSH @ NYY
+LAD @ CLE
+COL @ TB
+BOS @ HOU
+TOR @ BAL
+CHC @ PIT
+TEX @ MIN
+OAK @ CWS
+CIN @ ARI
+HOU @ DET
+WSH @ MIA
+NYY @ TB
+COL @ BAL
+STL @ PHI
+CHC @ PIT
+CLE @ TOR
+LAD @ BOS
+LAA @ NYM
+OAK @ CWS
+SD @ MIL
+TEX @ MIN
+CIN @ ARI
+KC @ SEA
+ATL @ SF
+CLE @ TOR
+ATL @ SF
+LAD @ BOS
+WSH @ MIA
+KC @ SEA
+NYY @ TB
+HOU @ DET
+COL @ BAL
+OAK @ CWS
+SD @ MIL
+LAA @ NYM
+TEX @ MIN
+STL @ PHI
+CHC @ PIT
+CIN @ ARI
+LAD @ BOS
+LAA @ NYM
+COL @ BAL
+STL @ PHI
+CHC @ PIT
+CLE @ TOR
+HOU @ DET
+WSH @ MIA
+NYY @ TB
+OAK @ CWS
+SD @ MIL
+TEX @ MIN
+ATL @ SF
+CIN @ ARI
+KC @ SEA
+NYY @ DET
+LAA @ PHI
+CWS @ BAL
+WSH @ TOR
+HOU @ BOS
+TEX @ NYM
+CLE @ MIN
+SD @ STL
+MIL @ CHC
+PIT @ KC
+ATL @ COL
+OAK @ SEA
+CIN @ SF
+ARI @ LAD
+NYY @ DET
+TB @ MIA
+LAA @ PHI
+CWS @ BAL
+WSH @ TOR
+HOU @ BOS
+TEX @ NYM
+CLE @ MIN
+SD @ STL
+MIL @ CHC
+PIT @ KC
+ATL @ COL
+OAK @ SEA
+CIN @ SF
+ARI @ LAD
+CWS @ BAL
+LAA @ PHI
+CLE @ MIN
+SD @ STL
+MIL @ CHC
+WSH @ TOR
+CIN @ SF
+HOU @ BOS
+OAK @ SEA
+NYY @ DET
+TB @ MIA
+TEX @ NYM
+PIT @ KC
+ATL @ COL
+ARI @ LAD
+NYY @ DET
+MIA @ WSH
+SF @ SD
+ATL @ LAD
+CHC @ CIN
+MIA @ WSH
+TB @ CLE
+SEA @ NYM
+MIN @ TEX
+DET @ CWS
+NYY @ HOU
+BOS @ KC
+PHI @ MIL
+PIT @ STL
+TOR @ COL
+BAL @ ARI
+LAA @ OAK
+SF @ SD
+ATL @ LAD
+MIA @ WSH
+LAA @ OAK
+TB @ CLE
+CHC @ CIN
+DET @ CWS
+NYY @ HOU
+BOS @ KC
+SEA @ NYM
+PHI @ MIL
+PIT @ STL
+MIN @ TEX
+BAL @ ARI
+TOR @ COL
+SF @ SD
+ATL @ LAD
+CHC @ CIN
+PHI @ MIL
+MIA @ WSH
+SEA @ NYM
+DET @ CWS
+NYY @ HOU
+BOS @ KC
+PIT @ STL
+MIN @ TEX
+TOR @ COL
+LAA @ OAK
+BAL @ ARI
+TB @ CLE
+ATL @ LAD
+SF @ SD
+SF @ CHC
+HOU @ TEX
+TOR @ OAK
+COL @ ARI
+SEA @ CIN
+BOS @ TB
+MIN @ CLE
+MIL @ PIT
+PHI @ SD
+BAL @ LAA
+MIN @ CLE
+MIL @ PIT
+SEA @ CIN
+LAD @ MIA
+BOS @ TB
+DET @ NYY
+NYM @ WSH
+STL @ ATL
+SF @ CHC
+CWS @ KC
+HOU @ TEX
+BAL @ LAA
+COL @ ARI
+TOR @ OAK
+PHI @ SD
+MIL @ PIT
+MIN @ CLE
+SF @ CHC
+TOR @ OAK
+COL @ ARI
+PHI @ SD
+SEA @ CIN
+LAD @ MIA
+BOS @ TB
+DET @ NYY
+NYM @ WSH
+STL @ ATL
+CWS @ KC
+HOU @ TEX
+BAL @ LAA
+CWS @ KC
+LAD @ MIA
+SEA @ TB
+DET @ NYY
+STL @ ATL
+ARI @ CHC
+CLE @ LAA
+ARI @ CHC
+STL @ CIN
+CWS @ DET
+SEA @ TB
+MIL @ NYY
+MIA @ PHI
+LAD @ WSH
+KC @ TOR
+BAL @ BOS
+PIT @ ATL
+OAK @ TEX
+SD @ HOU
+NYM @ MIN
+CLE @ LAA
+COL @ SF
+MIL @ NYY
+NYM @ MIN
+ARI @ CHC
+KC @ TOR
+SEA @ TB
+LAD @ WSH
+BAL @ BOS
+MIA @ PHI
+CWS @ DET
+STL @ CIN
+OAK @ TEX
+SD @ HOU
+PIT @ ATL
+COL @ SF
+CLE @ LAA
+MIA @ PHI
+CWS @ DET
+SEA @ TB
+PIT @ ATL
+BAL @ BOS
+MIL @ NYY
+LAD @ WSH
+KC @ TOR
+STL @ CIN
+SD @ HOU
+NYM @ MIN
+ARI @ CHC
+OAK @ TEX
+COL @ SF
+CLE @ LAA
+STL @ BAL
+WSH @ PIT
+TEX @ TOR
+NYY @ BOS
+ARI @ NYM
+KC @ CWS
+MIA @ MIL
+TB @ MIN
+OAK @ HOU
+CHC @ COL
+LAA @ SEA
+CLE @ SF
+SD @ LAD
+STL @ BAL
+WSH @ PIT
+CIN @ DET
+ATL @ PHI
+TEX @ TOR
+NYY @ BOS
+ARI @ NYM
+KC @ CWS
+MIA @ MIL
+TB @ MIN
+OAK @ HOU
+CHC @ COL
+LAA @ SEA
+CLE @ SF
+SD @ LAD
+TB @ MIN
+CHC @ COL
+CLE @ SF
+LAA @ SEA
+STL @ BAL
+WSH @ PIT
+CIN @ DET
+ATL @ PHI
+TEX @ TOR
+NYY @ BOS
+OAK @ HOU
+ARI @ NYM
+KC @ CWS
+MIA @ MIL
+SD @ LAD
+WSH @ PIT
+CIN @ DET
+MIA @ MIL
+ATL @ PHI
+ARI @ NYM
+TB @ BAL
+TEX @ TOR
+MIN @ CWS
+NYY @ BOS
+SF @ COL
+NYY @ PIT
+ATL @ MIA
+TB @ BAL
+BOS @ TOR
+TEX @ CLE
+CIN @ NYM
+MIN @ CWS
+HOU @ KC
+WSH @ MIL
+PHI @ STL
+SF @ COL
+DET @ LAA
+CHC @ ARI
+SD @ OAK
+LAD @ SEA
+BOS @ TOR
+SD @ OAK
+ATL @ MIA
+TEX @ CLE
+NYY @ PIT
+TB @ BAL
+MIN @ CWS
+HOU @ KC
+WSH @ MIL
+CIN @ NYM
+PHI @ STL
+CHC @ ARI
+SF @ COL
+DET @ LAA
+LAD @ SEA
+TB @ BAL
+NYY @ PIT
+BOS @ TOR
+TEX @ CLE
+ATL @ MIA
+CIN @ NYM
+MIN @ CWS
+HOU @ KC
+WSH @ MIL
+PHI @ STL
+SF @ COL
+DET @ LAA
+SD @ OAK
+CHC @ ARI
+LAD @ SEA
+CLE @ KC
+MIN @ CIN
+NYM @ MIA
+CWS @ WSH
+PHI @ ATL
+MIL @ STL
+BOS @ TEX
+BAL @ HOU
+SEA @ OAK
+COL @ SD
+DET @ LAD
+MIN @ CIN
+NYM @ MIA
+LAA @ TB
+TOR @ NYY
+CWS @ WSH
+PHI @ ATL
+PIT @ CHC
+CLE @ KC
+MIL @ STL
+BOS @ TEX
+BAL @ HOU
+SF @ ARI
+SEA @ OAK
+COL @ SD
+DET @ LAD
+PHI @ ATL
+MIN @ CIN
+CWS @ WSH
+BOS @ TEX
+BAL @ HOU
+CLE @ KC
+SEA @ OAK
+SF @ ARI
+COL @ SD
+NYM @ MIA
+LAA @ TB
+TOR @ NYY
+PIT @ CHC
+MIL @ STL
+DET @ LAD
+LAA @ TB
+MIL @ STL
+TOR @ NYY
+NYM @ PHI
+ATL @ WSH
+BAL @ CLE
+PIT @ CHC
+DET @ OAK
+SF @ LAD
+COL @ CHC
+PIT @ CIN
+MIL @ MIA
+TOR @ TB
+ARI @ NYY
+NYM @ PHI
+ATL @ WSH
+CWS @ BOS
+BAL @ CLE
+SEA @ TEX
+KC @ HOU
+LAA @ MIN
+DET @ OAK
+STL @ SD
+SF @ LAD
+ARI @ NYY
+ATL @ WSH
+LAA @ MIN
+COL @ CHC
+NYM @ PHI
+DET @ OAK
+CWS @ BOS
+MIL @ MIA
+TOR @ TB
+BAL @ CLE
+PIT @ CIN
+SEA @ TEX
+KC @ HOU
+STL @ SD
+SF @ LAD
+NYM @ PHI
+TOR @ TB
+CWS @ BOS
+ARI @ NYY
+ATL @ WSH
+PIT @ CIN
+BAL @ CLE
+MIL @ MIA
+KC @ HOU
+LAA @ MIN
+COL @ CHC
+SEA @ TEX
+DET @ OAK
+SF @ LAD
+STL @ SD
+ARI @ CWS
+TEX @ LAA
+HOU @ SEA
+SD @ SF
+LAD @ COL
+CIN @ CLE
+WSH @ BAL
+KC @ DET
+PIT @ PHI
+NYY @ TOR
+TB @ BOS
+MIA @ NYM
+CHC @ ATL
+ARI @ CWS
+STL @ MIL
+OAK @ MIN
+LAD @ COL
+TEX @ LAA
+HOU @ SEA
+SD @ SF
+ARI @ CWS
+TB @ BOS
+CIN @ CLE
+WSH @ BAL
+KC @ DET
+PIT @ PHI
+NYY @ TOR
+MIA @ NYM
+CHC @ ATL
+STL @ MIL
+OAK @ MIN
+LAD @ COL
+TEX @ LAA
+HOU @ SEA
+SD @ SF
+KC @ DET
+OAK @ MIN
+PIT @ PHI
+BOS @ BAL
+NYY @ TOR
+MIA @ NYM
+CHC @ ATL
+STL @ MIL
+LAD @ COL
+TEX @ SEA
+MIA @ PIT
+CLE @ DET
+BOS @ BAL
+TB @ TOR
+PHI @ NYM
+WSH @ ATL
+SD @ CWS
+MIN @ COL
+NYY @ KC
+CHC @ MIL
+CIN @ STL
+OAK @ LAA
+HOU @ ARI
+TEX @ SEA
+LAD @ SF
+CLE @ DET
+TB @ TOR
+MIA @ PIT
+BOS @ BAL
+SD @ CWS
+NYY @ KC
+CHC @ MIL
+PHI @ NYM
+CIN @ STL
+WSH @ ATL
+HOU @ ARI
+MIN @ COL
+LAD @ SF
+OAK @ LAA
+TEX @ SEA
+WSH @ ATL
+BOS @ BAL
+MIA @ PIT
+LAD @ SF
+OAK @ LAA
+TB @ TOR
+HOU @ ARI
+SD @ CWS
+MIN @ COL
+CLE @ DET
+NYY @ KC
+CHC @ MIL
+PHI @ NYM
+TEX @ SEA
+CIN @ STL
