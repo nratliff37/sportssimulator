@@ -1,0 +1,30 @@
+BAL, Baltimore Orioles
+BOS, Boston Red Sox
+NYY, New York Yankees
+TB, Tampa Bay Rays
+TOR, Toronto Blue Jays
+CWS, Chicago White Sox
+CLE, Cleveland Guardians
+DET, Detroit Tigers
+KC, Kansas City Royals
+MIN, Minnesota Twins
+HOU, Houston Astros
+LAA, Los Angeles Angels
+OAK, Oakland A's
+SEA, Seattle Mariners
+TEX, Texas Rangers
+ATL, Atlanta Braves
+MIA, Miami Marlins
+NYM, New York Mets
+PHI, Philadelphia Phillies
+WSH, Washington Nationals
+CHC, Chicago Cubs
+CIN, Cincinnati Reds
+MIL, Milwaukee Brewers
+PIT, Pittsburgh Pirates
+STL, St. Louis Cardinals
+ARI, Arizona Diamondbacks
+COL, Colorado Rockies
+LAD, Los Angeles Dodgers
+SD, San Diego Padres
+SF, San Francisco Giants
