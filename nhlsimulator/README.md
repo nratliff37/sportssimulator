@@ -1,3 +1,2 @@
-#nhlsimulator
-
-Folder for simulating an NHL season.
+# nhlsimulator
+A program to simulate the NHL regular season.
