@@ -53,6 +53,13 @@ def get_record(team, abv):
 
     return label + ": " + str(w) + "-" + str(l) + "-" + str(otl) + "; " + str(pts) + " PTS"
 
+def get_points(team):
+    team_dict = TEAMS[team]
+    w = team_dict["wins"]
+    otl = team_dict["otl"]
+    
+    return 2 * w + otl
+
 def play_game(away_team, home_team):
     time.sleep(1)
 
@@ -60,8 +67,21 @@ def play_game(away_team, home_team):
     winner_number = np.random.randint(0, 100)
     ot_number = np.random.randint(0, 5)
     ot = (ot_number == 4)
-    
-    if winner_number >= 54:
+
+    home_points = get_points(home_team)
+    away_points = get_points(away_team)
+
+    threshold = 54
+    threshold_adjust = int((home_points - away_points) / 20)
+    threshold += threshold_adjust * 10
+
+    if threshold < 34:
+        threshold = 34
+
+    if threshold > 74:
+        threshold = 74
+
+    if winner_number >= threshold:
         result_str = away_team + " beat " + home_team
         add_win(away_team)
         add_loss(home_team, ot)
