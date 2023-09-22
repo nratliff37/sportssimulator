@@ -1,0 +1,8 @@
+COA, Coastal Cobras
+MET, Metro Magic
+PAC, Pacific Predators
+WES, Western Wildcats
+DOW, Downtown Diamondbacks
+EAS, Eastern Eagles
+GLG, Great Lakes Gators
+MID, Midwest Mallards
