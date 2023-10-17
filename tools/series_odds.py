@@ -2,7 +2,7 @@ import argparse
 
 # Function Definitions
 def get_sequences():
-    sequence_file = open("series_sequences.txt", "r")
+    sequence_file = open("series_sequences_" + str(games) + ".txt", "r")
     sequences = []
 
     for sequence in sequence_file:
@@ -14,8 +14,8 @@ def get_sequences():
 def filter_sequences(num_games):
     filtered_sequences = []
 
-    if num_games < 4 or num_games > 7:
-        print("Invalid number of games. Must be between 4 and 7.")
+    if num_games < (int(games / 2) + 1) or num_games > games:
+        print("Invalid number of games.")
         return []
 
     for sequence in SEQUENCE_LIST:
@@ -25,7 +25,12 @@ def filter_sequences(num_games):
     return filtered_sequences
 
 def is_home(game_num):
-    return game_num == 1 or game_num == 2 or game_num == 5 or game_num == 7
+    if games == 7:
+        return game_num == 1 or game_num == 2 or (game_num == 5 and not mlb) or (game_num == 6 and mlb) or game_num == 7
+    elif games == 5:
+        return game_num == 1 or game_num == 2 or game_num == 5
+    else:
+        return mlb or game_num != 2
 
 def calculate_odds(num_games):
     decimal_odds = higher_odds / 100
@@ -82,7 +87,7 @@ def validate_start(series_start):
         else:
             return False
 
-    if w_count > 3 or l_count > 3:
+    if w_count > int(games / 2) or l_count > int(games / 2):
         return False
     else:
         return True
@@ -99,8 +104,8 @@ def count_losses(series_start):
 def filter_sequences_with_start(num_games, series_start):
     filtered_sequences = []
 
-    if num_games < 4 or num_games > 7:
-        print("Invalid number of games. Must be between 4 and 7.")
+    if num_games < int(games / 2 + 1) or num_games > games:
+        print("Invalid number of games.")
         return []
 
     for sequence in SEQUENCE_LIST:
@@ -118,7 +123,7 @@ def filter_sequences_with_start(num_games, series_start):
 def calculate_odds_with_start(num_games, series_start):
     l_count = count_losses(series_start)
 
-    if (4 + l_count) > num_games:
+    if ((games / 2 + 1) + l_count) > num_games:
         return 0
 
     decimal_odds = higher_odds / 100
@@ -167,43 +172,55 @@ def calculate_odds_with_start(num_games, series_start):
 parser = argparse.ArgumentParser()
 parser.add_argument('-u', '--upper', help='upper seed odds of winning at home.', default=50)
 parser.add_argument('-l', '--lower', help='lower seed odds of winning at home.', default=50)
-parser.add_argument('-v', '--verbose', help='Default false. Input 1 for true.', default=0)
+parser.add_argument('--verbose', action=argparse.BooleanOptionalAction, default=False)
+parser.add_argument('-g', '--games', help='Default 7. Input 3, 5, or 7 for the Best of X series odds.', default=7)
+parser.add_argument('--mlb', action=argparse.BooleanOptionalAction, help='Use to calculate the odds with a 2-3-2 sequence for 7 games, and a higher seed homestand for 3 games.', default=False)
 parser.add_argument('-s', '--start', help='Default empty. String that represents the start of a series from the upper team\'s POV (Ex. wlwl)', default="")
 
 args = parser.parse_args()
 
+# Initialize variables
 higher_odds = int(args.upper)
 lower_odds = int(args.lower)
-verbose = int(args.verbose)    
+verbose = int(args.verbose)
+games = int(args.games)
+mlb = args.mlb
 series_start = str(args.start)
 
-ODDS_IN_4 = 0
-ODDS_IN_5 = 0
-ODDS_IN_6 = 0
-ODDS_IN_7 = 0
-SEQUENCE_LIST = get_sequences()
-if not len(series_start):
-    ODDS_IN_4 = calculate_odds(4)
-    ODDS_IN_5 = calculate_odds(5)
-    ODDS_IN_6 = calculate_odds(6)
-    ODDS_IN_7 = calculate_odds(7)   
+if games == 7:
+    ODDS_IN_4 = 0
+    ODDS_IN_5 = 0
+    ODDS_IN_6 = 0
+    ODDS_IN_7 = 0
+    SEQUENCE_LIST = get_sequences()
+    if not len(series_start):
+        ODDS_IN_4 = calculate_odds(4)
+        ODDS_IN_5 = calculate_odds(5)
+        ODDS_IN_6 = calculate_odds(6)
+        ODDS_IN_7 = calculate_odds(7)   
+    else:
+        valid_start = validate_start(series_start)
+
+        if not valid_start:
+            print("Given Series Start was not valid. Must contain w\'s and l\'s only and cannot contain more than 3 of each.")
+            exit()
+
+        ODDS_IN_4 = calculate_odds_with_start(4, series_start)
+        ODDS_IN_5 = calculate_odds_with_start(5, series_start)
+        ODDS_IN_6 = calculate_odds_with_start(6, series_start)
+        ODDS_IN_7 = calculate_odds_with_start(7, series_start)
+
+    ODDS_TO_WIN = ODDS_IN_4 + ODDS_IN_5 + ODDS_IN_6 + ODDS_IN_7
+    ODDS_TO_WIN = round(ODDS_TO_WIN, 2)
+
+    print(str(ODDS_IN_4) + "% chance of winning in 4 games")
+    print(str(ODDS_IN_5) + "% chance of winning in 5 games")
+    print(str(ODDS_IN_6) + "% chance of winning in 6 games")
+    print(str(ODDS_IN_7) + "% chance of winning in 7 games")
+    print(str(ODDS_TO_WIN) + "% chance of winning the series")
+elif games == 5:
+    pass
+elif games == 3:
+    pass
 else:
-    valid_start = validate_start(series_start)
-
-    if not valid_start:
-        print("Given Series Start was not valid. Must contain w\'s and l\'s only and cannot contain more than 3 of each.")
-        exit()
-
-    ODDS_IN_4 = calculate_odds_with_start(4, series_start)
-    ODDS_IN_5 = calculate_odds_with_start(5, series_start)
-    ODDS_IN_6 = calculate_odds_with_start(6, series_start)
-    ODDS_IN_7 = calculate_odds_with_start(7, series_start)
-
-ODDS_TO_WIN = ODDS_IN_4 + ODDS_IN_5 + ODDS_IN_6 + ODDS_IN_7
-ODDS_TO_WIN = round(ODDS_TO_WIN, 2)
-
-print(str(ODDS_IN_4) + "% chance of winning in 4 games")
-print(str(ODDS_IN_5) + "% chance of winning in 5 games")
-print(str(ODDS_IN_6) + "% chance of winning in 6 games")
-print(str(ODDS_IN_7) + "% chance of winning in 7 games")
-print(str(ODDS_TO_WIN) + "% chance of winning the series")
+    print("Games must be 3, 5, or 7.")
