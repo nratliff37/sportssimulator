@@ -123,7 +123,7 @@ def filter_sequences_with_start(num_games, series_start):
 def calculate_odds_with_start(num_games, series_start):
     l_count = count_losses(series_start)
 
-    if ((games / 2 + 1) + l_count) > num_games:
+    if (int(games / 2 + 1) + l_count) > num_games:
         return 0
 
     decimal_odds = higher_odds / 100
