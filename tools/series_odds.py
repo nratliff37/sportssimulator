@@ -65,7 +65,7 @@ def calculate_odds(num_games):
                     sequence_odds *= (1- away_odds)
 
         if verbose:
-            print(str(sequence_odds * 100) + "% chance of winning with " + sequence + " sequence.")
+            print(str(round((sequence_odds * 100), 2)) + "% chance of winning with " + sequence + " sequence.")
                 
 
         final_odds += sequence_odds
@@ -158,7 +158,7 @@ def calculate_odds_with_start(num_games, series_start):
                     sequence_odds *= (1- away_odds)
 
         if verbose:
-            print(str(sequence_odds * 100) + "% chance of winning with " + sequence + " sequence.")
+            print(str(round((sequence_odds * 100), 2)) + "% chance of winning with " + sequence + " sequence.")
                 
 
         final_odds += sequence_odds
@@ -219,8 +219,54 @@ if games == 7:
     print(str(ODDS_IN_7) + "% chance of winning in 7 games")
     print(str(ODDS_TO_WIN) + "% chance of winning the series")
 elif games == 5:
-    pass
+    ODDS_IN_3 = 0
+    ODDS_IN_4 = 0
+    ODDS_IN_5 = 0
+    SEQUENCE_LIST = get_sequences()
+    if not len(series_start):
+        ODDS_IN_3 = calculate_odds(3)
+        ODDS_IN_4 = calculate_odds(4)
+        ODDS_IN_5 = calculate_odds(5)  
+    else:
+        valid_start = validate_start(series_start)
+
+        if not valid_start:
+            print("Given Series Start was not valid. Must contain w\'s and l\'s only and cannot contain more than 2 of each.")
+            exit()
+
+        ODDS_IN_3 = calculate_odds_with_start(3, series_start)
+        ODDS_IN_4 = calculate_odds_with_start(4, series_start)
+        ODDS_IN_5 = calculate_odds_with_start(5, series_start)
+
+    ODDS_TO_WIN = ODDS_IN_3 + ODDS_IN_4 + ODDS_IN_5
+    ODDS_TO_WIN = round(ODDS_TO_WIN, 2)
+
+    print(str(ODDS_IN_3) + "% chance of winning in 3 games")
+    print(str(ODDS_IN_4) + "% chance of winning in 4 games")
+    print(str(ODDS_IN_5) + "% chance of winning in 5 games")
+    print(str(ODDS_TO_WIN) + "% chance of winning the series")
 elif games == 3:
-    pass
+    ODDS_IN_2 = 0
+    ODDS_IN_3 = 0
+    SEQUENCE_LIST = get_sequences()
+    if not len(series_start):
+        ODDS_IN_2 = calculate_odds(2)
+        ODDS_IN_3 = calculate_odds(3)
+    else:
+        valid_start = validate_start(series_start)
+
+        if not valid_start:
+            print("Given Series Start was not valid. Must contain w\'s and l\'s only and cannot contain more than 1 of each.")
+            exit()
+
+        ODDS_IN_2 = calculate_odds_with_start(2, series_start)
+        ODDS_IN_3 = calculate_odds_with_start(3, series_start)
+
+    ODDS_TO_WIN = ODDS_IN_2 + ODDS_IN_3
+    ODDS_TO_WIN = round(ODDS_TO_WIN, 2)
+
+    print(str(ODDS_IN_2) + "% chance of winning in 2 games")
+    print(str(ODDS_IN_3) + "% chance of winning in 3 games")
+    print(str(ODDS_TO_WIN) + "% chance of winning the series")
 else:
     print("Games must be 3, 5, or 7.")
