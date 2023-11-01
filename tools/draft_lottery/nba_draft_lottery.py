@@ -51,6 +51,19 @@ def convert_to_string(num_arr):
         
     return num_string
 
+def get_nth_string(num):
+    if num < 1 or num > 14:
+        print("Number must be between 1 and 14")
+    
+    if num == 1:
+        return "1st"
+    if num == 2:
+        return "2nd"
+    if num == 3:
+        return "3rd"
+    else:
+        return str(num) + "th"
+
 # Main Script
 
 for i in range(0, 14):
@@ -89,4 +102,37 @@ for team in LOTTERY_ORDER:
     if not DRAFT_ORDER.count(team):
         DRAFT_ORDER.append(team)
         
+# Announce the order
 print(DRAFT_ORDER)
+announce_num = 14
+expected_team_num = 13
+TOP_FOUR = []
+while announce_num > 0:
+    nth_string = get_nth_string(announce_num)
+    announce_num -= 1
+    
+    announce_team = DRAFT_ORDER[announce_num]
+    print("The " + nth_string + " pick will go to the " + announce_team)
+    
+    if announce_num >= 4:
+        expected_team = LOTTERY_ORDER[expected_team_num]
+        expected_team_num -= 1
+        
+        if announce_team != expected_team:
+            jumpgap = 0
+            print(expected_team + " is in the Top 4!")
+            while announce_team != expected_team:
+                jumpgap += 1
+                if jumpgap > 1:
+                    print(expected_team + " is ALSO in the Top 4!")
+                
+                TOP_FOUR.append(expected_team)
+                expected_team = LOTTERY_ORDER[expected_team_num]
+                expected_team_num -= 1
+    else:
+        while expected_team_num >= 0:
+            expected_team = LOTTERY_ORDER[expected_team_num]
+            TOP_FOUR.append(expected_team)
+            expected_team_num -= 1
+            
+print(TOP_FOUR)
