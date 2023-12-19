@@ -48,10 +48,14 @@ def get_record(team, abv):
     return label + ": " + str(w) + "-" + str(l)
 
 def play_game(away_team, home_team):
-    time.sleep(1)
+    winner_number = 0
+    if not test:
+        time.sleep(1)
 
-    np.random.seed(int(time.time()))
-    winner_number = np.random.randint(0, 100)
+        np.random.seed(int(time.time()))
+        winner_number = np.random.randint(0, 100)
+    else:
+        winner_number = random.randint(0, 99)
 
     if winner_number >= 50:
         result_str = away_team + " beat " + home_team
@@ -77,10 +81,12 @@ def play_game(away_team, home_team):
 # Main Script
 parser = argparse.ArgumentParser()
 parser.add_argument('-s', '--schedule' , help='the text file for the schedule in the format YYYY (i.e 2023)')
+parser.add_argument('--test', action=argparse.BooleanOptionalAction, default=False)
 
 try:
     args = parser.parse_args()
     schedule = args.schedule
+    test = args.test
 except:
     print("No schedule given.")
     exit()
@@ -96,9 +102,10 @@ except:
     print("Invalid schedule given.")
     exit()
 
-print("Simulating regular season...")
-time.sleep(1)
-print("This will take approximately 1 minute")
+if not test:
+    print("Simulating regular season...")
+    time.sleep(1)
+    print("This will take approximately 1 minute")
 
 GAMES_LEFT = 60
 for game in schedule_file:
@@ -110,26 +117,30 @@ for game in schedule_file:
 
 schedule_file.close()
 
-# Write team records to file
+if not test:
+    # Write team records to file
+    time_stamp = time.time()
+    output_name = "mlw_team_records_" + str(time_stamp) + ".txt"
+    record_output = open(output_name, "w")
 
-time_stamp = time.time()
-output_name = "mlw_team_records_" + str(time_stamp) + ".txt"
-record_output = open(output_name, "w")
+    for team in TEAMS:
+        record_string = get_record(team, False)
+        record_output.write(record_string)
+        record_output.write("\n")
+        print(record_string)
 
-for team in TEAMS:
-    record_string = get_record(team, False)
-    record_output.write(record_string)
-    record_output.write("\n")
-    print(record_string)
+    record_output.close()
 
-record_output.close()
+    # Write game results to file
+    output_name = "mlw_game_results_" + str(time_stamp) + ".txt"
+    results_output = open(output_name, "w")
 
-# Write game results to file
-output_name = "mlw_game_results_" + str(time_stamp) + ".txt"
-results_output = open(output_name, "w")
+    for game in GAME_RESULTS:
+        results_output.write(game)
+        results_output.write("\n")
 
-for game in GAME_RESULTS:
-    results_output.write(game)
-    results_output.write("\n")
-
-results_output.close()
+    results_output.close()
+else:
+    for team in TEAMS:
+        record_string = get_record(team, False)
+        print(record_string)
