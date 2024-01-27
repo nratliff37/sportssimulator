@@ -9,7 +9,7 @@ GAMES_LEFT = 0
 
 # Function Definitions
 def create_teams():
-    teams_file = open("mario_teams.txt", "r")
+    teams_file = open("mhl_teams.txt", "r")
 
     for team in teams_file:
         team_pair = team.split(", ")
