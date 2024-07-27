@@ -9,7 +9,7 @@ GAMES_LEFT = 0
 
 # Function Definitions
 def create_teams():
-    teams_file = open("mba_teams.txt", "r")
+    teams_file = open("mss_teams.txt", "r")
 
     for team in teams_file:
         team_pair = team.split(", ")
@@ -78,12 +78,17 @@ def play_game(away_team, home_team):
 
 # Main Script
 parser = argparse.ArgumentParser()
-parser.add_argument('-s', '--schedule' , help='the text file for the schedule in the format of the league acronym (i.e. mhl)')
 parser.add_argument('--test', action=argparse.BooleanOptionalAction, default=False)
+
+season = int(input("Enter the Season Number: "))
+schedule_ext = ""
+if season % 2:
+    schedule_ext = "odd"
+else:
+    schedule_ext = "even"
 
 try:
     args = parser.parse_args()
-    schedule = args.schedule
     test = args.test
 except:
     print("No schedule given.")
@@ -94,18 +99,18 @@ create_teams()
 
 # Read the schedule file and parse through the games
 try:
-    file_path = ".\schedules\\" + schedule + "_schedule.txt"
+    file_path = ".\schedules\mss_schedule_" + schedule_ext + ".txt"
     schedule_file = open(file_path, "r")
 except:
-    print("Invalid schedule given.")
+    print("schedules\mss_schedule.txt is missing. Exiting program...")
     exit()
 
 if not test:
     print("Simulating regular season...")
     time.sleep(1)
-    print("This will take approximately 4 minutes")
+    print("This will take 6 minutes")
 
-GAMES_LEFT = 32 * 6
+GAMES_LEFT = 60 * 6
 for game in schedule_file:
     game_teams = game.split(" @ ")
     away_team = game_teams[0]
@@ -127,7 +132,7 @@ schedule_file.close()
 if not test:
     # Write team records to file
     time_stamp = time.time()
-    output_name = "mba_team_records_" + str(time_stamp) + ".txt"
+    output_name = "mss_team_records_" + str(time_stamp) + ".txt"
     record_output = open(output_name, "w")
 
     for team in TEAMS:
@@ -139,7 +144,7 @@ if not test:
     record_output.close()
 
     # Write game results to file
-    output_name = "mba_game_results_" + str(time_stamp) + ".txt"
+    output_name = "mss_game_results_" + str(time_stamp) + ".txt"
     results_output = open(output_name, "w")
 
     for game in GAME_RESULTS:

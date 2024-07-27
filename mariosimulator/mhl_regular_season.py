@@ -130,7 +130,7 @@ for game in schedule_file:
     play_game(away_team, home_team)
 
     GAMES_LEFT -= 1
-    if GAMES_LEFT % 60 == 0:
+    if GAMES_LEFT % 60 == 0 and not test:
         minutes_left = int(GAMES_LEFT / 60)
 
         if minutes_left > 1:
