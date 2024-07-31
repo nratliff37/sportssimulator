@@ -176,85 +176,86 @@ def play_game(away_team, home_team):
     print(result_str)
     GAME_RESULTS.append(result_str)
 
+def print_standings_section(section_arr):
+    team_count = 0
+    for team in section_arr:
+        name = team["name"]
+        wins = str(team["wins"])
+        losses = str(team["losses"])
+        percentage = team["pct"]
+        games_behind = '{:.1f}'.format(0) if team_count else "-"
+        division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
+        conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
+        point_diff = str(team["point_diff"])
+
+        team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{: <3}'.format(games_behind) + '  '
+        team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
+        print(team_line)
+        team_count += 1
+
 def print_standings():
     eastern_conference = []
     western_conference = []
+    northeast_division = []
+    southeast_division = []
+    northwest_division = []
+    southwest_division = []
+    league = []
     for team in TEAMS:
         team_obj = TEAMS[team]
         conf = team_obj["conference"]
+        div = team_obj["division"]
 
+        league.append(team_obj)
         if conf == "East":
             eastern_conference.append(team_obj)
+
+            if div == "Northeast":
+                northeast_division.append(team_obj)
+            else:
+                southeast_division.append(team_obj)
         else:
             western_conference.append(team_obj)
+
+            if div == "Northwest":
+                northwest_division.append(team_obj)
+            else:
+                southwest_division.append(team_obj)
 
     # TODO
     # SORT THE STANDINGS
 
+    heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
+    heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
     if view == "conf":
         print("\nEastern Conference")
-        heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
-        heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
         print(heading)
-        
-        for team in eastern_conference:
-            name = team["name"]
-            wins = str(team["wins"])
-            losses = str(team["losses"])
-            percentage = team["pct"]
-            games_behind = 0.0
-            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
-            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
-            point_diff = str(team["point_diff"])
-
-            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
-            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
-            print(team_line)
+        print_standings_section(eastern_conference)
 
         print("\nWestern Conference")
         print(heading)
-        for team in western_conference:
-            name = team["name"]
-            wins = str(team["wins"])
-            losses = str(team["losses"])
-            percentage = team["pct"]
-            games_behind = 0.0
-            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
-            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
-            point_diff = str(team["point_diff"])
-
-            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
-            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
-            print(team_line)
+        print_standings_section(western_conference)
     elif view == "div":
-        pass
-    elif view == "league":
-        league = []
-        for team in TEAMS:
-            team_obj = TEAMS[team]
-            league.append(team_obj)
-
-        # TODO
-        # SORT THE STANDINGS
-
-        print("\nMBA")
-        heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
-        heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
+        print("\nNortheast")
         print(heading)
-        
-        for team in league:
-            name = team["name"]
-            wins = str(team["wins"])
-            losses = str(team["losses"])
-            percentage = team["pct"]
-            games_behind = 0.0
-            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
-            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
-            point_diff = str(team["point_diff"])
+        print_standings_section(northeast_division)
 
-            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
-            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
-            print(team_line)        
+        print("\nSoutheast")
+        print(heading)
+        print_standings_section(southeast_division)
+
+        print("\nNorthwest")
+        print(heading)
+        print_standings_section(northwest_division)
+
+        print("\nSouthwest")
+        print(heading)
+        print_standings_section(southwest_division)
+        
+    elif view == "league":
+        print("\nMBA")
+        print(heading)
+        print_standings_section(league)   
 
 # Main Script
 parser = argparse.ArgumentParser()
