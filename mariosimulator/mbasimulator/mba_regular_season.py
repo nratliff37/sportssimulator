@@ -8,7 +8,7 @@ import sys
 TEAMS = {} # The dictionary that keeps track of team records
 GAME_RESULTS = [] # The list of every game results that are written to a file, to be checked for head to head tie breaking
 GAMES_LEFT = 0
-STANDINGS_DATA = []
+HEAD_TO_HEAD = {}
 
 # Function Definitions
 def create_teams():
@@ -54,21 +54,26 @@ def create_teams():
         
         team_counter += 1
 
+    for team1 in TEAMS:
+        HEAD_TO_HEAD[team1] = {}
+        for team2 in TEAMS:
+            HEAD_TO_HEAD[team1][team2] = (0, 0)
+
     teams_file.close()
 
 def update_percentages(team, div, conf):
     w, l = team["wins"], team["losses"]
-    team["pct"] = float(int(float(w / (w + l)) * 1000) / 1000)
+    team["pct"] = float(w / (w + l))
 
     if conf:
         conf_w, conf_l = team["conference_wins"], team["conference_losses"]
-        team["conference_pct"] = float(int(float(conf_w / (conf_w + conf_l)) * 1000) / 1000)
+        team["conference_pct"] = float(conf_w / (conf_w + conf_l))
 
         if div:
             div_w, div_l = team["division_wins"], team["division_losses"]
-            team["division_pct"] = float(int(float(div_w / (div_w + div_l)) * 1000) / 1000)
+            team["division_pct"] = float(div_w / (div_w + div_l))
 
-def add_win(team, div, conf, diff):
+def add_win(team, other_team, div, conf, diff):
     team_dict = TEAMS[team]
     team_dict["wins"] += 1
 
@@ -80,9 +85,15 @@ def add_win(team, div, conf, diff):
 
     team_dict["point_diff"] += diff
 
+    h2h_tuple = HEAD_TO_HEAD[team][other_team]
+    h2h_tuple_list = list(h2h_tuple)
+    h2h_tuple_list[0] += 1
+    h2h_updated_tuple = tuple(h2h_tuple_list)
+    HEAD_TO_HEAD[team][other_team] = h2h_updated_tuple
+
     update_percentages(team_dict, div, conf)
 
-def add_loss(team, div, conf, diff):
+def add_loss(team, other_team, div, conf, diff):
     team_dict = TEAMS[team]
     team_dict["losses"] += 1
 
@@ -93,6 +104,12 @@ def add_loss(team, div, conf, diff):
         team_dict["conference_losses"] += 1
 
     team_dict["point_diff"] -= diff
+
+    h2h_tuple = HEAD_TO_HEAD[team][other_team]
+    h2h_tuple_list = list(h2h_tuple)
+    h2h_tuple_list[1] += 1
+    h2h_updated_tuple = tuple(h2h_tuple_list)
+    HEAD_TO_HEAD[team][other_team] = h2h_updated_tuple
 
     update_percentages(team_dict, div, conf)
 
@@ -113,8 +130,8 @@ def record_result(winning_team, losing_team, point_diff):
     else:
         div = False
 
-    add_win(winning_team, div, conf, point_diff)
-    add_loss(losing_team, div, conf, point_diff)
+    add_win(winning_team, losing_team, div, conf, point_diff)
+    add_loss(losing_team, winning_team, div, conf, point_diff)
 
 def get_record(team, abv):
     team_data = TEAMS[team]
@@ -160,19 +177,89 @@ def play_game(away_team, home_team):
     GAME_RESULTS.append(result_str)
 
 def print_standings():
+    eastern_conference = []
+    western_conference = []
+    for team in TEAMS:
+        team_obj = TEAMS[team]
+        conf = team_obj["conference"]
+
+        if conf == "East":
+            eastern_conference.append(team_obj)
+        else:
+            western_conference.append(team_obj)
+
+    # TODO
+    # SORT THE STANDINGS
+
     if view == "conf":
         print("\nEastern Conference")
-        print("\n\nWestern Conference")
-        print(TEAMS)
+        heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
+        heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
+        print(heading)
+        
+        for team in eastern_conference:
+            name = team["name"]
+            wins = str(team["wins"])
+            losses = str(team["losses"])
+            percentage = team["pct"]
+            games_behind = 0.0
+            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
+            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
+            point_diff = str(team["point_diff"])
+
+            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
+            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
+            print(team_line)
+
+        print("\nWestern Conference")
+        print(heading)
+        for team in western_conference:
+            name = team["name"]
+            wins = str(team["wins"])
+            losses = str(team["losses"])
+            percentage = team["pct"]
+            games_behind = 0.0
+            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
+            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
+            point_diff = str(team["point_diff"])
+
+            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
+            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
+            print(team_line)
     elif view == "div":
         pass
     elif view == "league":
-        pass        
+        league = []
+        for team in TEAMS:
+            team_obj = TEAMS[team]
+            league.append(team_obj)
+
+        # TODO
+        # SORT THE STANDINGS
+
+        print("\nMBA")
+        heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
+        heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
+        print(heading)
+        
+        for team in league:
+            name = team["name"]
+            wins = str(team["wins"])
+            losses = str(team["losses"])
+            percentage = team["pct"]
+            games_behind = 0.0
+            division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
+            conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
+            point_diff = str(team["point_diff"])
+
+            team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{:.1f}'.format(games_behind) + '  '
+            team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
+            print(team_line)        
 
 # Main Script
 parser = argparse.ArgumentParser()
 parser.add_argument('--test', action=argparse.BooleanOptionalAction, default=False, help="Use this to run in test mode (Runs instantly and skips file writing).")
-parser.add_argument('-v', '--view', type=str, default='conf', help="The view to use for standings (conf, div, league)")
+parser.add_argument('-v', '--view', type=str, default='conf', help="The view to use for standings (conf, div, league).")
 
 try:
     args = parser.parse_args()
