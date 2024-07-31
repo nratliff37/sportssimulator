@@ -9,7 +9,7 @@ GAMES_LEFT = 0
 
 # Function Definitions
 def create_teams():
-    teams_file = open("mhl_teams.txt", "r")
+    teams_file = open("mss_teams.txt", "r")
 
     for team in teams_file:
         team_pair = team.split(", ")
@@ -20,7 +20,6 @@ def create_teams():
         TEAMS[abv]["name"] = name
         TEAMS[abv]["wins"] = 0
         TEAMS[abv]["losses"] = 0
-        TEAMS[abv]["otl"] = 0
 
     teams_file.close()
 
@@ -28,13 +27,9 @@ def add_win(team):
     team_dict = TEAMS[team]
     team_dict["wins"] += 1
 
-def add_loss(team, ot):
+def add_loss(team):
     team_dict = TEAMS[team]
-
-    if ot:
-        team_dict["otl"] += 1
-    else:
-        team_dict["losses"] += 1
+    team_dict["losses"] += 1
 
 def get_record(team, abv):
     team_data = TEAMS[team]
@@ -42,8 +37,6 @@ def get_record(team, abv):
     name = team_data["name"]
     w = team_data["wins"]
     l = team_data["losses"]
-    otl = team_data["otl"]
-    pts = 2 * w + otl
 
     label = ""
     if abv:
@@ -51,37 +44,25 @@ def get_record(team, abv):
     else:
         label = name
 
-    return label + ": " + str(w) + "-" + str(l) + "-" + str(otl) + "; " + str(pts) + " PTS"
-
-def get_points(team):
-    team_dict = TEAMS[team]
-    w = team_dict["wins"]
-    otl = team_dict["otl"]
-    
-    return 2 * w + otl
+    return label + ": " + str(w) + "-" + str(l)
 
 def play_game(away_team, home_team):
-    time.sleep(1)
+    if not test:
+        time.sleep(1)
 
-    np.random.seed(int(time.time()))
-    winner_number = np.random.randint(0, 100)
-    ot_number = np.random.randint(0, 5)
-    ot = (ot_number == 4)
-
-    home_points = get_points(home_team)
-    away_points = get_points(away_team)
+        np.random.seed(int(time.time()))
+        winner_number = np.random.randint(0, 100)
+    else:
+        winner_number = random.randint(0, 99)
     
     if winner_number >= 50:
         result_str = away_team + " beat " + home_team
         add_win(away_team)
-        add_loss(home_team, ot)
+        add_loss(home_team)
     else:
         result_str = home_team + " beat " + away_team
         add_win(home_team)
-        add_loss(away_team, ot)
-
-    if ot:
-        result_str += " in OT"
+        add_loss(away_team)
 
     away_record = get_record(away_team, True)
     home_record = get_record(home_team, True)
@@ -97,11 +78,18 @@ def play_game(away_team, home_team):
 
 # Main Script
 parser = argparse.ArgumentParser()
-parser.add_argument('-s', '--schedule' , help='the text file for the schedule in the format of the league acronym (i.e. mhl)')
+parser.add_argument('--test', action=argparse.BooleanOptionalAction, default=False)
+
+season = int(input("Enter the Season Number: "))
+schedule_ext = ""
+if season % 2:
+    schedule_ext = "odd"
+else:
+    schedule_ext = "even"
 
 try:
     args = parser.parse_args()
-    schedule = args.schedule
+    test = args.test
 except:
     print("No schedule given.")
     exit()
@@ -111,17 +99,18 @@ create_teams()
 
 # Read the schedule file and parse through the games
 try:
-    file_path = ".\schedules\\" + schedule + "_schedule.txt"
+    file_path = ".\mss_schedule_" + schedule_ext + ".txt"
     schedule_file = open(file_path, "r")
 except:
-    print("Invalid schedule given.")
+    print("mss_schedule_" + schedule_ext + ".txt is missing. Exiting program...")
     exit()
 
-print("Simulating regular season...")
-time.sleep(1)
-print("This will take approximately 4 minutes")
+if not test:
+    print("Simulating regular season...")
+    time.sleep(1)
+    print("This will take 6 minutes")
 
-GAMES_LEFT = 32 * 6
+GAMES_LEFT = 60 * 6
 for game in schedule_file:
     game_teams = game.split(" @ ")
     away_team = game_teams[0]
@@ -140,26 +129,30 @@ for game in schedule_file:
 
 schedule_file.close()
 
-# Write team records to file
+if not test:
+    # Write team records to file
+    time_stamp = time.time()
+    output_name = "mss_team_records_" + str(time_stamp) + ".txt"
+    record_output = open(output_name, "w")
 
-time_stamp = time.time()
-output_name = "mhl_team_records_" + str(time_stamp) + ".txt"
-record_output = open(output_name, "w")
+    for team in TEAMS:
+        record_string = get_record(team, False)
+        record_output.write(record_string)
+        record_output.write("\n")
+        print(record_string)
 
-for team in TEAMS:
-    record_string = get_record(team, False)
-    record_output.write(record_string)
-    record_output.write("\n")
-    print(record_string)
+    record_output.close()
 
-record_output.close()
+    # Write game results to file
+    output_name = "mss_game_results_" + str(time_stamp) + ".txt"
+    results_output = open(output_name, "w")
 
-# Write game results to file
-output_name = "mhl_game_results_" + str(time_stamp) + ".txt"
-results_output = open(output_name, "w")
+    for game in GAME_RESULTS:
+        results_output.write(game)
+        results_output.write("\n")
 
-for game in GAME_RESULTS:
-    results_output.write(game)
-    results_output.write("\n")
-
-results_output.close()
+    results_output.close()
+else:
+    for team in TEAMS:
+        record_string = get_record(team, False)
+        print(record_string)
