@@ -21,6 +21,7 @@ def create_teams():
         name = team_pair[1].rstrip('\n')
 
         TEAMS[abv] = {}
+        TEAMS[abv]["abbreviation"] = abv
         TEAMS[abv]["name"] = name
 
         conference = ""
@@ -176,6 +177,105 @@ def play_game(away_team, home_team):
     print(result_str)
     GAME_RESULTS.append(result_str)
 
+def break_two_way_tie(team1, team2, div):
+    # 1. Better winning percentage in games against each other
+    team1_key = team1["abbreviation"]
+    team2_key = team2["abbreviation"]
+    team1_h2h = HEAD_TO_HEAD[team1_key][team2_key]
+
+    team1_wins, team1_losses = team1_h2h[0], team1_h2h[1]
+
+    if team1_wins > team1_losses:
+        team_tuple = (team1, team2)
+        return team_tuple
+    elif team1_wins < team1_losses:
+        team_tuple = (team2, team1)
+        return team_tuple
+
+    if not div:
+        # 2. Division Leader wins a tie over a team not leading a division
+        pass
+    else:
+        # 3. Division won-lost percentage
+        team1_div_pct, team2_div_pct = team1["division_pct"], team2["division_pct"]
+        if team1_div_pct > team2_div_pct:
+            team_tuple = (team1, team2)
+            return team_tuple
+        elif team1_div_pct < team2_div_pct:
+            team_tuple = (team2, team1)
+            return team_tuple
+
+    # 4. Conference won-lost percentage
+    team1_conf_pct, team2_conf_pct = team1["conference_pct"], team2["conference_pct"]
+    if team1_conf_pct > team2_conf_pct:
+        team_tuple = (team1, team2)
+        return team_tuple
+    elif team1_conf_pct < team2_conf_pct:
+        team_tuple = (team2, team1)
+        return team_tuple
+
+    team_tuple = (team1, team2)
+    return team_tuple
+
+def break_multi_way_tie(teams, div):
+    return teams
+
+def sort_standings(unsorted_standings, div):
+    sorted_standings = []
+    num_teams = len(unsorted_standings)
+    # Sort by win percentage
+    unique_pcts_count = {}
+    while len(unsorted_standings):
+        team_to_place = {}
+        highest_pct = -1.000
+        for team in unsorted_standings:
+            pct = team["pct"]
+            
+
+            if pct > highest_pct:
+                highest_pct = pct
+                team_to_place = team
+        
+        hightest_pct_str = '{:.3f}'.format(highest_pct)
+        try:
+            unique_pcts_count[hightest_pct_str] += 1
+        except:
+            unique_pcts_count[hightest_pct_str] = 1
+
+        unsorted_standings.remove(team_to_place)
+        sorted_standings.append(team_to_place)
+
+    if len(unique_pcts_count) == num_teams:
+        return sorted_standings
+
+    sorted_standings_after_tie = []
+    # Determine teams that are tied and break the tie
+    team_count = 0
+    for pct in unique_pcts_count:
+        count = unique_pcts_count[pct]
+
+        tie_broken_teams = []
+        if count == 1:
+            team = sorted_standings[team_count]
+            team_count += 1
+            tie_broken_teams.append(team)
+        elif count == 2:
+            team1 = sorted_standings[team_count]
+            team2 = sorted_standings[team_count + 1]
+            team_count += 2
+            tie_broken_teams = break_two_way_tie(team1, team2, div)
+        elif count > 2:
+            tied_teams = []
+            for i in range(count):
+                team = sorted_standings[team_count]
+                tied_teams.append(team)
+                team_count += 1
+            tie_broken_teams = break_multi_way_tie(tied_teams, div)
+        sorted_standings_after_tie += tie_broken_teams
+
+
+    return sorted_standings_after_tie
+
 def print_standings_section(section_arr):
     team_count = 0
     for team in section_arr:
@@ -186,9 +286,10 @@ def print_standings_section(section_arr):
         games_behind = '{:.1f}'.format(0) if team_count else "-"
         division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
         conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
-        point_diff = str(team["point_diff"])
+        point_diff_int = team["point_diff"]
+        point_diff = str(point_diff_int) if point_diff_int < 0 else "+" + str(point_diff_int)
 
-        team_line = '{: <20}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{: <3}'.format(games_behind) + '  '
+        team_line =  '{: <4}'.format(str(team_count + 1) + ".") + '{: <26}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{: <3}'.format(games_behind) + '  '
         team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
         print(team_line)
         team_count += 1
@@ -222,10 +323,15 @@ def print_standings():
             else:
                 southwest_division.append(team_obj)
 
-    # TODO
-    # SORT THE STANDINGS
+    northeast_division = sort_standings(northeast_division, True)
+    southeast_division = sort_standings(southeast_division, True)
+    northwest_division = sort_standings(northwest_division, True)
+    southwest_division = sort_standings(southwest_division, True)
+    eastern_conference = sort_standings(eastern_conference, False)
+    western_conference = sort_standings(western_conference, False)
+    league = sort_standings(league, False)
 
-    heading = '{: <20}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
+    heading = '{: <4}'.format("") + '{: <26}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
     heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
     if view == "conf":
         print("\nEastern Conference")
