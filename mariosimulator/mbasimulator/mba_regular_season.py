@@ -52,6 +52,7 @@ def create_teams():
         TEAMS[abv]["division_losses"] = 0
         TEAMS[abv]["division_pct"] = 0.000
         TEAMS[abv]["point_diff"] = 0
+        TEAMS[abv]["streak"] = "-"
         
         team_counter += 1
 
@@ -74,6 +75,25 @@ def update_percentages(team, div, conf):
             div_w, div_l = team["division_wins"], team["division_losses"]
             team["division_pct"] = float(div_w / (div_w + div_l))
 
+def update_streak(team, win):
+    streak = team["streak"]
+    streak_type = streak[0]
+    if win:
+        if streak_type == "-" or streak_type == "L":
+            team["streak"] = "W1"
+        else:
+            length = int(streak[1:])
+            length += 1
+            team["streak"] = "W" + str(length)
+    else:
+        if streak_type == "-" or streak_type == "W":
+            team["streak"] = "L1"
+        else:
+            length = int(streak[1:])
+            length += 1
+            team["streak"] = "L" + str(length)
+
+
 def add_win(team, other_team, div, conf, diff):
     team_dict = TEAMS[team]
     team_dict["wins"] += 1
@@ -93,6 +113,7 @@ def add_win(team, other_team, div, conf, diff):
     HEAD_TO_HEAD[team][other_team] = h2h_updated_tuple
 
     update_percentages(team_dict, div, conf)
+    update_streak(team_dict, True)
 
 def add_loss(team, other_team, div, conf, diff):
     team_dict = TEAMS[team]
@@ -113,6 +134,7 @@ def add_loss(team, other_team, div, conf, diff):
     HEAD_TO_HEAD[team][other_team] = h2h_updated_tuple
 
     update_percentages(team_dict, div, conf)
+    update_streak(team_dict, False)
 
 def record_result(winning_team, losing_team, point_diff):
     winning_team_dict = TEAMS[winning_team]
@@ -283,14 +305,27 @@ def print_standings_section(section_arr):
         wins = str(team["wins"])
         losses = str(team["losses"])
         percentage = team["pct"]
-        games_behind = '{:.1f}'.format(0) if team_count else "-"
+
+        games_behind_str = "-"
+        games_behind = 0.0
+        if team_count:
+            leader_wins = section_arr[0]["wins"]
+            leader_losses = section_arr[0]["losses"]
+
+            wins_int = team["wins"]
+            losses_int = team["losses"]
+
+            games_behind = float(((losses_int - leader_losses) + (leader_wins - wins_int)) / 2)
+            games_behind_str = '{:.1f}'.format(games_behind) if games_behind else "-"
+        
         division_record = str(team["division_wins"]) + "-" + str(team["division_losses"])
         conference_record = str(team["conference_wins"]) + "-" + str(team["conference_losses"])
         point_diff_int = team["point_diff"]
         point_diff = str(point_diff_int) if point_diff_int < 0 else "+" + str(point_diff_int)
+        streak = team["streak"]
 
-        team_line =  '{: <4}'.format(str(team_count + 1) + ".") + '{: <26}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{: <3}'.format(games_behind) + '  '
-        team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff)
+        team_line =  '{: <4}'.format(str(team_count + 1) + ".") + '{: <26}'.format(name) + '{: <3}'.format(wins) + '{: <3}'.format(losses) + '{:.3f}'.format(percentage) + ' ' + '{: <3}'.format(games_behind_str) + '  '
+        team_line += '{: <4}'.format(division_record) + '{: <6}'.format(conference_record) + '{: <5}'.format(point_diff) + '{: <4}'.format(streak)
         print(team_line)
         team_count += 1
 
@@ -332,7 +367,7 @@ def print_standings():
     league = sort_standings(league, False)
 
     heading = '{: <4}'.format("") + '{: <26}'.format("Team") + '{: <3}'.format("W") + '{: <3}'.format("L") + '{: <6}'.format("PCT") + '{: <5}'.format("GB")
-    heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF")
+    heading += '{: <4}'.format("DIV") + '{: <6}'.format("CONF") + '{: <5}'.format("DIFF") + '{: <4}'.format("STRK")
     if view == "conf":
         print("\nEastern Conference")
         print(heading)
