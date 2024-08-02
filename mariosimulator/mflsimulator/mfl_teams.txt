@@ -1,0 +1,12 @@
+BSR, Bowser Monsters
+DID, Diddy Monkeys
+YSH, Yoshi Eggs
+BIR, Birdo Bows
+BJR, Bowser Jr. Rookies
+DK, DK Wilds
+LUI, Luigi Knights
+PEA, Peach Monarchs
+WAL, Waluigi Spitballs
+DSY, Daisy Flowers
+MAR, Mario Fireballs
+WAR, Wario Muscles
