@@ -10,6 +10,10 @@ GAME_RESULTS = [] # The list of every game results that are written to a file, t
 GAMES_LEFT = 0
 HEAD_TO_HEAD = {}
 
+# Conference data that never gets sorted
+EASTERN_CONFERENCE_RAW_DATA = []
+WESTERN_CONFERENCE_RAW_DATA = []
+
 # Function Definitions
 def create_teams():
     teams_file = open("mba_teams.txt", "r")
@@ -199,6 +203,81 @@ def play_game(away_team, home_team):
     print(result_str)
     GAME_RESULTS.append(result_str)
 
+def get_playoff_teams_with_tie(standings):
+    sorted_standings = []
+    num_teams = len(standings)
+    # Sort by win percentage
+    unique_pcts_count = {}
+    while len(standings):
+        team_to_place = {}
+        highest_pct = -1.000
+        for team in standings:
+            pct = team["pct"]
+            
+
+            if pct > highest_pct:
+                highest_pct = pct
+                team_to_place = team
+        
+        hightest_pct_str = '{:.3f}'.format(highest_pct)
+        try:
+            unique_pcts_count[hightest_pct_str] += 1
+        except:
+            unique_pcts_count[hightest_pct_str] = 1
+
+        standings.remove(team_to_place)
+        sorted_standings.append(team_to_place)
+
+    filtered_standings = []
+    for i in range(len(sorted_standings)): # Should always be 6
+        fourth_team = sorted_standings[3]
+        team = sorted_standings[i]
+        if i < 4:
+            # Team currently qualifies for playoffs
+            filtered_standings.append(team)
+            continue
+
+        fourth_pct = fourth_team["pct"]
+        ith_pct = team["pct"]
+        if fourth_pct == ith_pct:
+            # Team "qualifies" for playoffs on tie
+            filtered_standings.append(team)
+        else:
+            #This team and every team below gets filtered out
+            break
+
+    return filtered_standings
+
+def get_combined_h2h_winner(raw_standings, team1_key, team2_key):
+    conf_playoff_teams = get_playoff_teams_with_tie(raw_standings)
+    team1_h2h_list = HEAD_TO_HEAD[team1_key]
+    team2_h2h_list = HEAD_TO_HEAD[team2_key]
+    team1_h2h_count = (0, 0)
+    team2_h2h_count = (0, 0)
+    for team in conf_playoff_teams:
+        team_abv = team["abbreviation"]
+        team1_against_team = team1_h2h_list[team_abv]
+        team2_against_team = team2_h2h_list[team_abv]
+
+        team1_wins_over_team = team1_against_team[0]
+        team1_losses_to_team = team1_against_team[1]
+        team1_h2h_count = (team1_h2h_count[0] + team1_wins_over_team, team1_h2h_count[1] + team1_losses_to_team)
+
+        team2_wins_over_team = team2_against_team[0]
+        team2_losses_to_team = team2_against_team[1]
+        team2_h2h_count = (team2_h2h_count[0] + team2_wins_over_team, team2_h2h_count[1] + team2_losses_to_team)
+
+    team1_playoff_h2h_pct = float(team1_h2h_count[0] / (team1_h2h_count[0] + team1_h2h_count[1]))
+    team2_playoff_h2h_pct = float(team2_h2h_count[0] / (team2_h2h_count[0] + team2_h2h_count[1]))
+
+    if team1_playoff_h2h_pct > team2_playoff_h2h_pct:
+        return team1_key
+    elif team1_playoff_h2h_pct < team2_playoff_h2h_pct:
+        return team2_key
+    else:
+        return "Tie"
+
+
 def break_two_way_tie(team1, team2, div):
     # 1. Better winning percentage in games against each other
     team1_key = team1["abbreviation"]
@@ -236,10 +315,57 @@ def break_two_way_tie(team1, team2, div):
         team_tuple = (team2, team1)
         return team_tuple
 
-    team_tuple = (team1, team2)
-    return team_tuple
+    # 5. Better winning percentage against teams eligible for the playoffs in own conference (ties included)
+    conference = team1["conference"]
+    raw_standings = []
+    other_raw_standings = [] # Only needed if Step 5 remains in a tie
+    if conference == "East":
+        raw_standings = EASTERN_CONFERENCE_RAW_DATA
+        other_raw_standings = WESTERN_CONFERENCE_RAW_DATA
+    elif conference == "West":
+        raw_standings = WESTERN_CONFERENCE_RAW_DATA
+        other_raw_standings = EASTERN_CONFERENCE_RAW_DATA
+    else:
+        print("ERROR! Invalid conference.")
+        raise ValueError("Conference must be \"East\" or \"West\"")
 
-def break_multi_way_tie(teams, div):
+    tiebreak_5_winner = get_combined_h2h_winner(raw_standings, team1_key, team2_key)
+    if tiebreak_5_winner == team1_key:
+        team_tuple = (team1, team2)
+        return team_tuple
+    elif tiebreak_5_winner == team2_key:
+        team_tuple = (team2, team1)
+        return team_tuple
+
+    # 6. Better winning percentage against teams eligible for the playoffs in other conference (ties included)
+    tiebreak_6_winner = get_combined_h2h_winner(other_raw_standings, team1_key, team2_key)
+    if tiebreak_6_winner == team1_key:
+        team_tuple = (team1, team2)
+        return team_tuple
+    elif tiebreak_6_winner == team2_key:
+        team_tuple = (team2, team1)
+        return team_tuple
+    
+    # 7. Better point differential
+    team1_diff = team1["point_diff"]
+    team2_diff = team2["point_diff"]
+    if team1_diff > team2_diff:
+        team_tuple = (team1, team2)
+        return team_tuple
+    elif team1_diff < team2_diff:
+        team_tuple = (team2, team1)
+        return team_tuple
+
+    # 8. Coin Toss
+    coin_toss = random.randint(0, 1)
+    if coin_toss:
+        team_tuple = (team2, team1)
+        return team_tuple
+    else:
+        team_tuple = (team1, team2)
+        return team_tuple
+
+def sort_multi_way_division_winner(teams):
     return teams
 
 def sort_standings(unsorted_standings, div):
@@ -270,6 +396,12 @@ def sort_standings(unsorted_standings, div):
     if len(unique_pcts_count) == num_teams:
         return sorted_standings
 
+    # If division leader stands alone in division mode, return
+    pct_count_list = list(unique_pcts_count.values())
+    div_leader_pct_count = pct_count_list[0] # Since pcts are sorted
+    if div and div_leader_pct_count == 1:
+        return sorted_standings
+
     sorted_standings_after_tie = []
     # Determine teams that are tied and break the tie
     team_count = 0
@@ -285,14 +417,25 @@ def sort_standings(unsorted_standings, div):
             team1 = sorted_standings[team_count]
             team2 = sorted_standings[team_count + 1]
             team_count += 2
-            tie_broken_teams = break_two_way_tie(team1, team2, div)
+            if div:
+                tie_broken_teams = break_two_way_tie(team1, team2, div)
+                # For division, this is 2 of 3 teams, so we can add the last team to the tie broken
+                # teams and return the array
+                sorted_standings_after_tie += tie_broken_teams
+                sorted_standings_after_tie.append(sorted_standings[2])
+                return sorted_standings_after_tie
         elif count > 2:
             tied_teams = []
             for i in range(count):
                 team = sorted_standings[team_count]
                 tied_teams.append(team)
                 team_count += 1
-            tie_broken_teams = break_multi_way_tie(tied_teams, div)
+            if div:
+                tie_broken_teams = sort_multi_way_division_winner(tied_teams)
+                # For division, this can only be 3 teams, so the whole array can be returned
+                # once the division winner is determined
+                sorted_standings_after_tie += tie_broken_teams
+                return sorted_standings_after_tie
         sorted_standings_after_tie += tie_broken_teams
 
 
@@ -345,6 +488,7 @@ def print_standings():
         league.append(team_obj)
         if conf == "East":
             eastern_conference.append(team_obj)
+            EASTERN_CONFERENCE_RAW_DATA.append(team_obj)
 
             if div == "Northeast":
                 northeast_division.append(team_obj)
@@ -352,16 +496,19 @@ def print_standings():
                 southeast_division.append(team_obj)
         else:
             western_conference.append(team_obj)
+            WESTERN_CONFERENCE_RAW_DATA.append(team_obj)
 
             if div == "Northwest":
                 northwest_division.append(team_obj)
             else:
                 southwest_division.append(team_obj)
 
+    # Next four calls only sort up until the division winner is found
     northeast_division = sort_standings(northeast_division, True)
     southeast_division = sort_standings(southeast_division, True)
     northwest_division = sort_standings(northwest_division, True)
     southwest_division = sort_standings(southwest_division, True)
+
     eastern_conference = sort_standings(eastern_conference, False)
     western_conference = sort_standings(western_conference, False)
     league = sort_standings(league, False)
