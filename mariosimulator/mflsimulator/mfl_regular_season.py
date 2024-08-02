@@ -110,7 +110,7 @@ if not test:
     time.sleep(1)
     print("This will take 2 minutes")
 
-GAMES_LEFT = 60 * 6
+GAMES_LEFT = 60 * 2
 for game in schedule_file:
     game_teams = game.split(" @ ")
     away_team = game_teams[0]
